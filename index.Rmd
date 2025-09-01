@@ -1,13 +1,26 @@
 ---
-title: "Git Test #1"
+title: "Introduction to R for Biologists"
 author: "Roseliz Ríos Alemar"
+subtitle: "Biology 6994/6997 - Grad Students"
 date: "2025-08-26"
-output: html_document
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+# First level heading
+## Second level heading
+### Third level heading
+#### Fourth level heading
+
+```{r}
+knitr::include_graphics("~/Desktop/Intro R/FotoR.JPG")
+```
+
+
 
 ## R Markdown
 
