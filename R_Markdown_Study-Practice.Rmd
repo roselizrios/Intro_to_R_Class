@@ -1,0 +1,80 @@
+---
+title: "R Markdown"
+author: "Roseliz"
+date: "2025-09-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+--------------------------------------------------------
+
+# MARKDOWN NOTES
+## Chunks
+```{r}
+#Created with command + option + I
+```
+## YAML
+```{r}
+#Set up date
+#Change theme
+```
+## Headings
+# First Level Heading
+## Second Level Heading
+### Third Level Heading
+#### Fourth Level Heading
+## Paragraphs and Line Break
+  This is the first line. <br>
+  This is the second line.
+  <br>
+  <br>
+  <br>
+  This is a new paragraph.
+  
+## Adding Emphasis
+  I am **very** excited about the __class__ tutorials. #bold
+  This *italics* and this *italics* #italics
+  
+## Making Lists
+- Fruits
+  * Apples
+  * Orange
+  * Grapes
+- Dairy
+  * Milk
+  * Cheese
+
+## To do list
+1. Finish Markdown
+2. Go to grocery store
+3. Prepare lunch
+
+## Tables
+| Heading 1 | Heading 2 | Heading 3 |
+|-----------|-----------|-----------|
+| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
+| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
+| Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |
