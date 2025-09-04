@@ -48,5 +48,5 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 
 ## R Tutorials Prompts:
-### [RTutorial1](/Users/roseliz/Desktop/Intro R/Intro_to_R_Class/Assignments/RTutorial1.Rmd)
+### [RTutorial1](Intro_to_R_Class/Assignments/RTutorial1.html)
 
