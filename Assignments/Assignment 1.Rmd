@@ -1,26 +1,13 @@
 ---
-title: "Introduction to R for Biologists"
-author: "Roseliz Ríos Alemar"
-subtitle: "Biology 6994/6997 - Grad Students"
-date: "2025-08-26"
-output:
-  prettydoc::html_pretty:
-    theme: cayman
-    highlight: github
+title: "Assignment 1"
+author: "Roseliz"
+date: "2025-09-04"
+output: html_document
 ---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-# First level heading
-## Second level heading
-### Third level heading
-#### Fourth level heading
-
-```{r}
-knitr::include_graphics("~/Desktop/Intro R/FotoR.JPG")
-```
-
-
 
 ## R Markdown
 
@@ -41,7 +28,3 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-
-```{r}
-
-```
