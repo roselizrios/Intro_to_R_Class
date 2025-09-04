@@ -9,22 +9,77 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Assigning values
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Q1. Create an object called height with the value 175. Print it. (Crea un objeto llamado height con el valor 175. Muéstralo en pantalla.)
+```{r}
+height <- 175
+height
+```
+## Simple math
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Q2. Calculate the result of 25 * 4 - 10. (Calcula el resultado de 25 * 4 - 10.)
+```{r}
+25*4 -10
+```
+## Using functions
 
-```{r cars}
-summary(cars)
+Q3. Use the function sqrt() to calculate the square root of 81. (Usa la función sqrt() para calcular la raíz cuadrada de 81.)
+```{r}
+sqrt(81)
+```
+## Character objects
+
+Q4. Assign the phrase “R is fun!” to an object called message. Print it. (Asigna la frase “R is fun!” a un objeto llamado message. Muéstralo.)
+```{r}
+message <- "R is fun!"
+message
+```
+## Object manipulation
+
+Q5. Create two objects a <- 10 and b <- 5. Calculate their sum and store it in c. (Crea dos objetos a <- 10 y b <- 5. Calcula su suma y guárdala en c.)
+```{r}
+a <- 10
+b <- 5
+a + b
+c = a + b
+c
+```
+## Logical comparison
+
+Q6. Test whether 15 is greater than 20. (Verifica si 15 es mayor que 20.)
+```{r}
+15>20
+```
+## Checking classes
+
+Q7. Check the class of the object "Hello World". (Verifica la clase del objeto "Hello World".)
+```{r}
+my_obj1 <- "Hello world"
+my_obj1
+
+class(my_obj1)
+```
+## Code chunk options
+
+Q8. Run the following code chunk: <br>
+- Observe the warnings that appear. (Observa las advertencias que aparecen.) <br>
+- Modify the chunk options to suppress warnings without changing the code itself. (Modifica las opciones del chunk para apagar la advertencia sin cambiar el código.) <br>
+```{r, warning=FALSE}
+log(-1)
+```
+## Code chunk options
+
+Q9. Run the following code chunk: <br>
+- Observe the messages that appear. (Observa los mensajes que aparecen.) <br>
+- Modify the chunk options to suppress messages without changing the code itself. (Modifica las opciones del chunk para apagar mensajes sin cambiar el código.)
+```{r}
+library(dplyr)
+```
+## Help files
+
+Q10. Use R’s help system to find out what the function mean() does. (Usa el sistema de ayuda de R para averiguar qué hace la función mean())
+```{r}
+?mean()
 ```
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
