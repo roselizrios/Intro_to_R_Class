@@ -2,7 +2,7 @@
 title: "Introduction to R for Biologists"
 author: "Roseliz Ríos Alemar"
 subtitle: "Biology 6994/6997 - Grad Students"
-date: "2025-08-26"
+date: "`r format(Sys.time(), '%Y-%b-%d, %I:%M %p')`"
 output:
   prettydoc::html_pretty:
     theme: cayman
