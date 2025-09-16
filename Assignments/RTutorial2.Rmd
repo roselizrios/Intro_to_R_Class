@@ -1,0 +1,93 @@
+---
+title: "R Tutorial 2"
+author: "Roseliz Ríos Alemar"
+date: "`r format(Sys.time(), '%Y-%b-%d, %I:%M %p')`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Using functions/Usando funciones
+
+Q1. Convert the built-in dataset BOD to a list and print the list. Q1. Convierte el conjunto de datos BOD (predefinido en R) a una lista e imprime la lista.
+```{r}
+BOD_df <- as.data.frame(BOD) # BOD (Biochemical Oxygen Demand) is pre-defined
+BOD_df
+```
+## Converting matrix into DataFrame
+
+Q2. Convert the following data frame into a data frame and print the matrix. Q2. Convierte el siguiente data frame en un data frame e imprime la matriz.
+```{r}
+df1=data.frame(
+  "Name"=c("a", "b", "c", "d"),
+  "Age"=c(12, 34, 23, 67),
+  "BMI"=c(22, 12, 10, 11),
+  "Country"=c("Malaysia", "India", "Spain", "England"))
+print(df1)
+
+class(df1)
+```
+## Assesing 1st and 2nd rows
+
+Q3. Create a subset of the df dataset that includes only the first and second rows. Print the subset. Q3. Crea un subconjunto del df que incluya únicamente la primera y la segunda fila. Imprime el subconjunto
+```{r}
+df=data.frame(
+  A=c("Raju", "Kumar", "Chandru", "Deepak", "Raina", "Dhoni", "Hema", "Vandana", "Bela", "Anand"),
+  B=c(12,34,23,67,23,43,23,38,34,12),
+  C=c("M", "M", "M", "M", "M", "M", "F", "F", "F", "M"),
+  D=c("Malaysia", "India", "Spain", "England", "Malaysia", "Malaysia", "India", "Egypt", "Italy", "Peru"))
+
+names(df) <-c ("Name", "Age", "Gender", "Country")
+print(df)
+
+class(df)
+```
+## Assesing 1st and 2nd rows
+
+Q4.Create a subset of the df from Q3 that includes only the first and second columns. Print the subset. Q4. Crea un subconjunto del df de la Q3 que incluya únicamente la primera y la segunda columna. Imprime el subconjunto.
+```{r}
+subset <- df[, c("Name", "Age")]
+subset
+```
+## Sorting the dataframe
+
+Q5.Sort the df from Q3 by the Age column in ascending order. Print the sorted data frame. Q5. Ordena el df de la Q3 por la columna Age en orden ascendente. Imprime el data frame ordenado.
+```{r}
+df[order(df$Age), ]
+```
+## Adding a new column
+
+Q6. Add a new column called *Score* to the df from Q3 with the following values: 85, 90, 78, 88, 90, 92, 80, 90, 87, 100. Print the updated data frame. Q6. Agrega una nueva columna llamada *Score* al df de la Q3 con los siguientes valores: 85, 90, 78, 88, 90, 92, 80, 90, 87, 100. Imprime el data frame actualizado.
+```{r}
+df$Score <- c(85, 90, 78, 88, 90, 92, 80, 90, 87, 100)
+df
+```
+## Filtering rows with a condition
+
+Q7. From the df in Q3, create a subset where Age is greater than 30. Print the subset. Q7. Del df en Q3, crea un subconjunto donde Age sea mayor a 30. Imprime el subconjunto.
+```{r}
+subset_df <- df[df$Age > 30, ]
+print(subset_df)
+```
+## Renaming columns
+
+Q8.Rename the columns of df from Q3 as *Person, Years, Gender, and Nation*. Print the updated data frame. Renombra las columnas del df de la Q3 como Person, Years, Index y Nation. Imprime el data frame actualizado.
+```{r}
+colnames(df) <- c("Name (Person)", "Age (Years)", "Gender", "Country (Nation)")
+df
+```
+## Selecting multiple conditions
+
+Q9. From the df in Q2, select rows where Age is greater than 20 and BMI is less than 15. Print the subset. Q9. Del df de la Q2, selecciona las filas donde Age sea mayor a 20 y BMI menor a 15. Imprime el subconjunto.
+```{r}
+subset (df1, Age > 20 & BMI < 15)
+```
+## Summarizing a column
+
+Q10. Calculate the mean of the Age column from df in Q2. Print the result. Q10. Calcula la media de la columna Age del df de la Q2. Imprime el resultado.
+```{r}
+media <- mean(df1$Age)
+media
+```
