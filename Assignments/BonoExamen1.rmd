@@ -8,8 +8,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 ### Load libraries
-```{r}
-install.packages("readxl")
+```{r, message=FALSE}
+
+#install.packages("readxl")
 #install.packages("dplyr")
 
 library(readxl)
@@ -20,8 +21,39 @@ library(dplyr)
 ```{r}
 cereal <- read_excel("cereal.xlsx")
 head(cereal)
-
-print(cereal)
 ```
 
+### Five questions
 
+#### Question 1
+Extract rows 1 to 10 from the cereal data frame. (Extraiga las filas 1 a 10 del marco de datos cereal.)
+```{r}
+cereal[1:10,]
+cereal
+```
+
+#### Question 2
+Create a new data frame called Kelloggs that only contains rows where company == “K”. (Cree un nuevo marco de datos llamado Kelloggs que solo contenga las filas donde company == “K”.)
+```{r}
+Kelloggs <- cereal[cereal$company == "K", ]
+head(Kelloggs)
+```
+
+#### Question 3
+From the cereal data, extract the names of all cereals that have more than 10 grams of sugar. (Del conjunto de datos cereal, extraiga los nombres de todos los cereales que tienen más de 10 gramos de azúcar.)
+```{r}
+sugar <- cereal$name[cereal$sugars >10]
+sugar
+```
+
+#### Question 4
+Find the mean calories of all cereals in the dataset. (Encuentre las calorías promedio de todos los cereales en el conjunto de datos.)
+```{r}
+mean(cereal$calories)
+```
+
+#### Question 5
+Count how many cereals have fiber greater than or equal to 2 grams (Cuente cuántos cereales tienen fibra mayor o igual a 2 gramos.).
+```{r}
+length(cereal$fiber[cereal$fiber >= 2])
+```

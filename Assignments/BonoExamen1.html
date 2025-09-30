@@ -351,12 +351,116 @@ display: none;
 
 <h1 class="title toc-ignore">Bono Examen 1</h1>
 <h4 class="author">Roseliz Ríos-Alemar</h4>
-<h4 class="date">2025-Sep-30, 03:55 PM</h4>
+<h4 class="date">2025-Sep-30, 05:12 PM</h4>
 
 </div>
 
 
+<div id="load-libraries" class="section level3">
+<h3>Load libraries</h3>
+<pre class="r"><code>#install.packages(&quot;readxl&quot;)
+#install.packages(&quot;dplyr&quot;)
 
+library(readxl)
+library(dplyr)</code></pre>
+</div>
+<div id="practice-data-manipulation-using-base-r" class="section level3">
+<h3>Practice data manipulation using Base R</h3>
+<pre class="r"><code>cereal &lt;- read_excel(&quot;cereal.xlsx&quot;)
+head(cereal)</code></pre>
+<pre><code>## # A tibble: 6 × 10
+##   name          company serving calories   fat sodium carbs fiber sugars protein
+##   &lt;chr&gt;         &lt;chr&gt;     &lt;dbl&gt;    &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt;   &lt;dbl&gt;
+## 1 AppleJacks    K          1         117   0.6    143    27   0.5   15       1  
+## 2 Boo Berry     G          1         118   0.8    211    27   0.1   14       1  
+## 3 Cap&#39;n Crunch  Q          0.75      144   2.1    269    31   1.1   16       1.3
+## 4 Cinnamon Toa… G          0.75      169   4.4    408    32   1.7   13.3     2.7
+## 5 Cocoa Blasts  Q          1         130   1.2    135    29   0.8   16       1  
+## 6 Cocoa Puffs   G          1         117   1      171    26   0.8   14       1</code></pre>
+</div>
+<div id="five-questions" class="section level3">
+<h3>Five questions</h3>
+<div id="question-1" class="section level4">
+<h4>Question 1</h4>
+<p>Extract rows 1 to 10 from the cereal data frame. (Extraiga las filas
+1 a 10 del marco de datos cereal.)</p>
+<pre class="r"><code>cereal[1:10,]</code></pre>
+<pre><code>## # A tibble: 10 × 10
+##    name         company serving calories   fat sodium carbs fiber sugars protein
+##    &lt;chr&gt;        &lt;chr&gt;     &lt;dbl&gt;    &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt;   &lt;dbl&gt;
+##  1 AppleJacks   K          1         117   0.6    143    27   0.5   15       1  
+##  2 Boo Berry    G          1         118   0.8    211    27   0.1   14       1  
+##  3 Cap&#39;n Crunch Q          0.75      144   2.1    269    31   1.1   16       1.3
+##  4 Cinnamon To… G          0.75      169   4.4    408    32   1.7   13.3     2.7
+##  5 Cocoa Blasts Q          1         130   1.2    135    29   0.8   16       1  
+##  6 Cocoa Puffs  G          1         117   1      171    26   0.8   14       1  
+##  7 Cookie Crisp G          1         117   0.9    178    26   0.5   13       1  
+##  8 Corn Flakes  K          1         101   0.1    202    24   0.8    3       2  
+##  9 Corn Pops    K          1         117   0.2    120    28   0.3   15       1  
+## 10 Crispix      K          1         113   0.3    229    26   0.1    3       2</code></pre>
+<pre class="r"><code>cereal</code></pre>
+<pre><code>## # A tibble: 30 × 10
+##    name         company serving calories   fat sodium carbs fiber sugars protein
+##    &lt;chr&gt;        &lt;chr&gt;     &lt;dbl&gt;    &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt;   &lt;dbl&gt;
+##  1 AppleJacks   K          1         117   0.6    143    27   0.5   15       1  
+##  2 Boo Berry    G          1         118   0.8    211    27   0.1   14       1  
+##  3 Cap&#39;n Crunch Q          0.75      144   2.1    269    31   1.1   16       1.3
+##  4 Cinnamon To… G          0.75      169   4.4    408    32   1.7   13.3     2.7
+##  5 Cocoa Blasts Q          1         130   1.2    135    29   0.8   16       1  
+##  6 Cocoa Puffs  G          1         117   1      171    26   0.8   14       1  
+##  7 Cookie Crisp G          1         117   0.9    178    26   0.5   13       1  
+##  8 Corn Flakes  K          1         101   0.1    202    24   0.8    3       2  
+##  9 Corn Pops    K          1         117   0.2    120    28   0.3   15       1  
+## 10 Crispix      K          1         113   0.3    229    26   0.1    3       2  
+## # ℹ 20 more rows</code></pre>
+</div>
+<div id="question-2" class="section level4">
+<h4>Question 2</h4>
+<p>Create a new data frame called Kelloggs that only contains rows where
+company == “K”. (Cree un nuevo marco de datos llamado Kelloggs que solo
+contenga las filas donde company == “K”.)</p>
+<pre class="r"><code>Kelloggs &lt;- cereal[cereal$company == &quot;K&quot;, ]
+head(Kelloggs)</code></pre>
+<pre><code>## # A tibble: 6 × 10
+##   name          company serving calories   fat sodium carbs fiber sugars protein
+##   &lt;chr&gt;         &lt;chr&gt;     &lt;dbl&gt;    &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;  &lt;dbl&gt;   &lt;dbl&gt;
+## 1 AppleJacks    K             1      117   0.6    143    27   0.5     15       1
+## 2 Corn Flakes   K             1      101   0.1    202    24   0.8      3       2
+## 3 Corn Pops     K             1      117   0.2    120    28   0.3     15       1
+## 4 Crispix       K             1      113   0.3    229    26   0.1      3       2
+## 5 Froot Loops   K             1      118   0.9    150    26   0.8     12       2
+## 6 Frosted Mini… K             1      175   0.8      5    41   5       10       5</code></pre>
+</div>
+<div id="question-3" class="section level4">
+<h4>Question 3</h4>
+<p>From the cereal data, extract the names of all cereals that have more
+than 10 grams of sugar. (Del conjunto de datos cereal, extraiga los
+nombres de todos los cereales que tienen más de 10 gramos de
+azúcar.)</p>
+<pre class="r"><code>sugar &lt;- cereal$name[cereal$sugars &gt;10]
+sugar</code></pre>
+<pre><code>##  [1] &quot;AppleJacks&quot;            &quot;Boo Berry&quot;             &quot;Cap&#39;n Crunch&quot;         
+##  [4] &quot;Cinnamon Toast Crunch&quot; &quot;Cocoa Blasts&quot;          &quot;Cocoa Puffs&quot;          
+##  [7] &quot;Cookie Crisp&quot;          &quot;Corn Pops&quot;             &quot;Froot Loops&quot;          
+## [10] &quot;Golden Grahams&quot;        &quot;Honey Nut Clusters&quot;    &quot;Honey Nut Heaven&quot;     
+## [13] &quot;Lucky Charms&quot;          &quot;Raisin Bran&quot;           &quot;Reese&#39;s Puffs&quot;        
+## [16] &quot;Rice Krispie Treats&quot;   &quot;Smart Start&quot;</code></pre>
+</div>
+<div id="question-4" class="section level4">
+<h4>Question 4</h4>
+<p>Find the mean calories of all cereals in the dataset. (Encuentre las
+calorías promedio de todos los cereales en el conjunto de datos.)</p>
+<pre class="r"><code>mean(cereal$calories)</code></pre>
+<pre><code>## [1] 133.8333</code></pre>
+</div>
+<div id="question-5" class="section level4">
+<h4>Question 5</h4>
+<p>Count how many cereals have fiber greater than or equal to 2 grams
+(Cuente cuántos cereales tienen fibra mayor o igual a 2 gramos.).</p>
+<pre class="r"><code>length(cereal$fiber[cereal$fiber &gt;= 2])</code></pre>
+<pre><code>## [1] 10</code></pre>
+</div>
+</div>
 
 
 
