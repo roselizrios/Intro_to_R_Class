@@ -1,0 +1,84 @@
+---
+title: "Tables dplyr"
+author: "Roseliz"
+date: "2025-09-25"
+output: html_document
+---
+
+```{r}
+data = matrix(c(1:16), ncol=4, byrow=TRUE)
+
+colnames(data) = c('col1', 'col2', 'col3', 'col4')
+rownames(data) <- c('row1', 'row2', 'row3', 'row4')
+
+final=as.table(data)
+
+print(final)
+```
+
+```{r warning=FALSE, message=FALSE}
+# install.packages("knitr")
+library(knitr)
+
+# install.packages("gt")
+library(gt)
+
+# install.packages("dplyr")
+library(dplyr)
+
+# install.packages("kableExtra")
+library(kableExtra)
+
+# install.packages("gaawr2", force=TRUE)
+library(gaawr2)
+
+data(diabetes)
+head(diabetes)
+```
+
+```{r}
+kable(diabetes)
+```
+
+```{r}
+kable(head(diabetes, 5), booktabs=TRUE) %>% 
+  kable_styling(font_size = 12) %>%
+  kable_styling(bootstrap_options = "striped", full_width = F)
+```
+
+```{r}
+kable(tail(diabetes, 5), booktabs=TRUE) %>% 
+  kable_styling(font_size = 12, bootstrap_options = "striped", full_width = F)
+```
+
+```{r}
+kable(tail(diabetes[, 4:5]), booktabs=TRUE) %>% 
+  kable_styling(font_size = 12, position = "right", bootstrap_options = "striped", full_width = F)
+```
+
+```{r}
+kable(tail(diabetes[, 4:5]), booktabs=TRUE) %>% 
+  kable_styling(font_size = 12, position = "left", bootstrap_options = "striped", full_width = F)
+```
+
+```{r}
+kable(head(diabetes, 5), booktabs=TRUE) %>% 
+  kable_styling(font_size = 12) %>%
+  kable_styling(bootstrap_options = "striped", full_width = F) %>%
+  add_header_above(c("Personal data" = 4, "Blood Profile" = 9, "weight" = 1))
+```
+
+```{r}
+kable(diabetes, digits = 2, format = "html", row.names = TRUE) %>%
+  kable_styling(bootstrap_options = c("striped"), full_width = T, font_size = 15) %>%
+  scroll_box(height = "300px")
+```
+
+<br><br><br>
+
+```{r}
+diabetes %>%
+  dplyr::select(ID, No_Pation, Gender, AGE) %>%
+  gt_preview()
+```
+

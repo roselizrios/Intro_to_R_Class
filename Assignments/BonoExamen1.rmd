@@ -1,0 +1,27 @@
+---
+title: "Bono Examen 1"
+author: "Roseliz Ríos-Alemar"
+date: "`r format(Sys.time(), '%Y-%b-%d, %I:%M %p')`"
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+### Load libraries
+```{r}
+install.packages("readxl")
+#install.packages("dplyr")
+
+library(readxl)
+library(dplyr)
+```
+
+### Practice data manipulation using Base R
+```{r}
+cereal <- read_excel("cereal.xlsx")
+head(cereal)
+
+print(cereal)
+```
+
+
