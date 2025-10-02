@@ -24,3 +24,4 @@ knitr::include_graphics("~/Desktop/Intro R/FotoR.JPG")
 
 ## Bono
 ### [BonoExamen1](Assignments/BonoExamen1.html)
+### [SegundoBonoExamen1](Assigments/SegundoBonoExamen1.html)

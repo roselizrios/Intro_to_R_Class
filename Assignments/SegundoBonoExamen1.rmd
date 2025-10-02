@@ -1,0 +1,47 @@
+---
+title: "SegundoBonoExamen1"
+author: "Roseliz Ríos-Alemar"
+date: "`r format(Sys.time(), '%Y-%b-%d, %I:%M %p')`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Load libraries
+```{r, message=FALSE}
+
+#install.packages("readxl")
+#install.packages("dplyr")
+
+library(readxl)
+library(dplyr)
+```
+
+```{r}
+articles <- read.csv("equations.csv")
+head(articles)
+```
+
+### Question (10 pts):
+The journal Proceedings of the National Academy of Sciences has asked you to revisit the data from Fawcett and Higginson (2012) on the use of equations in evolutionary biology papers. They are particularly interested in two things:
+
+1. On average, how many equations per article are published in each journal? (Hint: use group_by() and summarise())
+```{r}
+articles %>% 
+  group_by(journal) %>%
+  summarise("Fawcett and Higginson" = mean(equations))
+```
+
+2. For each journal, calculate the average proportion of theoretical citations relative to total citations. (Hint: create a new column with mutate(theo_ratio = theocites / cites), then group_by() and summarise())
+```{r}
+articles %>%
+  mutate(theo_ratio = theocites / cites) %>% 
+  group_by(journal) %>%
+  summarise("Fawcett and Higginson" = mean(theo_ratio))
+```
+
+#### Potential findings:
+
+My findings showed that, on average, the number of equations per article varied among journals. In particular, The American Naturalist, Evolution, and Proceedings of the Royal Society B showed differences, with the average ranging from **9.04** (Am. Nat.) to **2.91** (Evolution) to **2.69** (Proc. B) equations per article. In terms of citations, the proportion of theoretical citations relative to total citations also varied by journal. On average, articles in The American Naturalist had a mean theoretical citation ratio of **0.253**, those in Evolution had **0.138**, and those in Proceedings B had **0.176**.
