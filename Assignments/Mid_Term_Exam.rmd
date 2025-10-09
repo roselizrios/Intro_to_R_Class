@@ -1,0 +1,92 @@
+---
+title: "Mid Term Exam"
+author: "Roseliz Ríos-Alemar"
+date: "`r format(Sys.time(), '%Y-%b-%d, %I:%M %p')`"
+output: html_document
+---
+```{r, message=FALSE}
+library(tidyverse)
+library(dplyr)
+library(aod)
+```
+
+```{r, echo=TRUE, results=FALSE}
+msleep <- glimpse(msleep)
+
+storms <- storms
+
+lizards <- lizards
+```
+
+### Mammals sleep dataset (msleep)
+**Context / Contexto:** You are experts in Mammalogy, and your field technicians have collected data on sleep behavior in different mammal species. Now you must begin exploring how these patterns relate to activity and daily rhythms. <br>
+Ustedes son expertos en Mastozoología, y sus técnicos de campo han recolectado datos sobre el comportamiento de sueño en distintas especies de mamíferos. Ahora deben comenzar a explorar cómo estos patrones se relacionan con la actividad y los ritmos diarios.
+```{r}
+head(msleep)
+```
+
+1. **Use filter() to subset msleep to only animals who are awake for at least 12 hours of the day.** <br>
+Usa filter() para seleccionar del dataset msleep solo los animales que están despiertos al menos 12 horas al día.<br>
+**Hint:** “At least” like saying “greater than or equal to,” i.e. >= <br>
+**Sugerencia:** “Al menos” significa mayor o igual a (>=). <br>
+```{r}
+msleep %>% 
+  filter(awake >= 12)
+```
+
+2. **Use mutate() to create a new column called percent_day_awake that gives the percentage of the day that each species spends awake. Use select() with everything() at the end to verify your calculation.** <br>
+Usa mutate() para crear una nueva columna llamada percent_day_awake que muestre el porcentaje del día que cada especie permanece despierta. Usa select() con everything() al final para comprobar que tus cálculos son correctos. <br>
+**Hint:** A day has 24 hours. The column awake indicates the average hours a species is awake per day. Calculate the percentage with (col / 24) * 100. <br>
+**Sugerencia:** Un día tiene 24 horas. La columna awake indica cuántas horas al día, en promedio, está despierta cada especie. Calcula el porcentaje con (col / 24) * 100. <br>
+```{r}
+newmsleep <- msleep %>%
+  mutate(percent_day_awake = ((awake/24)*100))
+
+newmsleep %>%
+  select(percent_day_awake, awake, everything())
+```
+
+### Storms track data (storms)
+**Context / Contexto:** You are part of a climatology research group analyzing storm trajectories in the Atlantic. Your team has assembled a long-term dataset, and your task is to start identifying temporal trends and patterns in storm intensity.<br>
+Ustedes forman parte de un grupo de investigación en climatología que analiza trayectorias de tormentas en el Atlántico. Su equipo ha reunido un dataset de largo plazo, y su tarea es comenzar a identificar tendencias temporales y patrones de intensidad.
+```{r}
+head(storms)
+```
+
+3. **Use group_by() and summarise() to calculate the number of storms per year.** <br>
+Agrupa los datos por año y calcula el número de tormentas que ocurrieron cada año. <br>
+**Hint:** group_by(col) groups the rows by time, and summarise(num_storms = n()) counts how many rows (storms) there are per year. <br>
+**Sugerencia:** group_by(col) agrupa las filas por tiempo, y summarise(num_storms = n()) cuenta cuántas filas (tormentas) hay por año.
+```{r}
+storms %>%
+  group_by(year) %>%
+  summarise(num_storms = n())
+```
+
+4. **Use filter() to subset storms to only storms with wind speeds greater than 50 knots, then use arrange() to sort by wind descending.** <br>
+Filtra el dataset para quedarte solo con tormentas que tengan velocidad de viento mayor a 50 nudos, y luego ordénalas de mayor a menor velocidad de viento. <br>
+**Hint:** Use filter(col > 50) to select strong storms, and arrange(desc(col)) to sort the results from highest to lowest. <br>
+**Sugerencia:** Usa filter(col > 50) para seleccionar las tormentas fuertes, y arrange(desc(col)) para ordenar los resultados de mayor a menor.
+```{r}
+storms %>%
+  filter(wind > 50) %>%
+  arrange(desc(wind))
+```
+
+### A Comparison of Site Preferences of Two Species of Lizard (lizards)
+**Context / Contexto:** You are field ecologists studying habitat use by two Anolis species. Your team has spent weeks observing their behavior at different times of day and in varying microhabitats. Now it’s time to analyze the data to test your hypotheses. <br>
+Ustedes son ecólogos de campo que estudian el uso del hábitat de dos especies de Anolis. Su equipo ha pasado semanas observando su comportamiento a distintas horas del día y en diferentes microhábitats. Ahora es momento de analizar los datos para poner a prueba sus hipótesis.
+```{r}
+head(lizards)
+```
+
+5. **Determine which Site and Diameter combination has the highest total grahami.** <br>
+Determina cuál combinación de Sitio y Diámetro tiene el total de grahami más alto. <br>
+**Hint:** group_by(col1, col2) %>% summarise(new_var = sum(var)) %>% arrange(desc(new_var)) <br>
+**Sugerencia:** Usa group_by(col1, col2) %>% summarise(new_var = sum(var)) %>% arrange(desc(new_var))
+```{r, message=FALSE}
+lizards %>%
+  group_by(Site, Diameter) %>%
+    summarise(new_grahami = sum(grahami)) %>%
+    arrange(desc(new_grahami))
+```
