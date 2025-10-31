@@ -17,10 +17,11 @@ knitr::opts_chunk$set(echo = TRUE)
 knitr::include_graphics("~/Desktop/Intro R/FotoR.JPG")
 ```
 
-## R Tutorials Prompts:
+## R Tutorials Prompts
 ### [RTutorial1](Assignments/RTutorial1.html)
 ### [RTutorial2](Assignments/RTutorial2.html)
 ### [RTutorial3](Assignments/RTutorial3.html)
+### [RTutorial4](Assignments/RTutorial4.html)
 
 ## Bonus
 ### [BonoExamen1](Assignments/BonoExamen1.html)
