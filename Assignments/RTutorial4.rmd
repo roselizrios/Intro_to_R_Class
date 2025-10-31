@@ -1,0 +1,14 @@
+---
+title: "R Tutorial 4"
+author: "Roseliz Rios-Alemar"
+date: "`r format(Sys.time(), '%Y-%b-%d, %I:%M %p')`"
+output: html_document
+---
+## Violin Plot
+```{r}
+knitr::include_graphics("~/Desktop/Intro R/Intro_to_R_Class/plot.png")
+```
+
+## Hallazgos
+Se realizó un análisis del desempeño de los neumáticos en Puerto Rico utilizando RStudio. Primeramente, se instalaron y llamaron los paquetes de ggplot, car y dplyr para poder hacer una gráfica con el set de datos “tyre.csv”. Una vez cargado el archivo, se realizó una gráfica de tipo “violín”, donde se obtuvo una representación visual de la distribución de datos para cuatro marcas (Apollo, Bridgestone, CEAT y Falken) basado en su rendimiento por millaje. En la gráfica se pudo observar un menor rendimiento de Bridgestone en comparación con el resto de las marcas, aunque también se observó que Apollo y CEAT tuvieron un rendimiento similar entre sí. Igualmente, se interpretó que hubo un rendimiento mayor por parte de Falken en comparación con las otras marcas. No obstante, para confirmar los datos, se hizo un análisis de “one-way” ANOVA. Esto dió como resultados 56 residuales, 3 “degrees of freedom” y un p-value de 2.78e-08 *** (muy cercano a 0), indicando que existe una diferencia significativa en la media de los datos. Además, se buscaron los valores de los residuales y se realizó una prueba de Shapiro cuyo resultado fue una distribución normal para los residuales. Posteriormente, se corroboró la homogeneidad de la dispersión con una Prueba de Levene donde se determinó que no existe evidencia suficiente para rechazar la hipótesis nula (H₀). Finalmente, se hizo la prueba de Tukey HSD, la cual confirmó que Falken y Bridgestone fueron las marcas con mayor y menor rendimiento respectivamente, mientras que entre Apollo y CEAT no hubo diferencias significativas. En conclusión, los resultados obtenidos son estadísticamente válidos.
+
