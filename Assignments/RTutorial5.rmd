@@ -1,0 +1,88 @@
+---
+title: "RTutorial5"
+author: "Roseliz Rios-Alemar"
+date: "`r format(Sys.time(), '%Y-%b-%d, %I:%M %p')`"
+output: html_document
+---
+
+### Question
+#### English
+
+I have shared with you an initial plot. As you can see, this plot is not yet publication-ready. <br>
+Your task:<br>
+Choose at least three modifications you think will improve the plot and make it more flexible and creative. <br>
+You can select from the following examples or come up with your own ideas: <br>
+Change the background/theme of the plot.
+Modify the X and Y axis titles.
+Use facet_wrap() or facet_grid() to separate categories.
+Change the color of the plot (using fill or color).
+Adjust labels, scales, legends, or text sizes.
+Other creative enhancements you think improve the visualization. <br>
+Deliverable: Implement your chosen modifications in at least three different ways, and briefly explain why you made each choice.
+
+#### Español
+
+Les he compartido un gráfico inicial que, como ven, no está listo para publicación. <br>
+Su tarea: <br>
+Elijan al menos tres modificaciones que ustedes crean que mejorarán el gráfico y lo harán más flexible y creativo. <br>
+Pueden escoger entre los siguientes ejemplos o proponer sus propias ideas:
+Cambiar el fondo/tema del gráfico.
+Modificar los títulos de los ejes X y Y.
+Usar facet_wrap() o facet_grid() para separar categorías.
+Cambiar el color del gráfico (usando fill o color).
+justar etiquetas, escalas, leyendas o tamaños de texto.
+Otras mejoras creativas que consideren útiles. <br>
+Entrega: Implementen sus modificaciones en al menos tres formas diferentes, y expliquen brevemente por qué hicieron cada cambio.
+
+### Libraries/Librerías
+```{r, message = FALSE, warning = FALSE}
+library(ggplot2)
+library(dplyr)
+library(janitor)
+library(readr)
+```
+
+### Data/Datos
+```{r}
+metabric <- read.csv("Data_RTutorial.csv") %>%
+  clean_names()
+head(metabric[, 1:5])
+```
+
+### Original Graph/Gráfica Original
+```{r, warning=FALSE}
+ggplot(metabric, aes(x = type_of_breast_surgery, y = tumor_size)) +
+  geom_boxplot()
+```
+
+### Modified Graph/Gráfica modificada
+```{r, warning=FALSE}
+ggplot(metabric, aes(x = type_of_breast_surgery, y = tumor_size, fill = type_of_breast_surgery)) +
+  geom_violin() +
+  scale_fill_manual(values = c('skyblue', 'lavender', 'grey')) +
+  theme_classic() +
+  labs(title = "Recommended surgeries based on tumor size", x="Type of Breast Surgery", y="Tumor Size") +
+  theme(plot.title = element_text(size = 18,
+                                  face = "bold",
+                                  hjust = 0.5,
+                                  color = "lightpink4")) +
+  theme(axis.title.y = element_text(size = 14,
+                                    face = "bold",
+                                    color = "lightpink3"),
+        axis.text.y = element_text(size = 10,
+                                   face = "plain",
+                                   color = "black")) +
+  theme(axis.title.x = element_text(size = 14,
+                                    face = "bold",
+                                    color = "lightpink3"),
+        axis.text.x = element_text(size = 10,
+                                   face = "plain",
+                                   color = "black")) +
+  theme(legend.position = "none") +
+  ylim(0,100)
+```
+
+### Changes/Cambios
+1. Changed graph from box plot to violin plot. I feel like it represents better the data distribution for each type of surgery. Cambié la gráfica de caja por una en forma de violin. Siento que representa mejor la distribución de datos para cada tipo de cirugía. <br>
+2. Changed theme to "classic", as I think it makes the graph look more clean. Cambié el tema a uno "clásico, ya que pienso que hace ver la gráfica más limpia. <br>
+3. Added graph and axes tittles to make sure the information is more clear to the reader. Añadí títulos a la gráfica y los ejes para asegurar que la información sea más clara para el lector.

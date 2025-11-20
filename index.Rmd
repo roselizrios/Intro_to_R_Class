@@ -22,6 +22,7 @@ knitr::include_graphics("~/Desktop/Intro R/FotoR.JPG")
 ### [RTutorial2](Assignments/RTutorial2.html)
 ### [RTutorial3](Assignments/RTutorial3.html)
 ### [RTutorial4](Assignments/RTutorial4.html)
+### [RTutorial5](Assignments/RTutorial5.html)
 
 ## Bonus
 ### [BonoExamen1](Assignments/BonoExamen1.html)
