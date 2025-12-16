@@ -30,3 +30,4 @@ knitr::include_graphics("~/Desktop/Intro R/FotoR.JPG")
 
 ## Exams
 ### [Mid_Term_Exam](Assignments/Mid_Term_Exam.html)
+### [Final_Exam](Assignments/Final_Exam.html)

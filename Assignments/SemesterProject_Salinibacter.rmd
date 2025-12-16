@@ -1,0 +1,414 @@
+---
+title: "Semester Project - Salinibacter Data Analysis"
+author: "Roseliz Rios-Alemar"
+date: "`r format(Sys.time(), '%Y-%b-%d, %I:%M %p')`"
+output: html_document
+---
+
+```{r, message=FALSE, warning=FALSE}
+#install.packages("tidyverse")
+library(tidyverse)
+library(dplyr)
+library(scales)
+library(readr)
+```
+
+```{r, message=FALSE}
+quality_report_COPY <- read_tsv("quality_report_COPY.tsv")
+
+Salinibacter_bins <- quality_report_COPY %>%
+  filter(Name %in% c("rosella_refined_0_179", "rosella_refined_0_200", "rosella_refined_0_224", "rosella_refined_0_260", "rosella_refined_0_279", "rosella_refined_0_369", "rosella_refined_0_370", "rosella_refined_0_416", "rosella_refined_0_440", "rosella_refined_0_494", "rosella_refined_0_94"))
+
+knitr::kable(
+  Salinibacter_bins,
+  caption = "Quality Metrics for 11 Selected Salinibacter MAGs")
+
+library(dplyr)
+library(scales)   # for comma()
+
+Salinibacter_table <- Salinibacter_bins %>%
+transmute(
+`MAG ID` = Name,
+`Completeness (%)`      = round(Completeness, 2),
+`Contamination (%)`     = round(Contamination, 2),
+`Coding Density`        = round(Coding_Density, 3),
+`Genome Size (Mbp)`     = round(Genome_Size / 1e6, 3),
+`GC Content (%)`        = round(GC_Content * 100, 1),
+`Contig N50 (bp)`       = Contig_N50,
+`Max Contig Length (bp)`= Max_Contig_Length,
+`Total CDS`             = Total_Coding_Sequences,
+`Total Contigs`         = Total_Contigs
+) %>%
+arrange(desc(`Completeness (%)`), `Contamination (%)`)
+knitr::kable(
+  Salinibacter_table, 
+  caption = "Quality Metrics for 11 Selected Salinibacter MAGs")
+
+library(kableExtra)
+
+Salinibacter_table %>%
+kable(
+caption = "Quality Metrics for 11 Selected Salinibacter MAGs",
+align = "c",
+format = "html"
+) %>%
+kable_styling(
+bootstrap_options = c("striped", "hover", "condensed"),
+full_width = FALSE,
+position = "center",
+font_size = 13
+) %>%
+row_spec(0, bold = TRUE)
+```
+
+```{r}
+#install.packages("gridExtra")   # run once
+
+library(gridExtra)
+library(grid)
+
+# Build the table grob
+tbl <- tableGrob(Salinibacter_table)
+
+# Compute required size in inches
+h_in <- convertHeight(sum(tbl$heights), "in", valueOnly = TRUE)
+w_in <- convertWidth(sum(tbl$widths), "in", valueOnly = TRUE)
+
+# Add a bit of padding around (10% extra)
+h_in <- h_in * 1.1
+w_in <- w_in * 1.1
+
+# Save as high-res PNG using those dimensions
+png("Salinibacter_MAGs_table.png",
+    width  = w_in,
+    height = h_in,
+    units  = "in",
+    res    = 300)
+
+grid.newpage()
+grid.draw(tbl)
+dev.off()
+```
+
+```{r}
+library(tidyverse)
+
+SALINIBACTER_bins_batout <- read_tsv(
+  "SALINIBACTER_bins_batout.out",
+  col_names = c("MAG_file", "Status", "ORF_info", "Taxonomy", "Support_raw")
+)
+
+SALINIBACTER_bins_batout
+```
+
+```{r}
+SALINIBACTER_bins_clean <- SALINIBACTER_bins_batout %>%
+  mutate(
+    MAG       = str_remove(MAG_file, "\\.fna$"),
+    ORFs_used = str_extract(ORF_info, "\\d+/\\d+"),
+    
+    # Optional: make taxonomy more readable & drop prefixes
+    Taxonomy_clean = Taxonomy %>%
+      str_replace_all(";", "; ") %>%
+      str_replace_all("d__", "") %>%
+      str_replace_all("p__", "") %>%
+      str_replace_all("c__", "") %>%
+      str_replace_all("o__", "") %>%
+      str_replace_all("f__", "") %>%
+      str_replace_all("g__", "") %>%
+      str_replace_all("s__", ""),
+    
+    # Average of semicolon-separated support values
+    Support_avg = purrr::map_dbl(
+      str_split(Support_raw, ";"),
+      ~ mean(as.numeric(.x), na.rm = TRUE)
+    ),
+    Support_avg = round(Support_avg, 3)
+  ) %>%
+  select(
+    MAG,
+    ORFs_used,
+    Taxonomy = Taxonomy_clean,
+    Support_avg
+  )
+```
+
+```{r}
+library(kableExtra)
+
+SALINIBACTER_bins_clean %>%
+  kable(
+    caption = "BAT taxonomy results for selected Salinibacter MAGs",
+    align   = "c"
+  ) %>%
+  kable_styling(
+    bootstrap_options = c("striped", "hover", "condensed"),
+    full_width        = FALSE,
+    font_size         = 13
+  ) %>%
+  row_spec(0, bold = TRUE)
+```
+
+```{r}
+library(tidyverse)
+
+SALINIBACTER_bins_tax_split <- SALINIBACTER_bins_clean %>%
+
+  mutate(
+    # Remove 'root;' prefix
+    Taxonomy = str_remove(Taxonomy, "^root;\\s*")
+  ) %>%
+
+  separate(
+    Taxonomy,
+    into = c("Domain","Phylum","Class","Order","Family","Genus","Species"),
+    sep = ";\\s*",
+    fill = "right"
+  )
+
+SALINIBACTER_bins_pretty <- SALINIBACTER_bins_tax_split %>%
+  rename(
+    "ORFs Used"        = ORFs_used,
+    "Mean Support"    = Support_avg
+  )
+
+library(kableExtra)
+
+SALINIBACTER_bins_tax_split %>%
+  select(MAG, ORFs_used, Domain, Phylum, Class, Order, Family, Genus, Species, Support_avg) %>%
+  kable(
+    caption = "BAT taxonomic classification of selected Salinibacter MAGs",
+    align = "c"
+  ) %>%
+  kable_styling(
+    bootstrap_options = c("striped", "hover", "condensed"),
+    full_width = FALSE,
+    font_size = 12
+  ) %>%
+  row_spec(0, bold = TRUE)
+
+library(kableExtra)
+
+SALINIBACTER_bins_pretty %>%
+  select(MAG, `ORFs Used`, Domain, Phylum, Class, Order, Family, Genus, Species, `Mean Support`) %>%
+  kable(
+    caption = "BAT taxonomic classification of selected Salinibacter MAGs",
+    align = "c"
+  ) %>%
+  kable_styling(
+    bootstrap_options = c("striped", "hover", "condensed"),
+    full_width = FALSE,
+    font_size = 12
+  ) %>%
+  row_spec(0, bold = TRUE)
+
+library(gridExtra)
+library(grid)
+
+# Build the table grob
+tbl <- tableGrob(SALINIBACTER_bins_pretty, rows = NULL)
+
+# Make the text a bit smaller so it fits more comfortably
+tbl$gp <- gpar(fontsize = 9)
+
+# Compute required size in inches
+w_in <- convertWidth(sum(tbl$widths), "in", valueOnly = TRUE) * 1.15  # 15% padding
+h_in <- convertHeight(sum(tbl$heights), "in", valueOnly = TRUE) * 1.15
+
+# Save as PNG with those dimensions
+png("BAT_taxonomy_table.png",
+    width  = w_in,
+    height = h_in,
+    units  = "in",
+    res    = 300)
+
+grid.newpage()
+grid.draw(tbl)
+dev.off()
+```
+
+## Combined graph
+```{r}
+MAGs_combined <- Salinibacter_table %>%
+  rename(MAG = `MAG ID`) %>%
+  left_join(SALINIBACTER_bins_pretty, by = "MAG")
+head(MAGs_combined)
+
+library(ggplot2)
+library(ggrepel)
+
+ggplot(MAGs_combined,
+       aes(x = `Completeness (%)`,
+           y = `Mean Support`,
+           label = MAG)) +
+  geom_point(size = 3) +
+  ggrepel::geom_text_repel(size = 3) +
+
+  labs(
+    title = "MAG Completeness vs Taxonomic Support",
+    x = "Completeness (%)",
+    y = "Mean BAT Support"
+  ) +
+  scale_y_continuous(limits = c(0, 1)) +
+  theme_minimal(base_size = 12)
+```
+
+```{r}
+library(dplyr)
+
+MAGs_for_plot <- MAGs_combined %>%
+  arrange(`Completeness (%)`) %>%              # order from low → high
+  mutate(
+    Bin = factor(paste0("Bin ", row_number())),  # Bin 1, Bin 2, ...
+    Support_cat = case_when(
+      `Mean Support` >= 0.95 ~ "High support (≥0.95)",
+      `Mean Support` >= 0.80 ~ "Moderate support (0.80–0.95)",
+      TRUE                   ~ "Low support (<0.80)"
+    )
+  )
+
+library(ggplot2)
+library(ggrepel)
+
+ggplot(MAGs_for_plot,
+       aes(x = `Completeness (%)`,
+           y = `Mean Support`,
+           color = Support_cat)) +
+  geom_point(size = 3) +
+  ggrepel::geom_text_repel(
+    aes(label = Bin),
+    size = 3,
+    show.legend = FALSE
+  ) +
+  scale_y_continuous(limits = c(0.5, 1.02), breaks = seq(0.5, 1.0, 0.1)) +
+  scale_x_continuous(breaks = seq(5, 35, 5)) +
+  labs(
+    title = "Completeness vs Taxonomic Support for Salinibacter MAGs",
+    x = "Completeness (%)",
+    y = "Mean BAT Support",
+    color = "Support level"
+  ) +
+  theme_minimal(base_size = 13) +
+  theme(
+    plot.title   = element_text(hjust = 0.5, face = "bold"),
+    legend.position = "bottom"
+  )
+
+ggsave(
+  filename = "Completeness_vs_Taxonomic_Support.png",
+  plot = last_plot(),
+  width = 8,
+  height = 10,
+  dpi = 300
+)
+```
+
+## BlastKOALA Results for Bin 11
+```{r}
+library(tidyverse)
+
+ko_raw <- read_tsv(
+  "user_ko_definition.txt",
+  col_names = FALSE,
+  col_types = cols(.default = "c")
+)
+
+# Replace empty / NA column names with safe defaults
+colnames(ko_raw) <- paste0("V", seq_len(ncol(ko_raw)))
+
+# Inspect
+head(ko_raw)
+
+ko_df <- ko_raw %>%
+  transmute(
+    orf_id  = V1,
+    ko      = V2,
+    product = apply(select(., -V1, -V2), 1, paste, collapse = " ") %>%
+              str_trim()
+  ) %>%
+  mutate(
+    contig = str_remove(orf_id, "_\\d+$")
+  )
+head(ko_df)
+
+phage_hits <- ko_df %>%
+  filter(str_detect(product,
+         regex("phage|capsid|terminase|portal|tail|head|integrase|recombinase",
+               ignore_case = TRUE)))
+phage_hits
+
+archaea_hits <- ko_df %>%
+  filter(str_detect(product,
+         regex("archaeal|archaea|TFIIB|FlaI|FlaJ|cdc6",
+               ignore_case = TRUE)))
+archaea_hits
+
+library(dplyr)
+
+signals_detailed <- bind_rows(
+  phage_hits   %>% mutate(Signal = "Phage"),
+  archaea_hits %>% mutate(Signal = "Archaea")
+) %>%
+  select(
+    Signal,
+    contig,
+    ORF = orf_id,
+    KO  = ko,
+    Product = product
+  ) %>%
+  arrange(Signal, contig)
+
+library(kableExtra)
+
+signals_detailed %>%
+  kable(
+    caption = "Annotated ORFs with phage- and archaea-related functions",
+    align = "c"
+  ) %>%
+  kable_styling(
+    bootstrap_options = c("striped", "hover", "condensed"),
+    full_width = FALSE,
+    font_size = 11
+  ) %>%
+  row_spec(0, bold = TRUE)
+
+signal_summary <- signals_detailed %>%
+  count(contig, Signal, name = "Gene Count") %>%
+  tidyr::pivot_wider(
+    names_from  = Signal,
+    values_from = `Gene Count`,
+    values_fill = 0
+  ) %>%
+  arrange(desc(Phage), desc(Archaea))
+signal_summary
+
+signal_summary %>%
+  kable(
+    caption = "Summary of phage and archaea related genes detected per contig",
+    align = "c"
+  ) %>%
+  kable_styling(
+    bootstrap_options = c("striped", "hover", "condensed"),
+    full_width = FALSE,
+    font_size = 11
+  ) %>%
+  row_spec(0, bold = TRUE)
+
+library(gridExtra)
+library(grid)
+
+tbl <- tableGrob(signal_summary)
+tbl$gp <- gpar(fontsize = 10)
+
+w_in <- convertWidth(sum(tbl$widths),  "in", valueOnly = TRUE) * 1.2
+h_in <- convertHeight(sum(tbl$heights), "in", valueOnly = TRUE) * 1.2
+
+png("Phage_Archaea_Summary_Table.png",
+    width  = w_in,
+    height = h_in,
+    units  = "in",
+    res    = 300)
+
+grid.draw(tbl)
+dev.off()
+```

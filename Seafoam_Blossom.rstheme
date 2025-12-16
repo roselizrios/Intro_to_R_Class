@@ -1,0 +1,51 @@
+/* Seafoam Blossom – Custom RStudio Theme */
+.ace_editor {
+  background-color: #0E1A22 !important;
+  color: #E6F7FF !important;
+}
+.ace_cursor {
+  color: #FFFFFF !important;
+}
+.ace_marker-layer .ace_selection {
+  background-color: #A2E6FF !important;
+}
+.ace_marker-layer .ace_active-line {
+  background-color: #14242E !important;
+}
+.ace_gutter {
+  background: #0E1A22 !important;
+  color: #8CA7B8 !important;
+}
+.ace_gutter-active-line {
+  background: #0E1A22 !important;
+  color: #E6F7FF !important;
+}
+.ace_keyword {
+  color: #7FD1CA !important;
+  font-weight: bold;
+}
+.ace_operator {
+  color: #6FB1FF !important;
+}
+.ace_constant {
+  color: #6FB1FF !important;
+}
+.ace_constant.ace_numeric {
+  color: #6FB1FF !important;
+}
+.ace_string {
+  color: #FFC6D9 !important;
+}
+.ace_comment {
+  color: #8CA7B8 !important;
+  font-style: italic;
+}
+.ace_support.ace_function {
+  color: #F39BC1 !important;
+}
+.ace_variable {
+  color: #A2E6FF !important;
+}
+.ace_bracket {
+  color: #7FD1CA !important;
+}

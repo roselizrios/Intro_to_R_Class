@@ -1,0 +1,108 @@
+---
+title: "Final Exam"
+author: "Roseliz Rios-Alemar"
+date: "`r format(Sys.time(), '%Y-%b-%d, %I:%M %p')`"
+output: html_document
+---
+
+```{r, message=FALSE}
+#install.packages("palmerpenguins")
+
+library(ggplot2)
+library(dplyr)
+library(palmerpenguins)
+```
+
+```{r}
+penguins <- penguins
+head(penguins)
+```
+
+1. Create a scatterplot using **geom_point()** that shows the relationship between flipper_length_mm and body_mass_g using the penguins dataset. <br>
+Crea un gráfico de dispersión usando **geom_point()** que muestre la relación entre bill_length_mm y bill_depth_mm usando el dataset penguins. <br>
+**Hint:** Remember: data = penguins, x = flipper_length_mm, and y = body_mass_g. The geometry is geom_point(). The connector is +. <br>
+**Sugerencia:** Recuerda: data = penguins, x = flipper_length_mm, y = body_mass_g La geometría es geom_point(). El conector es +. <br>
+```{r, warning=FALSE}
+ggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g)) +
+  geom_point()
+```
+
+2. **Starting from the previous plot and using similar code, modify the scatterplot to color the points by species.** <br>
+Partiendo del gráfico anterior y usando un código similar, modifica el gráfico de dispersión para colorear los puntos por species. <br>
+**Hint:** To map color to a variable, include color = species inside aes(). <br>
+**Sugerencia:** Para asignar color a una variable, incluye color = species dentro de aes(). <br>
+```{r, warning=FALSE}
+ggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g)) +
+  geom_point() +
+  aes(color = species)
+```
+
+3. **Starting from the previous plot and using similar code, modify the scatterplot to facet the data by species.** <br>
+Partiendo del gráfico anterior y usando un código similar, modifica el gráfico de dispersión para crear paneles separados por species. <br>
+**Hint:** Use facet_wrap(~ species) to create one panel per species. <br>
+**Sugerencia:** Usa facet_wrap(~ species) para crear un panel por especie. <br>
+```{r, warning=FALSE}
+ggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g)) +
+  geom_point() +
+  aes(color = species) +
+  facet_wrap(~ species)
+```
+
+4.**Starting from the previous plot and using similar code, add a smooth line for each species.** <br>
+Partiendo del gráfico anterior y usando un código similar, añade una línea de suavizado para cada especie. <br>
+**Hint:** Use geom_smooth() and remember that color = species must be inside aes() so each species gets its own line. You can use method = “lm”. <br>
+**Sugerencia:** Usa geom_smooth() y recuerda que color = species debe ir dentro de aes() para que cada especie tenga su propia línea. Puedes usar method = “lm”. <br>
+```{r, warning=FALSE}
+ggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g, fill = species)) +
+  geom_point() +
+  aes(color = species) +
+  facet_wrap(~ species) +
+  geom_smooth(aes(color = species), method = "lm")
+```
+
+5. **Starting from the plot you created in Question 1, modify it to make it “publication-ready” by improving at least three aspects.** <br>
+Partiendo del gráfico que creaste en la Pregunta 1, modifícalo para que sea apto para publicación mejorando al menos tres aspectos. <br>
+**Hint:** You can consider adding a title, adjusting axis text size, modifying axis labels, changing point size, or adding a legend. <br>
+**Sugerencia:** Puedes agregar un título, cambiar el tamaño de los ejes, modificar los nombres de los ejes, cambiar el tamaño de los puntos o añadir una leyenda. <br>
+```{r, warning=FALSE}
+ggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g, color = species)) +
+  geom_point() +
+  theme_classic() +
+  scale_color_manual(values = c("Adelie"='skyblue', "Chinstrap"='purple', "Gentoo"='pink')) +
+  facet_wrap(~ species) +
+  geom_smooth(aes(color = species), method = "lm") +
+  labs(
+    title = "Penguin Flipper Length vs Body Mass",
+    x = "Flipper Length (mm)",
+    y = "Body Mass (g)",
+    color = "Penguin Species")
+```
+
+6. **Using the provided scatterplot and linear model summary, examine the relationship between flipper_length_mm and body_mass_g in penguins.** <br>
+Usando el gráfico de dispersión y el resumen del modelo lineal provistos, examina la relación entre flipper_length_mm y body_mass_g en penguins. <br>
+```{r}
+mod <- lm(body_mass_g ~ flipper_length_mm, data = 
+            penguins)
+summary(mod)
+```
+
+## Questions / Preguntas (4 pts each / 4 pts cada una) <br>
+**Important:** <br>
+- Provide only the numerical values exactly as they appear in the model output (including decimals or scientific notation). <br>
+**Importante:**  <br>
+- Provee únicamente los valores numéricos exactamente como aparecen en el output del modelo (incluyendo decimales o notación exponencial). <br> <br>
+
+**1. What is the R-squared value of the model? ¿Cuál es el valor de R-cuadrado del modelo?** <br>
+0.7583
+
+**2. What is the p-value for the slope coefficient?¿Cuál es el p-valor del coeficiente de la pendiente?** <br>
+2.2e-16
+
+**3. Based on the p-value, is there a relationship between flipper length and body mass? Basado en el p-valor, ¿hay una relación entre longitud de aletas y masa corporal?** <br>
+Yes, because the p-value is very close to 0.
+
+**4. What is the intercept? ¿Cuál es el intercepto?** <br>
+-5780.831
+
+**5. What is the slope? ¿Cuál es la pendiente?** <br>
+49.686

@@ -1,0 +1,301 @@
+# bin	classification	reason	lineage	lineage scores (f: 0.30)
+rosella_refined_0_10.fna	taxid assigned (1/2)	based on 241/270 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.36;0.35;0.35;0.35
+rosella_refined_0_10.fna	taxid assigned (2/2)	based on 241/270 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales	1.00;0.63;0.51;0.45;0.43
+rosella_refined_0_101.fna	taxid assigned	based on 218/248 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__SW-7-71-33;g__SW-7-71-33;s__SW-7-71-33 sp003022865	1.00;0.93;0.92;0.92;0.92;0.39;0.39;0.31
+rosella_refined_0_103.fna	taxid assigned	based on 230/236 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodospirillales_A;f__Magnetovibrionaceae	1.00;0.98;0.67;0.62;0.49;0.41
+rosella_refined_0_104.fna	taxid assigned	based on 252/380 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Psychrobacter;s__Psychrobacter immobilis_F	1.00;0.89;0.70;0.70;0.70;0.65;0.65;0.38
+rosella_refined_0_105.fna	taxid assigned	based on 229/244 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halobaculum;s__Halobaculum sp018609965	1.00;1.00;0.99;0.99;0.99;0.69;0.52;0.48
+rosella_refined_0_106.fna	taxid assigned	based on 340/386 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae	1.00;0.88;0.86;0.86;0.86;0.41
+rosella_refined_0_108.fna	taxid assigned	based on 263/274 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae*	1.00;0.99;0.88;0.88;0.65;0.65
+rosella_refined_0_11.fna	taxid assigned	based on 397/424 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales;f__Balneolaceae;g__Gracilimonas	1.00;1.00;0.97;0.93;0.92;0.90;0.72
+rosella_refined_0_110.fna	taxid assigned	based on 310/332 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Halomonas	1.00;0.76;0.66;0.64;0.39;0.38;0.35
+rosella_refined_0_111.fna	taxid assigned (1/2)	based on 169/268 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.44;0.40;0.38;0.38
+rosella_refined_0_111.fna	taxid assigned (2/2)	based on 169/268 ORFs	root;d__Bacteria	1.00;0.51
+rosella_refined_0_113.fna	taxid assigned (1/2)	based on 160/273 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.68;0.67;0.67;0.67
+rosella_refined_0_113.fna	taxid assigned (2/2)	based on 160/273 ORFs	root;d__Bacteria	1.00;0.31
+rosella_refined_0_114.fna	taxid assigned	based on 333/379 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__SW-7-71-33;g__SW-7-71-33;s__SW-7-71-33 sp003022865	1.00;0.99;0.99;0.99;0.99;0.45;0.45;0.40
+rosella_refined_0_116.fna	taxid assigned	based on 340/350 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Halomonas	1.00;0.99;0.87;0.87;0.60;0.49;0.47
+rosella_refined_0_117.fna	taxid assigned	based on 248/256 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Halomonas	1.00;1.00;0.97;0.97;0.71;0.68;0.65
+rosella_refined_0_118.fna	taxid assigned	based on 194/254 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.88;0.87;0.87;0.87
+rosella_refined_0_119.fna	taxid assigned	based on 645/695 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Halosegnis	1.00;0.86;0.86;0.86;0.86;0.51;0.37
+rosella_refined_0_12.fna	taxid assigned	based on 2148/2202 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__SZUA-229;f__SZUA-229;g__SZUA-229	1.00;1.00;0.94;0.93;0.69;0.69;0.59
+rosella_refined_0_120.fna	taxid assigned	based on 291/333 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Halosegnis	1.00;0.98;0.98;0.98;0.98;0.66;0.44
+rosella_refined_0_121.fna	taxid assigned (1/2)	based on 223/235 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.69;0.58;0.57
+rosella_refined_0_121.fna	taxid assigned (2/2)	based on 223/235 ORFs	root;d__Archaea	1.00;0.31
+rosella_refined_0_122.fna	taxid assigned	based on 338/354 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Halosegnis	1.00;0.74;0.74;0.74;0.74;0.53;0.38
+rosella_refined_0_123.fna	taxid assigned	based on 160/168 ORFs	root;d__Bacteria;p__Planctomycetota	1.00;1.00;0.30
+rosella_refined_0_124.fna	taxid assigned	based on 218/277 ORFs	root;d__Bacteria;p__Bacteroidota	1.00;0.88;0.50
+rosella_refined_0_125.fna	taxid assigned	based on 395/443 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae	1.00;0.78;0.78;0.77;0.77;0.31
+rosella_refined_0_126.fna	taxid assigned	based on 248/272 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.88;0.88;0.88;0.88
+rosella_refined_0_127.fna	taxid assigned	based on 764/790 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae	1.00;1.00;1.00;1.00;1.00;0.38
+rosella_refined_0_128.fna	taxid assigned (1/2)	based on 277/298 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.98;0.37;0.37
+rosella_refined_0_128.fna	taxid assigned (2/2)	based on 277/298 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia	1.00;0.98;0.53;0.32
+rosella_refined_0_130.fna	taxid assigned (1/2)	based on 131/200 ORFs	root;d__Archaea	1.00;0.34
+rosella_refined_0_130.fna	taxid assigned (2/2)	based on 131/200 ORFs	root;d__Bacteria	1.00;0.65
+rosella_refined_0_132.fna	taxid assigned (1/2)	based on 163/179 ORFs	root;d__Bacteria;p__Planctomycetota	1.00;1.00;0.32
+rosella_refined_0_132.fna	taxid assigned (2/2)	based on 163/179 ORFs	root;d__Bacteria;p__Pseudomonadota	1.00;1.00;0.44
+rosella_refined_0_133.fna	taxid assigned	based on 243/391 ORFs	root;d__Bacteria;p__Bacillota;c__Bacilli;o__Izemoplasmatales;f__UBA5603;g__Zrk29	1.00;0.97;0.65;0.65;0.51;0.48;0.40
+rosella_refined_0_134.fna	taxid assigned	based on 201/246 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae	1.00;0.90;0.90;0.90;0.90;0.30
+rosella_refined_0_135.fna	taxid assigned	based on 161/176 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales	1.00;1.00;0.81;0.69;0.67
+rosella_refined_0_137.fna	taxid assigned	based on 218/219 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Halomonas	1.00;0.99;0.99;0.99;0.99;0.97;0.96
+rosella_refined_0_138.fna	taxid assigned	based on 210/213 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Halomonas	1.00;1.00;1.00;1.00;0.95;0.95;0.93
+rosella_refined_0_139.fna	taxid assigned	based on 502/517 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Halomonas	1.00;0.97;0.81;0.81;0.62;0.61;0.60
+rosella_refined_0_14.fna	taxid assigned	based on 501/521 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia	1.00;0.97;0.77;0.72
+rosella_refined_0_141.fna	taxid assigned	based on 202/256 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Halomonas	1.00;0.76;0.37;0.37;0.37;0.36;0.32
+rosella_refined_0_142.fna	taxid assigned	based on 491/568 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__A07HB70;s__A07HB70 sp000496195*	1.00;0.97;0.97;0.97;0.97;0.44;0.32;0.32
+rosella_refined_0_144.fna	taxid assigned (1/2)	based on 217/241 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.42;0.42;0.42;0.42
+rosella_refined_0_144.fna	taxid assigned (2/2)	based on 217/241 ORFs	root;d__Bacteria	1.00;0.58
+rosella_refined_0_145.fna	taxid assigned	based on 403/411 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Natronospirillaceae;g__Saccharospirillum	1.00;1.00;1.00;1.00;0.98;0.88;0.88
+rosella_refined_0_148.fna	taxid assigned	based on 799/815 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Aquaticitalea;s__Aquaticitalea lipolytica	1.00;0.99;0.97;0.95;0.95;0.94;0.84;0.72
+rosella_refined_0_149.fna	taxid assigned	based on 363/371 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Aquaticitalea;s__Aquaticitalea lipolytica	1.00;0.97;0.94;0.93;0.93;0.93;0.83;0.74
+rosella_refined_0_15.fna	taxid assigned	based on 863/908 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia	1.00;0.97;0.78;0.72
+rosella_refined_0_150.fna	taxid assigned	based on 342/363 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae	1.00;1.00;1.00;1.00;1.00;0.41
+rosella_refined_0_151.fna	taxid assigned	based on 211/239 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae	1.00;0.95;0.95;0.95;0.95;0.41
+rosella_refined_0_152.fna	taxid assigned (1/2)	based on 179/195 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Psychrobacter	1.00;0.95;0.54;0.54;0.54;0.54;0.54
+rosella_refined_0_152.fna	taxid assigned (2/2)	based on 179/195 ORFs	root;d__Bacteria;p__Bacteroidota	1.00;0.95;0.40
+rosella_refined_0_153.fna	taxid assigned	based on 249/253 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Natronospirillaceae;g__Saccharospirillum	1.00;0.99;0.99;0.99;0.99;0.98;0.97
+rosella_refined_0_155.fna	taxid assigned (1/2)	based on 761/913 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.47;0.44;0.44;0.44
+rosella_refined_0_155.fna	taxid assigned (2/2)	based on 761/913 ORFs	root;d__Bacteria	1.00;0.51
+rosella_refined_0_156.fna	taxid assigned	based on 433/438 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Natronospirillaceae;g__Saccharospirillum	1.00;1.00;0.99;0.99;0.98;0.94;0.93
+rosella_refined_0_157.fna	taxid assigned (1/2)	based on 238/310 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.64;0.62;0.62;0.62
+rosella_refined_0_157.fna	taxid assigned (2/2)	based on 238/310 ORFs	root;d__Bacteria	1.00;0.31
+rosella_refined_0_159.fna	taxid assigned	based on 744/878 ORFs	root;d__Archaea;p__Nanohaloarchaeota;c__Nanosalinia;o__Nanosalinales;f__Nanosalinaceae;g__Nanohalobium;s__Nanohalobium constans	1.00;0.88;0.79;0.79;0.79;0.78;0.50;0.47
+rosella_refined_0_16.fna	taxid assigned	based on 220/268 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Bact-08	1.00;0.71;0.51;0.51;0.48;0.47;0.45
+rosella_refined_0_160.fna	taxid assigned (1/2)	based on 181/225 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.39;0.33;0.32;0.32
+rosella_refined_0_160.fna	taxid assigned (2/2)	based on 181/225 ORFs	root;d__Bacteria	1.00;0.58
+rosella_refined_0_161.fna	taxid assigned	based on 133/180 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.88;0.86;0.86;0.86
+rosella_refined_0_162.fna	taxid assigned	based on 178/190 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Halomonas	1.00;0.86;0.55;0.55;0.38;0.38;0.34
+rosella_refined_0_163.fna	taxid assigned	based on 413/445 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae	1.00;0.92;0.92;0.92;0.92;0.47
+rosella_refined_0_164.fna	taxid assigned (1/2)	based on 229/319 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Psychrobacter	1.00;0.54;0.32;0.32;0.32;0.32;0.32
+rosella_refined_0_164.fna	taxid assigned (2/2)	based on 229/319 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.44;0.35;0.35;0.35
+rosella_refined_0_165.fna	taxid assigned (1/2)	based on 440/485 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.38;0.36;0.36;0.36
+rosella_refined_0_165.fna	taxid assigned (2/2)	based on 440/485 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia	1.00;0.62;0.31;0.31
+rosella_refined_0_166.fna	taxid assigned	based on 367/405 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__SW-7-71-33;g__SW-7-71-33;s__SW-7-71-33 sp003022865	1.00;0.97;0.97;0.97;0.97;0.47;0.47;0.40
+rosella_refined_0_168.fna	taxid assigned	based on 252/253 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Aquaticitalea;s__Aquaticitalea lipolytica	1.00;0.99;0.99;0.99;0.99;0.99;0.85;0.74
+rosella_refined_0_17.fna	taxid assigned	based on 327/392 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Halosegnis	1.00;0.89;0.85;0.85;0.85;0.58;0.46
+rosella_refined_0_170.fna	taxid assigned	based on 314/381 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.91;0.91;0.91;0.91
+rosella_refined_0_171.fna	taxid assigned (1/2)	based on 187/224 ORFs	root;d__Bacteria;p__Spirochaetota;c__Spirochaetia	1.00;0.83;0.33;0.33
+rosella_refined_0_171.fna	taxid assigned (2/2)	based on 187/224 ORFs	root;d__Bacteria;p__Bacteroidota	1.00;0.83;0.38
+rosella_refined_0_172.fna	taxid assigned	based on 235/237 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halobellus	1.00;1.00;1.00;1.00;1.00;0.92;0.84
+rosella_refined_0_179.fna	taxid assigned	based on 208/218 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Rhodothermales;f__Salinibacteraceae;g__Salinibacter	1.00;1.00;0.99;0.99;0.99;0.99;0.98
+rosella_refined_0_19.fna	taxid assigned	based on 268/287 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Halosegnis	1.00;0.90;0.90;0.90;0.90;0.60;0.42
+rosella_refined_0_20.fna	taxid assigned	based on 204/213 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia	1.00;0.80;0.63;0.55
+rosella_refined_0_200.fna	taxid assigned	based on 303/313 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Rhodothermales;f__Salinibacteraceae;g__Salinibacter	1.00;1.00;0.98;0.98;0.98;0.98;0.93
+rosella_refined_0_209.fna	taxid assigned	based on 241/250 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halobellus	1.00;1.00;1.00;1.00;1.00;0.64;0.31
+rosella_refined_0_21.fna	taxid assigned	based on 660/693 ORFs	root;d__Bacteria;p__Pseudomonadota	1.00;0.91;0.35
+rosella_refined_0_217.fna	taxid assigned	based on 226/235 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__A07HB70;s__A07HB70 sp000496195*	1.00;0.94;0.94;0.94;0.94;0.69;0.56;0.56
+rosella_refined_0_224.fna	taxid assigned	based on 215/227 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Rhodothermales;f__Salinibacteraceae;g__Salinibacter	1.00;0.99;0.98;0.98;0.98;0.98;0.96
+rosella_refined_0_227.fna	taxid assigned	based on 314/320 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halorubrum;s__Halorubrum sp000496175	1.00;1.00;1.00;1.00;1.00;0.83;0.66;0.41
+rosella_refined_0_23.fna	taxid assigned	based on 219/235 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia	1.00;0.96;0.80;0.67
+rosella_refined_0_234.fna	taxid assigned	based on 262/281 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halorubrum;s__Halorubrum sp000496175	1.00;0.98;0.97;0.97;0.97;0.82;0.55;0.41
+rosella_refined_0_24.fna	taxid assigned	based on 646/707 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__A07HB70;s__A07HB70 sp000496195*	1.00;0.93;0.93;0.93;0.93;0.74;0.55;0.55
+rosella_refined_0_25.fna	taxid assigned	based on 1249/1368 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.73;0.73;0.73;0.73
+rosella_refined_0_260.fna	taxid assigned	based on 278/288 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Rhodothermales;f__Salinibacteraceae;g__Salinibacter	1.00;0.99;0.99;0.99;0.99;0.99;0.96
+rosella_refined_0_261.fna	taxid assigned	based on 429/457 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halorubrum;s__Halorubrum sp000496175	1.00;0.99;0.99;0.99;0.99;0.93;0.90;0.63
+rosella_refined_0_276.fna	taxid assigned	based on 166/215 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae	1.00;0.91;0.90;0.90;0.90;0.45
+rosella_refined_0_279.fna	taxid assigned	based on 232/241 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Rhodothermales;f__Salinibacteraceae;g__Salinibacter;s__Salinibacter sp913056185	1.00;0.94;0.91;0.91;0.91;0.89;0.83;0.30
+rosella_refined_0_28.fna	taxid assigned	based on 273/282 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Halosegnis	1.00;1.00;1.00;1.00;1.00;0.82;0.67
+rosella_refined_0_280.fna	taxid assigned	based on 268/313 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae	1.00;0.98;0.97;0.97;0.97;0.51
+rosella_refined_0_288.fna	taxid assigned	based on 248/272 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halorubrum	1.00;0.80;0.77;0.77;0.77;0.66;0.32
+rosella_refined_0_29.fna	taxid assigned	based on 212/288 ORFs	root;d__Archaea;p__Nanohaloarchaeota;c__Nanosalinia;o__Nanosalinales;f__Nanosalinaceae;g__Nanohalobium;s__Nanohalobium constans	1.00;0.84;0.75;0.75;0.75;0.72;0.43;0.38
+rosella_refined_0_3.fna	taxid assigned	based on 329/337 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__SZUA-229;f__SZUA-229;g__SZUA-229	1.00;1.00;0.95;0.95;0.71;0.71;0.63
+rosella_refined_0_309.fna	taxid assigned	based on 426/430 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halorubrum;s__Halorubrum sp000496175	1.00;1.00;1.00;1.00;1.00;0.96;0.87;0.70
+rosella_refined_0_319.fna	taxid assigned	based on 275/326 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halorubrum;s__Halorubrum sp000496175	1.00;0.88;0.82;0.82;0.82;0.75;0.69;0.52
+rosella_refined_0_32.fna	taxid assigned (1/2)	based on 185/194 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.60;0.59;0.59;0.59
+rosella_refined_0_32.fna	taxid assigned (2/2)	based on 185/194 ORFs	root;d__Bacteria	1.00;0.40
+rosella_refined_0_320.fna	taxid assigned	based on 211/212 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Psychrobacter;s__Psychrobacter immobilis_F	1.00;1.00;1.00;1.00;1.00;1.00;1.00;0.67
+rosella_refined_0_321.fna	taxid assigned	based on 230/253 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halobellus	1.00;0.70;0.70;0.70;0.70;0.62;0.37
+rosella_refined_0_322.fna	taxid assigned	based on 235/240 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae	1.00;0.91;0.91;0.91;0.91;0.67
+rosella_refined_0_36.fna	taxid assigned	based on 1290/1381 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__A07HB70;s__A07HB70 sp000496195*	1.00;0.94;0.94;0.94;0.94;0.56;0.43;0.43
+rosella_refined_0_367.fna	taxid assigned	based on 229/232 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halobellus	1.00;1.00;1.00;1.00;1.00;0.92;0.75
+rosella_refined_0_368.fna	taxid assigned	based on 3594/3850 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halobellus	1.00;0.88;0.88;0.88;0.88;0.74;0.30
+rosella_refined_0_369.fna	taxid assigned	based on 201/216 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Rhodothermales;f__Salinibacteraceae;g__Salinibacter	1.00;0.99;0.91;0.90;0.89;0.88;0.85
+rosella_refined_0_37.fna	taxid assigned	based on 231/239 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae	1.00;1.00;1.00;1.00;1.00;0.43
+rosella_refined_0_370.fna	taxid assigned	based on 211/216 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Rhodothermales;f__Salinibacteraceae;g__Salinibacter	1.00;1.00;1.00;1.00;1.00;1.00;1.00
+rosella_refined_0_371.fna	taxid assigned	based on 255/296 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halorubrum;s__Halorubrum sp000496175	1.00;0.99;0.99;0.99;0.99;0.92;0.68;0.50
+rosella_refined_0_372.fna	taxid assigned	based on 289/317 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halorubrum;s__Halorubrum sp000496175	1.00;0.98;0.97;0.97;0.97;0.88;0.64;0.50
+rosella_refined_0_373.fna	taxid assigned	based on 173/226 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.91;0.34;0.33
+rosella_refined_0_374.fna	taxid assigned	based on 206/216 ORFs	root;d__Bacteria;p__Bacillota;c__Bacilli;o__Izemoplasmatales;f__Izemoplasmataceae;g__JAIPGF01	1.00;0.98;0.77;0.77;0.68;0.66;0.49
+rosella_refined_0_375.fna	taxid assigned	based on 226/253 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Natronospirillaceae;g__Saccharospirillum	1.00;0.97;0.81;0.81;0.61;0.49;0.49
+rosella_refined_0_376.fna	taxid assigned	based on 207/221 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Aquaticitalea;s__Aquaticitalea sp002426015	1.00;1.00;0.97;0.97;0.93;0.93;0.78;0.68
+rosella_refined_0_377.fna	taxid assigned	based on 192/212 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Dokdonia;s__Dokdonia sp002712765	1.00;0.99;0.88;0.88;0.86;0.85;0.81;0.62
+rosella_refined_0_378.fna	taxid assigned	based on 286/296 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales;f__Balneolaceae;g__Gracilimonas	1.00;1.00;1.00;0.98;0.98;0.98;0.90
+rosella_refined_0_379.fna	taxid assigned	based on 183/309 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.69;0.58;0.58;0.58
+rosella_refined_0_381.fna	taxid assigned	based on 175/230 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.88;0.87;0.87;0.87
+rosella_refined_0_382.fna	taxid assigned	based on 103/219 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.93;0.89;0.88;0.86
+rosella_refined_0_383.fna	taxid assigned	based on 346/416 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia	1.00;0.97;0.54;0.31
+rosella_refined_0_384.fna	taxid assigned	based on 241/280 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.94;0.58;0.53
+rosella_refined_0_386.fna	taxid assigned	based on 262/327 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales	1.00;0.93;0.43;0.35;0.34
+rosella_refined_0_388.fna	taxid assigned	based on 379/429 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae	1.00;0.90;0.87;0.87;0.87;0.34
+rosella_refined_0_389.fna	taxid assigned	based on 328/411 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.75;0.38;0.37
+rosella_refined_0_39.fna	taxid assigned	based on 234/296 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.93;0.87;0.87;0.87
+rosella_refined_0_390.fna	taxid assigned	based on 340/374 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__A07HB70;s__A07HB70 sp000496195*	1.00;0.95;0.95;0.95;0.95;0.67;0.49;0.49
+rosella_refined_0_391.fna	taxid assigned	based on 240/277 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.96;0.53;0.53
+rosella_refined_0_393.fna	taxid assigned (1/2)	based on 190/245 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae	1.00;0.68;0.67;0.67;0.67;0.32
+rosella_refined_0_393.fna	taxid assigned (2/2)	based on 190/245 ORFs	root;d__Bacteria	1.00;0.32
+rosella_refined_0_394.fna	taxid assigned	based on 192/246 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halobaculum;s__Halobaculum sp018609965	1.00;0.93;0.92;0.92;0.92;0.73;0.38;0.34
+rosella_refined_0_395.fna	taxid assigned	based on 151/193 ORFs	root;d__Bacteria;p__Bacteroidota	1.00;0.77;0.35
+rosella_refined_0_396.fna	taxid assigned	based on 499/613 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae	1.00;0.85;0.85;0.85;0.85;0.34
+rosella_refined_0_397.fna	taxid assigned	based on 179/343 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia	1.00;0.67;0.46;0.32
+rosella_refined_0_398.fna	taxid assigned	based on 474/482 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Natronospirillaceae;g__Saccharospirillum	1.00;0.99;0.97;0.97;0.96;0.83;0.83
+rosella_refined_0_399.fna	taxid assigned	based on 213/269 ORFs	root;d__Bacteria;p__Bacteroidota	1.00;0.90;0.52
+rosella_refined_0_4.fna	taxid assigned	based on 581/602 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales;f__Balneolaceae;g__Gracilimonas	1.00;1.00;0.98;0.94;0.94;0.93;0.75
+rosella_refined_0_400.fna	taxid assigned	based on 350/373 ORFs	root;d__Bacteria	1.00;0.86
+rosella_refined_0_402.fna	taxid assigned (1/2)	based on 312/352 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.61;0.61;0.61;0.61
+rosella_refined_0_402.fna	taxid assigned (2/2)	based on 312/352 ORFs	root;d__Bacteria	1.00;0.38
+rosella_refined_0_405.fna	taxid assigned (1/2)	based on 190/209 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.37;0.36;0.36;0.36
+rosella_refined_0_405.fna	taxid assigned (2/2)	based on 190/209 ORFs	root;d__Bacteria;p__Bacteroidota	1.00;0.60;0.30
+rosella_refined_0_407.fna	taxid assigned	based on 294/312 ORFs	root;d__Bacteria	1.00;0.97
+rosella_refined_0_408.fna	taxid assigned (1/2)	based on 160/239 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.62;0.58;0.58;0.58
+rosella_refined_0_408.fna	taxid assigned (2/2)	based on 160/239 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.38;0.33;0.33
+rosella_refined_0_410.fna	taxid assigned	based on 350/405 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae	1.00;0.98;0.94;0.94;0.94;0.40
+rosella_refined_0_411.fna	taxid assigned	based on 287/336 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae	1.00;0.99;0.63;0.57;0.53;0.53
+rosella_refined_0_412.fna	taxid assigned	based on 170/220 ORFs	root;d__Bacteria;p__Planctomycetota;c__Planctomycetia	1.00;1.00;0.31;0.31
+rosella_refined_0_413.fna	taxid assigned	based on 296/364 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae	1.00;0.94;0.93;0.93;0.93;0.32
+rosella_refined_0_414.fna	taxid assigned	based on 374/403 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.98;0.98;0.97;0.96
+rosella_refined_0_415.fna	taxid assigned (1/2)	based on 302/345 ORFs	root;d__Archaea;p__Nanohaloarchaeota;c__Nanosalinia;o__Nanosalinales;f__Nanosalinaceae	1.00;0.45;0.36;0.36;0.36;0.36
+rosella_refined_0_415.fna	taxid assigned (2/2)	based on 302/345 ORFs	root;d__Bacteria	1.00;0.54
+rosella_refined_0_416.fna	taxid assigned (1/2)	based on 212/232 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Rhodothermales;f__Salinibacteraceae	1.00;1.00;0.35;0.33;0.33;0.32
+rosella_refined_0_416.fna	taxid assigned (2/2)	based on 212/232 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;1.00;0.34;0.31
+rosella_refined_0_417.fna	taxid assigned	based on 309/354 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae	1.00;0.99;0.64;0.38;0.36;0.36
+rosella_refined_0_418.fna	taxid assigned (1/2)	based on 481/524 ORFs	root;d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Pirellulales	1.00;0.93;0.35;0.32;0.31
+rosella_refined_0_418.fna	taxid assigned (2/2)	based on 481/524 ORFs	root;d__Bacteria;p__Pseudomonadota	1.00;0.93;0.32
+rosella_refined_0_419.fna	taxid assigned (1/2)	based on 252/260 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Halomonas	1.00;0.97;0.91;0.34;0.32;0.32;0.32
+rosella_refined_0_419.fna	taxid assigned (2/2)	based on 252/260 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Geminicoccales;f__Geminicoccaceae*	1.00;0.97;0.91;0.55;0.31;0.31
+rosella_refined_0_42.fna	taxid assigned	based on 231/282 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.72;0.72;0.72;0.72
+rosella_refined_0_420.fna	taxid assigned	based on 185/316 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Aquaticitalea	1.00;0.98;0.72;0.62;0.59;0.58;0.43
+rosella_refined_0_421.fna	taxid assigned	based on 1135/1283 ORFs	root;d__Bacteria;p__Bacteroidota	1.00;0.80;0.37
+rosella_refined_0_422.fna	taxid assigned	based on 262/300 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae	1.00;0.95;0.95;0.95;0.95;0.35
+rosella_refined_0_423.fna	taxid assigned (1/2)	based on 191/197 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Halomonas	1.00;0.99;0.93;0.93;0.92;0.56;0.54
+rosella_refined_0_423.fna	taxid assigned (2/2)	based on 191/197 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Natronospirillaceae;g__Saccharospirillum	1.00;0.99;0.93;0.93;0.92;0.37;0.37
+rosella_refined_0_424.fna	taxid assigned	based on 306/354 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia	1.00;0.98;0.49;0.32
+rosella_refined_0_425.fna	taxid assigned	based on 310/348 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.97;0.51;0.35
+rosella_refined_0_427.fna	taxid assigned (1/2)	based on 186/213 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.68;0.64;0.64;0.64
+rosella_refined_0_427.fna	taxid assigned (2/2)	based on 186/213 ORFs	root;d__Bacteria	1.00;0.31
+rosella_refined_0_428.fna	taxid assigned (1/2)	based on 294/330 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.62;0.62;0.62;0.62
+rosella_refined_0_428.fna	taxid assigned (2/2)	based on 294/330 ORFs	root;d__Bacteria	1.00;0.36
+rosella_refined_0_429.fna	taxid assigned	based on 247/248 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Halomonas	1.00;0.99;0.95;0.95;0.93;0.93;0.91
+rosella_refined_0_43.fna	taxid assigned	based on 195/243 ORFs	root;d__Bacteria;p__Bacteroidota	1.00;0.72;0.46
+rosella_refined_0_430.fna	taxid assigned	based on 207/224 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae	1.00;0.99;0.88;0.64;0.52;0.52
+rosella_refined_0_432.fna	taxid assigned (1/2)	based on 744/822 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Halovenus	1.00;0.68;0.68;0.68;0.68;0.43;0.31
+rosella_refined_0_432.fna	taxid assigned (2/2)	based on 744/822 ORFs	root;d__Bacteria	1.00;0.31
+rosella_refined_0_434.fna	taxid assigned	based on 228/235 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Psychrobacter;s__Psychrobacter immobilis_F	1.00;1.00;0.99;0.99;0.99;0.99;0.99;0.57
+rosella_refined_0_436.fna	taxid assigned	based on 200/234 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Aquaticitalea;s__Aquaticitalea sp002426015	1.00;0.99;0.75;0.75;0.75;0.75;0.43;0.36
+rosella_refined_0_437.fna	taxid assigned (1/2)	based on 336/368 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.42;0.42;0.42;0.42
+rosella_refined_0_437.fna	taxid assigned (2/2)	based on 336/368 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales	1.00;0.58;0.52;0.50;0.47
+rosella_refined_0_438.fna	taxid assigned	based on 202/240 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales;f__Balneolaceae;g__Gracilimonas	1.00;0.98;0.96;0.74;0.74;0.74;0.73
+rosella_refined_0_439.fna	taxid assigned	based on 203/204 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Halomonas	1.00;1.00;0.91;0.91;0.79;0.79;0.79
+rosella_refined_0_440.fna	taxid assigned (1/2)	based on 1699/1990 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Rhodothermales;f__Salinibacteraceae;g__Salinibacter;s__Salinibacter sp913056185	1.00;0.66;0.59;0.58;0.57;0.57;0.56;0.46
+rosella_refined_0_440.fna	taxid assigned (2/2)	based on 1699/1990 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.34;0.32;0.32;0.32
+rosella_refined_0_441.fna	taxid assigned (1/2)	based on 226/317 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.51;0.46;0.46;0.46
+rosella_refined_0_441.fna	taxid assigned (2/2)	based on 226/317 ORFs	root;d__Bacteria	1.00;0.49
+rosella_refined_0_442.fna	taxid assigned	based on 165/186 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Stenotrophomonas	1.00;0.90;0.54;0.54;0.51;0.51;0.50
+rosella_refined_0_443.fna	taxid assigned (1/2)	based on 185/218 ORFs	root;d__Bacteria	1.00;0.58
+rosella_refined_0_443.fna	taxid assigned (2/2)	based on 185/218 ORFs	root;d__Archaea	1.00;0.40
+rosella_refined_0_445.fna	taxid assigned	based on 259/285 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae	1.00;0.91;0.56;0.52;0.36;0.31
+rosella_refined_0_446.fna	taxid assigned	based on 231/265 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae	1.00;1.00;0.76;0.62;0.48;0.48
+rosella_refined_0_447.fna	taxid assigned	based on 195/246 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales;f__Balneolaceae;g__Gracilimonas	1.00;0.86;0.47;0.34;0.34;0.34;0.34
+rosella_refined_0_448.fna	taxid assigned	based on 240/269 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Bact-08	1.00;0.99;0.84;0.84;0.77;0.70;0.63
+rosella_refined_0_449.fna	taxid assigned (1/2)	based on 189/212 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.45;0.44;0.44;0.44
+rosella_refined_0_449.fna	taxid assigned (2/2)	based on 189/212 ORFs	root;d__Bacteria	1.00;0.51
+rosella_refined_0_45.fna	taxid assigned	based on 163/177 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Psychrobacter;s__Psychrobacter immobilis_F	1.00;1.00;0.92;0.92;0.88;0.88;0.88;0.46
+rosella_refined_0_451.fna	taxid assigned (1/2)	based on 249/269 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Halomonas	1.00;0.68;0.51;0.51;0.45;0.45;0.40
+rosella_refined_0_451.fna	taxid assigned (2/2)	based on 249/269 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.31;0.30;0.30;0.30
+rosella_refined_0_452.fna	taxid assigned	based on 209/248 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.79;0.76;0.76;0.76
+rosella_refined_0_453.fna	taxid assigned	based on 229/281 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae	1.00;0.95;0.57;0.45;0.41;0.40
+rosella_refined_0_454.fna	taxid assigned	based on 660/741 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.97;0.46;0.40
+rosella_refined_0_455.fna	taxid assigned	based on 363/418 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Natronospirillaceae;g__Saccharospirillum	1.00;1.00;0.94;0.94;0.93;0.88;0.87
+rosella_refined_0_456.fna	taxid assigned (1/2)	based on 269/354 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.42;0.34;0.34;0.34
+rosella_refined_0_456.fna	taxid assigned (2/2)	based on 269/354 ORFs	root;d__Bacteria;p__Bacteroidota	1.00;0.56;0.34
+rosella_refined_0_457.fna	taxid assigned (1/2)	based on 182/204 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales;f__Balneolaceae	1.00;0.99;0.85;0.36;0.36;0.36
+rosella_refined_0_457.fna	taxid assigned (2/2)	based on 182/204 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae	1.00;0.99;0.85;0.49;0.37;0.37
+rosella_refined_0_458.fna	taxid assigned (1/2)	based on 484/529 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.33;0.33;0.33;0.33
+rosella_refined_0_458.fna	taxid assigned (2/2)	based on 484/529 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales	1.00;0.67;0.33;0.30;0.30
+rosella_refined_0_459.fna	taxid assigned	based on 218/218 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Natronospirillaceae;g__Saccharospirillum	1.00;1.00;1.00;1.00;1.00;0.99;0.99
+rosella_refined_0_46.fna	taxid assigned	based on 1015/1032 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia	1.00;0.99;0.91;0.91;0.86;0.86;0.47
+rosella_refined_0_460.fna	taxid assigned	based on 202/252 ORFs	root;d__Bacteria;p__Pseudomonadota	1.00;0.81;0.36
+rosella_refined_0_461.fna	taxid assigned (1/2)	based on 229/311 ORFs	root;d__Archaea;p__Halobacteriota	1.00;0.41;0.30
+rosella_refined_0_461.fna	taxid assigned (2/2)	based on 229/311 ORFs	root;d__Bacteria	1.00;0.55
+rosella_refined_0_463.fna	taxid assigned	based on 265/285 ORFs	root;d__Bacteria;p__Bacteroidota	1.00;0.88;0.41
+rosella_refined_0_464.fna	taxid assigned	based on 263/296 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae	1.00;0.84;0.84;0.84;0.84;0.35
+rosella_refined_0_465.fna	taxid assigned	based on 272/295 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Aquaticitalea;s__Aquaticitalea sp002426015	1.00;1.00;0.87;0.75;0.72;0.72;0.65;0.52
+rosella_refined_0_466.fna	taxid assigned	based on 190/214 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Natronospirillaceae;g__Saccharospirillum	1.00;0.98;0.91;0.90;0.82;0.71;0.70
+rosella_refined_0_467.fna	taxid assigned (1/2)	based on 263/311 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae	1.00;0.58;0.57;0.57;0.57;0.34
+rosella_refined_0_467.fna	taxid assigned (2/2)	based on 263/311 ORFs	root;d__Bacteria	1.00;0.41
+rosella_refined_0_468.fna	taxid assigned	based on 294/305 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales	1.00;0.96;0.66;0.54;0.36
+rosella_refined_0_47.fna	taxid assigned	based on 273/342 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae	1.00;0.81;0.81;0.81;0.81;0.41
+rosella_refined_0_470.fna	taxid assigned	based on 213/228 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae	1.00;0.98;0.70;0.54;0.35;0.35
+rosella_refined_0_472.fna	taxid assigned	based on 212/241 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia	1.00;0.89;0.46;0.35
+rosella_refined_0_473.fna	taxid assigned	based on 372/416 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae	1.00;0.87;0.86;0.86;0.86;0.38
+rosella_refined_0_474.fna	taxid assigned	based on 285/307 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.86;0.54;0.46
+rosella_refined_0_475.fna	taxid assigned	based on 405/463 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales;f__Balneolaceae;g__Gracilimonas	1.00;0.97;0.67;0.37;0.37;0.37;0.33
+rosella_refined_0_476.fna	taxid assigned	based on 393/433 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae	1.00;0.95;0.76;0.62;0.47;0.47
+rosella_refined_0_477.fna	taxid assigned	based on 187/199 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales	1.00;0.94;0.66;0.57;0.36
+rosella_refined_0_478.fna	taxid assigned	based on 310/335 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.96;0.50;0.45
+rosella_refined_0_479.fna	taxid assigned	based on 224/278 ORFs	root;d__Bacteria;p__Bacteroidota	1.00;0.97;0.56
+rosella_refined_0_48.fna	taxid assigned	based on 1112/1177 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__UBA4466	1.00;1.00;0.97;0.96;0.85;0.76;0.45
+rosella_refined_0_480.fna	taxid assigned	based on 239/270 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae	1.00;0.96;0.96;0.96;0.96;0.57
+rosella_refined_0_481.fna	taxid assigned (1/2)	based on 384/436 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.36;0.32;0.32;0.32
+rosella_refined_0_481.fna	taxid assigned (2/2)	based on 384/436 ORFs	root;d__Bacteria	1.00;0.64
+rosella_refined_0_482.fna	taxid assigned	based on 233/259 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae	1.00;0.99;0.71;0.67;0.56;0.56
+rosella_refined_0_483.fna	taxid assigned	based on 272/296 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.88;0.46;0.43
+rosella_refined_0_485.fna	taxid assigned	based on 254/290 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.98;0.51;0.40
+rosella_refined_0_487.fna	taxid assigned	based on 271/285 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae	1.00;0.93;0.93;0.92;0.92;0.30
+rosella_refined_0_488.fna	taxid assigned	based on 275/336 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales	1.00;0.72;0.34;0.33;0.33
+rosella_refined_0_489.fna	taxid assigned (1/2)	based on 239/259 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.33;0.33;0.33;0.33
+rosella_refined_0_489.fna	taxid assigned (2/2)	based on 239/259 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.67;0.35;0.34
+rosella_refined_0_490.fna	taxid assigned	based on 343/384 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae	1.00;0.99;0.75;0.50;0.31;0.31
+rosella_refined_0_491.fna	taxid assigned	based on 376/427 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae	1.00;0.97;0.73;0.56;0.40;0.40
+rosella_refined_0_492.fna	taxid assigned	based on 345/373 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.98;0.48;0.39
+rosella_refined_0_493.fna	taxid assigned	based on 381/398 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae	1.00;0.98;0.98;0.98;0.98;0.37
+rosella_refined_0_494.fna	taxid assigned (1/2)	based on 249/273 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Rhodothermales;f__Salinibacteraceae;g__Salinibacter;s__Salinibacter sp913056185	1.00;0.59;0.51;0.51;0.51;0.51;0.49;0.46
+rosella_refined_0_494.fna	taxid assigned (2/2)	based on 249/273 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.41;0.40;0.40;0.40
+rosella_refined_0_495.fna	taxid assigned	based on 266/291 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halobellus	1.00;0.93;0.93;0.93;0.93;0.84;0.64
+rosella_refined_0_497.fna	taxid assigned	based on 235/249 ORFs	root;d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__JABMQR01;f__JABMQR01;g__JAIPFY01;s__JAIPFY01 sp021736385*	1.00;0.93;0.67;0.67;0.47;0.47;0.39;0.39
+rosella_refined_0_499.fna	taxid assigned	based on 173/224 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae	1.00;0.79;0.78;0.78;0.78;0.40
+rosella_refined_0_5.fna	taxid assigned	based on 187/202 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales;f__Balneolaceae;g__Gracilimonas	1.00;0.95;0.91;0.87;0.87;0.85;0.60
+rosella_refined_0_50.fna	taxid assigned	based on 2277/2607 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.74;0.71;0.70;0.70
+rosella_refined_0_501.fna	taxid assigned	based on 204/217 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.97;0.40;0.40
+rosella_refined_0_503.fna	taxid assigned	based on 270/285 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales	1.00;0.95;0.54;0.49;0.34
+rosella_refined_0_504.fna	taxid assigned	based on 399/469 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia	1.00;0.94;0.64;0.36
+rosella_refined_0_505.fna	taxid assigned	based on 931/1049 ORFs	root;d__Bacteria;p__Pseudomonadota	1.00;0.98;0.35
+rosella_refined_0_506.fna	taxid assigned	based on 233/238 ORFs	root;d__Bacteria;p__Gemmatimonadota;c__Gemmatimonadetes;o__KS3-K002;f__JABDQB01;g__JAENXO01;s__JAENXO01 sp023554245	1.00;0.96;0.90;0.90;0.88;0.88;0.80;0.73
+rosella_refined_0_507.fna	taxid assigned	based on 236/251 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales;f__Balneolaceae;g__Gracilimonas	1.00;1.00;0.79;0.66;0.66;0.64;0.58
+rosella_refined_0_508.fna	taxid assigned (1/2)	based on 245/275 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales	1.00;0.98;0.47;0.44;0.30
+rosella_refined_0_508.fna	taxid assigned (2/2)	based on 245/275 ORFs	root;d__Bacteria;p__Planctomycetota;c__Planctomycetia	1.00;0.98;0.35;0.30
+rosella_refined_0_509.fna	taxid assigned	based on 316/363 ORFs	root;d__Bacteria;p__Bacteroidota	1.00;0.95;0.49
+rosella_refined_0_511.fna	taxid assigned	based on 433/496 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.99;0.60;0.46
+rosella_refined_0_512.fna	taxid assigned	based on 250/286 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia	1.00;1.00;0.56;0.33
+rosella_refined_0_513.fna	taxid assigned	based on 438/485 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;1.00;0.42;0.32
+rosella_refined_0_515.fna	taxid assigned	based on 249/272 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.99;0.61;0.35
+rosella_refined_0_516.fna	taxid assigned	based on 242/294 ORFs	root;d__Bacteria;p__Bacteroidota	1.00;0.96;0.51
+rosella_refined_0_517.fna	taxid assigned	based on 335/349 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.99;0.51;0.48
+rosella_refined_0_518.fna	taxid assigned	based on 219/248 ORFs	root;d__Bacteria;p__Bacteroidota	1.00;0.97;0.40
+rosella_refined_0_52.fna	taxid assigned	based on 387/400 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodospirillales_A;f__Magnetovibrionaceae;g__Magnetovibrio;s__Magnetovibrio sp024653965	1.00;0.99;0.98;0.97;0.93;0.89;0.59;0.31
+rosella_refined_0_520.fna	taxid assigned	based on 208/233 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales	1.00;0.97;0.62;0.55;0.39
+rosella_refined_0_53.fna	taxid assigned	based on 1144/1228 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales	1.00;1.00;0.89;0.76;0.75
+rosella_refined_0_6.fna	taxid assigned	based on 245/254 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Thiohalomonadales;f__Thiohalomonadaceae*	1.00;1.00;0.94;0.93;0.44;0.44
+rosella_refined_0_7.fna	taxid assigned	based on 142/264 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__UBA4466	1.00;0.90;0.80;0.77;0.75;0.71;0.39
+rosella_refined_0_70.fna	taxid assigned	based on 430/463 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales;f__Balneolaceae	1.00;0.98;0.87;0.77;0.76;0.33
+rosella_refined_0_8.fna	taxid assigned	based on 1515/1601 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__UBA4466	1.00;0.99;0.98;0.97;0.86;0.79;0.48
+rosella_refined_0_80.fna	taxid assigned	based on 174/189 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales	1.00;0.98;0.79;0.67;0.65
+rosella_refined_0_81.fna	taxid assigned	based on 1876/2158 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.78;0.77;0.76;0.76
+rosella_refined_0_82.fna	taxid assigned	based on 168/181 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales;f__Balneolaceae	1.00;1.00;0.89;0.74;0.74;0.36
+rosella_refined_0_83.fna	taxid assigned	based on 436/445 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Thiohalomonadales;f__Thiohalomonadaceae*	1.00;1.00;0.95;0.93;0.49;0.49
+rosella_refined_0_84.fna	taxid assigned	based on 200/235 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria	1.00;0.93;0.70;0.67
+rosella_refined_0_85.fna	taxid assigned	based on 293/293 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia	1.00;1.00;0.98;0.98;0.96;0.96;0.59
+rosella_refined_0_86.fna	taxid assigned	based on 193/202 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia	1.00;1.00;0.96;0.96;0.94;0.94;0.34
+rosella_refined_0_87.fna	taxid assigned	based on 289/290 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia	1.00;1.00;0.95;0.95;0.94;0.94;0.53
+rosella_refined_0_89.fna	taxid assigned	based on 258/274 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia	1.00;0.95;0.89;0.88;0.85;0.85;0.52
+rosella_refined_0_9.fna	taxid assigned	based on 1632/1685 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales;f__Balneolaceae;g__Gracilimonas	1.00;1.00;0.98;0.96;0.96;0.95;0.77
+rosella_refined_0_90.fna	taxid assigned	based on 261/267 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae*	1.00;0.93;0.90;0.90;0.77;0.77
+rosella_refined_0_91.fna	taxid assigned	based on 1030/1048 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia	1.00;1.00;0.94;0.94;0.92;0.92;0.42
+rosella_refined_0_92.fna	taxid assigned (1/2)	based on 273/332 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales	1.00;0.40;0.35;0.34;0.34
+rosella_refined_0_92.fna	taxid assigned (2/2)	based on 273/332 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.58;0.58;0.58;0.58
+rosella_refined_0_93.fna	taxid assigned	based on 310/324 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__UBA4466	1.00;1.00;0.97;0.97;0.89;0.85;0.41
+rosella_refined_0_94.fna	taxid assigned	based on 182/212 ORFs	root;d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Rhodothermales;f__Salinibacteraceae;g__Salinibacter;s__Salinibacter sp913056185	1.00;1.00;0.92;0.91;0.91;0.90;0.88;0.74
+rosella_refined_0_95.fna	taxid assigned	based on 321/325 ORFs	root;d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia	1.00;0.99;0.91;0.91;0.90;0.90;0.37
+rosella_refined_0_96.fna	taxid assigned	based on 227/282 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales	1.00;0.70;0.67;0.67;0.67
+rosella_refined_0_97.fna	taxid assigned	based on 246/258 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae	1.00;0.99;0.99;0.99;0.99;0.49
+rosella_refined_0_98.fna	taxid assigned	based on 728/759 ORFs	root;d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae	1.00;0.71;0.71;0.71;0.71;0.31
+rosella_refined_0_99.fna	taxid assigned	based on 239/246 ORFs	root;d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__UBA4466	1.00;0.99;0.98;0.96;0.88;0.82;0.54

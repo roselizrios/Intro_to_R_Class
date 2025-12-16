@@ -1,0 +1,1464 @@
+NODE_593_length_33201_cov_65.733060_4					
+NODE_593_length_33201_cov_65.733060_5	K06909	xtmB; phage terminase large subunit			
+NODE_593_length_33201_cov_65.733060_6					
+NODE_593_length_33201_cov_65.733060_10					
+NODE_593_length_33201_cov_65.733060_14					
+NODE_593_length_33201_cov_65.733060_15					
+NODE_593_length_33201_cov_65.733060_18					
+NODE_593_length_33201_cov_65.733060_21					
+NODE_593_length_33201_cov_65.733060_28					
+NODE_593_length_33201_cov_65.733060_29					
+NODE_593_length_33201_cov_65.733060_48					
+NODE_593_length_33201_cov_65.733060_49					
+NODE_593_length_33201_cov_65.733060_50					
+NODE_593_length_33201_cov_65.733060_52					
+NODE_599_length_33099_cov_63.914054_1					
+NODE_599_length_33099_cov_63.914054_2					
+NODE_599_length_33099_cov_63.914054_3					
+NODE_599_length_33099_cov_63.914054_4					
+NODE_599_length_33099_cov_63.914054_5					
+NODE_599_length_33099_cov_63.914054_6					
+NODE_599_length_33099_cov_63.914054_7					
+NODE_599_length_33099_cov_63.914054_8					
+NODE_599_length_33099_cov_63.914054_9					
+NODE_599_length_33099_cov_63.914054_10					
+NODE_599_length_33099_cov_63.914054_13					
+NODE_599_length_33099_cov_63.914054_15	K13444	SUMF1, FGE; formylglycine-generating enzyme [EC:1.8.3.7]			
+NODE_599_length_33099_cov_63.914054_16					
+NODE_599_length_33099_cov_63.914054_17	K21572	susD; starch-binding outer membrane protein, SusD/RagB family			
+NODE_599_length_33099_cov_63.914054_18					
+NODE_599_length_33099_cov_63.914054_19					
+NODE_1259_length_21952_cov_68.342239_2					
+NODE_1259_length_21952_cov_68.342239_3	K03630	radC; DNA repair protein RadC			
+NODE_1259_length_21952_cov_68.342239_5					
+NODE_1259_length_21952_cov_68.342239_6					
+NODE_1259_length_21952_cov_68.342239_7					
+NODE_1259_length_21952_cov_68.342239_8					
+NODE_1259_length_21952_cov_68.342239_11					
+NODE_1259_length_21952_cov_68.342239_12					
+NODE_1259_length_21952_cov_68.342239_17					
+NODE_1259_length_21952_cov_68.342239_18	K10726	mcm; replicative DNA helicase Mcm [EC:5.6.2.3]			
+NODE_1259_length_21952_cov_68.342239_19					
+NODE_1259_length_21952_cov_68.342239_22					
+NODE_1259_length_21952_cov_68.342239_23					
+NODE_1259_length_21952_cov_68.342239_26					
+NODE_1296_length_21572_cov_56.876795_2					
+NODE_1296_length_21572_cov_56.876795_3					
+NODE_1296_length_21572_cov_56.876795_4					
+NODE_1296_length_21572_cov_56.876795_5					
+NODE_1296_length_21572_cov_56.876795_9					
+NODE_1296_length_21572_cov_56.876795_10					
+NODE_1296_length_21572_cov_56.876795_12					
+NODE_1360_length_20912_cov_70.037350_2	K11749	rseP; regulator of sigma E protease [EC:3.4.24.-]			
+NODE_1360_length_20912_cov_70.037350_3	K00099	dxr; 1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267]			
+NODE_1360_length_20912_cov_70.037350_4					
+NODE_1360_length_20912_cov_70.037350_5					
+NODE_1360_length_20912_cov_70.037350_6					
+NODE_1360_length_20912_cov_70.037350_8	K00067	rfbD, rmlD; dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]			
+NODE_1360_length_20912_cov_70.037350_9					
+NODE_1360_length_20912_cov_70.037350_10	K03841	FBP, fbp; fructose-1,6-bisphosphatase I [EC:3.1.3.11]			
+NODE_1360_length_20912_cov_70.037350_11	K09931	K09931; uncharacterized protein			
+NODE_1360_length_20912_cov_70.037350_12	K04487	iscS, NFS1; cysteine desulfurase [EC:2.8.1.7]			
+NODE_1360_length_20912_cov_70.037350_14					
+NODE_1360_length_20912_cov_70.037350_15					
+NODE_1360_length_20912_cov_70.037350_16	K01945	purD; phosphoribosylamine---glycine ligase [EC:6.3.4.13]			
+NODE_1468_length_19919_cov_61.001108_3					
+NODE_1468_length_19919_cov_61.001108_7					
+NODE_1468_length_19919_cov_61.001108_8					
+NODE_1468_length_19919_cov_61.001108_9					
+NODE_1468_length_19919_cov_61.001108_12					
+NODE_1468_length_19919_cov_61.001108_13					
+NODE_1468_length_19919_cov_61.001108_14	K00558	DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]			
+NODE_1468_length_19919_cov_61.001108_15					
+NODE_1468_length_19919_cov_61.001108_16	K03575	mutY; A/G-specific adenine glycosylase [EC:3.2.2.31]			
+NODE_1468_length_19919_cov_61.001108_18					
+NODE_1491_length_19684_cov_54.898670_3	K03124	TFIIB, GTF2B, SUA7, tfb; transcription initiation factor TFIIB			
+NODE_1491_length_19684_cov_54.898670_4	K10726	mcm; replicative DNA helicase Mcm [EC:5.6.2.3]			
+NODE_1491_length_19684_cov_54.898670_5					
+NODE_1491_length_19684_cov_54.898670_6	K09005	K09005; uncharacterized protein			
+NODE_1491_length_19684_cov_54.898670_8					
+NODE_1491_length_19684_cov_54.898670_9					
+NODE_1491_length_19684_cov_54.898670_10					
+NODE_1491_length_19684_cov_54.898670_12					
+NODE_1491_length_19684_cov_54.898670_14	K07991	flaK; archaeal preflagellin peptidase FlaK [EC:3.4.23.52]			
+NODE_1491_length_19684_cov_54.898670_16					
+NODE_1491_length_19684_cov_54.898670_19					
+NODE_1491_length_19684_cov_54.898670_23					
+NODE_1515_length_19469_cov_74.098434_1	K00626	ACAT, atoB; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]			
+NODE_1515_length_19469_cov_74.098434_2	K00003	hom; homoserine dehydrogenase [EC:1.1.1.3]			
+NODE_1515_length_19469_cov_74.098434_3	K03981	dsbC; thiol:disulfide interchange protein DsbC [EC:5.3.4.1]			
+NODE_1515_length_19469_cov_74.098434_4	K09781	K09781; uncharacterized protein			
+NODE_1515_length_19469_cov_74.098434_5					
+NODE_1515_length_19469_cov_74.098434_6	K06179	rluC; 23S rRNA pseudouridine955/2504/2580 synthase [EC:5.4.99.24]			
+NODE_1515_length_19469_cov_74.098434_7	K01091	gph; phosphoglycolate phosphatase [EC:3.1.3.18]			
+NODE_1515_length_19469_cov_74.098434_8	K03978	engB; GTP-binding protein			
+NODE_1515_length_19469_cov_74.098434_9					
+NODE_1515_length_19469_cov_74.098434_10					
+NODE_1515_length_19469_cov_74.098434_11					
+NODE_1515_length_19469_cov_74.098434_12	K09801	K09801; uncharacterized protein			
+NODE_1515_length_19469_cov_74.098434_13	K06186	bamE, smpA; outer membrane protein assembly factor BamE			
+NODE_1515_length_19469_cov_74.098434_14	K03711	fur, zur, furB; Fur family transcriptional regulator, ferric uptake regulator			
+NODE_1610_length_18755_cov_52.864064_1					
+NODE_1610_length_18755_cov_52.864064_3					
+NODE_1610_length_18755_cov_52.864064_4					
+NODE_1610_length_18755_cov_52.864064_5					
+NODE_1610_length_18755_cov_52.864064_6					
+NODE_1610_length_18755_cov_52.864064_7					
+NODE_1610_length_18755_cov_52.864064_8					
+NODE_1610_length_18755_cov_52.864064_9					
+NODE_1610_length_18755_cov_52.864064_10					
+NODE_1610_length_18755_cov_52.864064_11					
+NODE_1864_length_17017_cov_55.599458_1					
+NODE_1864_length_17017_cov_55.599458_5					
+NODE_1864_length_17017_cov_55.599458_6					
+NODE_1864_length_17017_cov_55.599458_7					
+NODE_1864_length_17017_cov_55.599458_8					
+NODE_1864_length_17017_cov_55.599458_9					
+NODE_1864_length_17017_cov_55.599458_10					
+NODE_1864_length_17017_cov_55.599458_11					
+NODE_1864_length_17017_cov_55.599458_12					
+NODE_1864_length_17017_cov_55.599458_13	K07461	K07461; putative endonuclease			
+NODE_1864_length_17017_cov_55.599458_14					
+NODE_1962_length_16436_cov_82.379098_1	K07107	ybgC; acyl-CoA thioester hydrolase [EC:3.1.2.-]			
+NODE_1962_length_16436_cov_82.379098_3	K01719	hemD, UROS; uroporphyrinogen-III synthase [EC:4.2.1.75]			
+NODE_1962_length_16436_cov_82.379098_4	K01749	hemC, HMBS; hydroxymethylbilane synthase [EC:2.5.1.61]			
+NODE_1962_length_16436_cov_82.379098_6	K08083	algR; two-component system, LytTR family, response regulator AlgR			
+NODE_1962_length_16436_cov_82.379098_7	K08082	algZ; two-component system, LytTR family, sensor histidine kinase AlgZ [EC:2.7.13.3]			
+NODE_1962_length_16436_cov_82.379098_8	K01755	argH, ASL; argininosuccinate lyase [EC:4.3.2.1]			
+NODE_1962_length_16436_cov_82.379098_9					
+NODE_1962_length_16436_cov_82.379098_10	K02039	phoU; phosphate transport system protein			
+NODE_1962_length_16436_cov_82.379098_11	K02036	pstB; phosphate transport system ATP-binding protein [EC:7.3.2.1]			
+NODE_1962_length_16436_cov_82.379098_12	K02038	pstA; phosphate transport system permease protein			
+NODE_1962_length_16436_cov_82.379098_13	K02037	pstC; phosphate transport system permease protein			
+NODE_1962_length_16436_cov_82.379098_14	K02040	pstS; phosphate transport system substrate-binding protein			
+NODE_1962_length_16436_cov_82.379098_15	K03147	thiC; phosphomethylpyrimidine synthase [EC:4.1.99.17]			
+NODE_1986_length_16292_cov_65.927388_16					
+NODE_1986_length_16292_cov_65.927388_18					
+NODE_1986_length_16292_cov_65.927388_19					
+NODE_1986_length_16292_cov_65.927388_23					
+NODE_2193_length_15250_cov_74.461928_1					
+NODE_2193_length_15250_cov_74.461928_2	K07090	K07090; uncharacterized protein			
+NODE_2193_length_15250_cov_74.461928_3	K17686	copA, ctpA, ATP7; P-type Cu+ transporter [EC:7.2.2.8]			
+NODE_2193_length_15250_cov_74.461928_4					
+NODE_2193_length_15250_cov_74.461928_5	K00405	ccoO; cytochrome c oxidase cbb3-type subunit II			
+NODE_2193_length_15250_cov_74.461928_6	K00404	ccoN; cytochrome c oxidase cbb3-type subunit I [EC:7.1.1.9]			
+NODE_2193_length_15250_cov_74.461928_7					
+NODE_2193_length_15250_cov_74.461928_9					
+NODE_2193_length_15250_cov_74.461928_10					
+NODE_2193_length_15250_cov_74.461928_11	K17218	sqr; sulfide:quinone oxidoreductase [EC:1.8.5.4]			
+NODE_2193_length_15250_cov_74.461928_12	K03710	K03710; GntR family transcriptional regulator			
+NODE_2193_length_15250_cov_74.461928_13	K17218	sqr; sulfide:quinone oxidoreductase [EC:1.8.5.4]			
+NODE_2193_length_15250_cov_74.461928_14					
+NODE_2193_length_15250_cov_74.461928_15					
+NODE_2194_length_15245_cov_70.242791_1					
+NODE_2194_length_15245_cov_70.242791_2	K09125	yhhQ; queuosine precursor transporter			
+NODE_2194_length_15245_cov_70.242791_3					
+NODE_2194_length_15245_cov_70.242791_4					
+NODE_2194_length_15245_cov_70.242791_6					
+NODE_2260_length_14936_cov_70.574222_1					
+NODE_2260_length_14936_cov_70.574222_3	K02500	hisF; imidazole glycerol-phosphate synthase subunit HisF [EC:4.3.2.10]			
+NODE_2260_length_14936_cov_70.574222_4	K01814	hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]			
+NODE_2260_length_14936_cov_70.574222_5	K03704	cspA; cold shock protein			
+NODE_2260_length_14936_cov_70.574222_6	K02501	hisH; imidazole glycerol-phosphate synthase subunit HisH [EC:4.3.2.10]			
+NODE_2260_length_14936_cov_70.574222_7	K00286	proC; pyrroline-5-carboxylate reductase [EC:1.5.1.2]			
+NODE_2260_length_14936_cov_70.574222_8	K01693	hisB; imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]			
+NODE_2260_length_14936_cov_70.574222_10	K01874	MARS, metG; methionyl-tRNA synthetase [EC:6.1.1.10]			
+NODE_2260_length_14936_cov_70.574222_11	K01243	mtnN, mtn, pfs; adenosylhomocysteine nucleosidase [EC:3.2.2.9]			
+NODE_2260_length_14936_cov_70.574222_12	K02492	hemA; glutamyl-tRNA reductase [EC:1.2.1.70]			
+NODE_2260_length_14936_cov_70.574222_13	K01749	hemC, HMBS; hydroxymethylbilane synthase [EC:2.5.1.61]			
+NODE_2260_length_14936_cov_70.574222_14	K01719	hemD, UROS; uroporphyrinogen-III synthase [EC:4.2.1.75]			
+NODE_2260_length_14936_cov_70.574222_15	K00788	thiE; thiamine-phosphate pyrophosphorylase [EC:2.5.1.3]			
+NODE_2260_length_14936_cov_70.574222_16	K11529	gck, gckA, GLYCTK; glycerate 2-kinase [EC:2.7.1.165]			
+NODE_2260_length_14936_cov_70.574222_17					
+NODE_2397_length_14352_cov_81.185004_1					
+NODE_2397_length_14352_cov_81.185004_5	K09005	K09005; uncharacterized protein			
+NODE_2397_length_14352_cov_81.185004_7					
+NODE_2397_length_14352_cov_81.185004_8					
+NODE_2397_length_14352_cov_81.185004_11					
+NODE_2397_length_14352_cov_81.185004_15					
+NODE_2397_length_14352_cov_81.185004_19					
+NODE_2419_length_14259_cov_59.590397_1	K08679	GAE, cap1J; UDP-glucuronate 4-epimerase [EC:5.1.3.6]			
+NODE_2419_length_14259_cov_59.590397_2					
+NODE_2419_length_14259_cov_59.590397_3	K12997	rgpB; rhamnosyltransferase [EC:2.4.1.-]			
+NODE_2419_length_14259_cov_59.590397_4					
+NODE_2419_length_14259_cov_59.590397_8					
+NODE_2419_length_14259_cov_59.590397_9	K13658	gumI; beta-1,4-mannosyltransferase [EC:2.4.1.251]			
+NODE_2419_length_14259_cov_59.590397_10					
+NODE_2419_length_14259_cov_59.590397_11					
+NODE_2419_length_14259_cov_59.590397_12					
+NODE_2419_length_14259_cov_59.590397_13					
+NODE_2466_length_14061_cov_61.517207_2					
+NODE_2466_length_14061_cov_61.517207_5					
+NODE_2466_length_14061_cov_61.517207_7					
+NODE_2466_length_14061_cov_61.517207_8					
+NODE_2466_length_14061_cov_61.517207_9					
+NODE_2466_length_14061_cov_61.517207_10	K00558	DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]			
+NODE_2466_length_14061_cov_61.517207_11					
+NODE_2466_length_14061_cov_61.517207_15					
+NODE_2606_length_13570_cov_73.643137_1					
+NODE_2606_length_13570_cov_73.643137_2					
+NODE_2606_length_13570_cov_73.643137_3					
+NODE_2606_length_13570_cov_73.643137_4					
+NODE_2606_length_13570_cov_73.643137_5					
+NODE_2606_length_13570_cov_73.643137_6					
+NODE_2606_length_13570_cov_73.643137_7					
+NODE_2606_length_13570_cov_73.643137_8	K18138	acrB, mexB, adeJ, smeE, mtrD, cmeB; multidrug efflux pump			
+NODE_2606_length_13570_cov_73.643137_9	K03585	acrA, mexA, adeI, smeD, mtrC, cmeA; membrane fusion protein, multidrug efflux system			
+NODE_2606_length_13570_cov_73.643137_10	K12340	tolC, bepC, cyaE, raxC, sapF, rsaF, hasF; outer membrane protein			
+NODE_2606_length_13570_cov_73.643137_11	K22108	kstR2; TetR/AcrR family transcriptional regulator, cholesterol catabolism regulator			
+NODE_2606_length_13570_cov_73.643137_12					
+NODE_2752_length_13064_cov_76.632408_1	K07071	K07071; uncharacterized protein			
+NODE_2752_length_13064_cov_76.632408_2					
+NODE_2752_length_13064_cov_76.632408_3	K01921	ddl; D-alanine-D-alanine ligase [EC:6.3.2.4]			
+NODE_2752_length_13064_cov_76.632408_4					
+NODE_2752_length_13064_cov_76.632408_5	K07114	yfbK; Ca-activated chloride channel homolog			
+NODE_2752_length_13064_cov_76.632408_6	K02528	ksgA; 16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]			
+NODE_2752_length_13064_cov_76.632408_7	K06213	mgtE; magnesium transporter			
+NODE_2752_length_13064_cov_76.632408_8					
+NODE_2752_length_13064_cov_76.632408_9	K02197	ccmE; cytochrome c-type biogenesis protein CcmE			
+NODE_2752_length_13064_cov_76.632408_11	K02195	ccmC; heme exporter protein C			
+NODE_2752_length_13064_cov_76.632408_12	K02194	ccmB; heme exporter protein B			
+NODE_2752_length_13064_cov_76.632408_13					
+NODE_2922_length_12514_cov_57.668192_2	K00102	LDHD, dld; D-lactate dehydrogenase (cytochrome) [EC:1.1.2.4]			
+NODE_2922_length_12514_cov_57.668192_3	K01996	livF; branched-chain amino acid transport system ATP-binding protein			
+NODE_2922_length_12514_cov_57.668192_4	K01995	livG; branched-chain amino acid transport system ATP-binding protein			
+NODE_2922_length_12514_cov_57.668192_5	K01998	livM; branched-chain amino acid transport system permease protein			
+NODE_2922_length_12514_cov_57.668192_6	K11956	natD; neutral amino acid transport system permease protein			
+NODE_2922_length_12514_cov_57.668192_7	K01999	livK; branched-chain amino acid transport system substrate-binding protein			
+NODE_2922_length_12514_cov_57.668192_10					
+NODE_2922_length_12514_cov_57.668192_11					
+NODE_2922_length_12514_cov_57.668192_13					
+NODE_2922_length_12514_cov_57.668192_15	K06893	K06893; uncharacterized protein			
+NODE_2922_length_12514_cov_57.668192_16					
+NODE_2966_length_12393_cov_54.729535_4					
+NODE_2966_length_12393_cov_54.729535_5					
+NODE_2966_length_12393_cov_54.729535_6					
+NODE_2966_length_12393_cov_54.729535_7					
+NODE_2966_length_12393_cov_54.729535_8					
+NODE_2966_length_12393_cov_54.729535_9	K00797	speE, SRM, SPE3; spermidine synthase [EC:2.5.1.16]			
+NODE_2966_length_12393_cov_54.729535_10					
+NODE_2966_length_12393_cov_54.729535_11					
+NODE_3051_length_12136_cov_69.276302_1	K06158	ABCF3; ATP-binding cassette, subfamily F, member 3			
+NODE_3051_length_12136_cov_69.276302_4					
+NODE_3051_length_12136_cov_69.276302_5					
+NODE_3051_length_12136_cov_69.276302_7	K16318	trm14; tRNA (guanine6-N2)-methyltransferase [EC:2.1.1.256]			
+NODE_3051_length_12136_cov_69.276302_8	K04066	priA; primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:5.6.2.4]			
+NODE_3051_length_12136_cov_69.276302_9	K06999	K06999; phospholipase/carboxylesterase			
+NODE_3051_length_12136_cov_69.276302_10	K15975	K15975; glyoxalase family protein			
+NODE_3051_length_12136_cov_69.276302_11	K19222	menI, DHNAT; 1,4-dihydroxy-2-naphthoyl-CoA hydrolase [EC:3.1.2.28]			
+NODE_3051_length_12136_cov_69.276302_12	K09458	fabF, OXSM, CEM1; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]			
+NODE_3192_length_11828_cov_54.711119_5					
+NODE_3192_length_11828_cov_54.711119_6	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]			
+NODE_3192_length_11828_cov_54.711119_7					
+NODE_3192_length_11828_cov_54.711119_8					
+NODE_3192_length_11828_cov_54.711119_9					
+NODE_3192_length_11828_cov_54.711119_10	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]			
+NODE_3192_length_11828_cov_54.711119_11					
+NODE_3279_length_11637_cov_70.255137_1	K00850	pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]			
+NODE_3279_length_11637_cov_70.255137_2					
+NODE_3279_length_11637_cov_70.255137_3	K00684	aat; leucyl/phenylalanyl-tRNA---protein transferase [EC:2.3.2.6]			
+NODE_3279_length_11637_cov_70.255137_4					
+NODE_3279_length_11637_cov_70.255137_5					
+NODE_3279_length_11637_cov_70.255137_6	K09705	K09705; uncharacterized protein			
+NODE_3279_length_11637_cov_70.255137_7					
+NODE_3279_length_11637_cov_70.255137_8	K22330	tyrDC; tyrosine decarboxylase [EC:4.1.1.25]			
+NODE_3279_length_11637_cov_70.255137_9					
+NODE_3279_length_11637_cov_70.255137_10	K22105	fabR; TetR/AcrR family transcriptional regulator, fatty acid biosynthesis regulator			
+NODE_3279_length_11637_cov_70.255137_11	K21028	ynjE; molybdopterin synthase sulfurtransferase [EC:2.8.1.11]			
+NODE_3279_length_11637_cov_70.255137_12					
+NODE_3372_length_11450_cov_68.865818_1					
+NODE_3372_length_11450_cov_68.865818_3					
+NODE_3372_length_11450_cov_68.865818_4					
+NODE_3372_length_11450_cov_68.865818_5					
+NODE_3372_length_11450_cov_68.865818_6	K00558	DNMT1, dcm; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]			
+NODE_3384_length_11424_cov_31.780192_1					
+NODE_3384_length_11424_cov_31.780192_3					
+NODE_3384_length_11424_cov_31.780192_5					
+NODE_3394_length_11399_cov_62.832687_1					
+NODE_3394_length_11399_cov_62.832687_2	K19997	gnu; GlcNAc-P-P-Und epimerase [EC:5.1.3.26]			
+NODE_3394_length_11399_cov_62.832687_3					
+NODE_3394_length_11399_cov_62.832687_4					
+NODE_3394_length_11399_cov_62.832687_5					
+NODE_3394_length_11399_cov_62.832687_7					
+NODE_3394_length_11399_cov_62.832687_8					
+NODE_3394_length_11399_cov_62.832687_9					
+NODE_3394_length_11399_cov_62.832687_10					
+NODE_3424_length_11339_cov_69.157745_1					
+NODE_3424_length_11339_cov_69.157745_2					
+NODE_3424_length_11339_cov_69.157745_3	K21572	susD; starch-binding outer membrane protein, SusD/RagB family			
+NODE_3424_length_11339_cov_69.157745_4					
+NODE_3424_length_11339_cov_69.157745_6					
+NODE_3424_length_11339_cov_69.157745_7					
+NODE_3437_length_11307_cov_67.891930_1	K01710	rfbB, rmlB, rffG; dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]			
+NODE_3437_length_11307_cov_67.891930_2	K00012	UGDH, ugd; UDPglucose 6-dehydrogenase [EC:1.1.1.22]			
+NODE_3437_length_11307_cov_67.891930_3					
+NODE_3437_length_11307_cov_67.891930_4					
+NODE_3437_length_11307_cov_67.891930_5					
+NODE_3437_length_11307_cov_67.891930_6					
+NODE_3437_length_11307_cov_67.891930_7					
+NODE_3454_length_11274_cov_74.923701_1					
+NODE_3454_length_11274_cov_74.923701_3	K01295	cpg; glutamate carboxypeptidase [EC:3.4.17.11]			
+NODE_3454_length_11274_cov_74.923701_5					
+NODE_3454_length_11274_cov_74.923701_6					
+NODE_3454_length_11274_cov_74.923701_7					
+NODE_3454_length_11274_cov_74.923701_8					
+NODE_3454_length_11274_cov_74.923701_9	K18850	ycfD; 50S ribosomal protein L16 3-hydroxylase [EC:1.14.11.47]			
+NODE_3454_length_11274_cov_74.923701_10					
+NODE_3454_length_11274_cov_74.923701_12					
+NODE_3454_length_11274_cov_74.923701_13					
+NODE_3454_length_11274_cov_74.923701_14	K00600	glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]			
+NODE_3599_length_10990_cov_61.356013_1	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein			
+NODE_3599_length_10990_cov_61.356013_2	K02025	ABC.MS.P; multiple sugar transport system permease protein			
+NODE_3599_length_10990_cov_61.356013_3	K02026	ABC.MS.P1; multiple sugar transport system permease protein			
+NODE_3599_length_10990_cov_61.356013_4	K10112	msmX, msmK, malK, sugC, ggtA, msiK; multiple sugar transport system ATP-binding protein [EC:7.5.2.-]			
+NODE_3599_length_10990_cov_61.356013_5	K01733	thrC; threonine synthase [EC:4.2.3.1]			
+NODE_3599_length_10990_cov_61.356013_6					
+NODE_3599_length_10990_cov_61.356013_7					
+NODE_3599_length_10990_cov_61.356013_8	K11781	cofH; 5-amino-6-(D-ribitylamino)uracil---L-tyrosine 4-hydroxyphenyl transferase [EC:2.5.1.147]			
+NODE_3599_length_10990_cov_61.356013_9					
+NODE_3599_length_10990_cov_61.356013_10					
+NODE_3671_length_10827_cov_61.115670_5					
+NODE_3684_length_10801_cov_64.223060_2					
+NODE_3684_length_10801_cov_64.223060_3					
+NODE_3684_length_10801_cov_64.223060_4					
+NODE_3750_length_10651_cov_61.174689_1					
+NODE_3750_length_10651_cov_61.174689_2					
+NODE_3750_length_10651_cov_61.174689_3					
+NODE_3750_length_10651_cov_61.174689_4					
+NODE_3750_length_10651_cov_61.174689_5	K07112	K07112; uncharacterized protein			
+NODE_3750_length_10651_cov_61.174689_6	K07112	K07112; uncharacterized protein			
+NODE_3750_length_10651_cov_61.174689_7	K03671	TXN, trxA; thioredoxin			
+NODE_3750_length_10651_cov_61.174689_9					
+NODE_3750_length_10651_cov_61.174689_10	K07090	K07090; uncharacterized protein			
+NODE_3750_length_10651_cov_61.174689_11					
+NODE_3750_length_10651_cov_61.174689_12					
+NODE_3750_length_10651_cov_61.174689_14	K11717	sufS; cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]			
+NODE_3755_length_10645_cov_62.950614_1	K11780	cofG; 7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase [EC:4.3.1.32]			
+NODE_3755_length_10645_cov_62.950614_2					
+NODE_3755_length_10645_cov_62.950614_5					
+NODE_3755_length_10645_cov_62.950614_6	K00812	aspB; aspartate aminotransferase [EC:2.6.1.1]			
+NODE_3755_length_10645_cov_62.950614_7					
+NODE_3755_length_10645_cov_62.950614_8	K01439	dapE; succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]			
+NODE_3755_length_10645_cov_62.950614_9					
+NODE_3755_length_10645_cov_62.950614_10	K10974	codB; cytosine permease			
+NODE_3769_length_10627_cov_72.299376_1	K15726	czcA, cusA, cnrA; heavy metal efflux system protein			
+NODE_3769_length_10627_cov_72.299376_2	K15727	czcB, cusB, cnrB; membrane fusion protein, heavy metal efflux system			
+NODE_3769_length_10627_cov_72.299376_3	K15725	czcC, cusC, cnrC; outer membrane protein, heavy metal efflux system			
+NODE_3769_length_10627_cov_72.299376_4					
+NODE_3769_length_10627_cov_72.299376_5					
+NODE_3769_length_10627_cov_72.299376_6					
+NODE_3769_length_10627_cov_72.299376_7	K04765	mazG; nucleoside triphosphate diphosphatase [EC:3.6.1.9]			
+NODE_3910_length_10382_cov_66.186598_1					
+NODE_3910_length_10382_cov_66.186598_2					
+NODE_3910_length_10382_cov_66.186598_4					
+NODE_3910_length_10382_cov_66.186598_5	K01657	trpE; anthranilate synthase component I [EC:4.1.3.27]			
+NODE_3910_length_10382_cov_66.186598_7	K01867	WARS, trpS; tryptophanyl-tRNA synthetase [EC:6.1.1.2]			
+NODE_3910_length_10382_cov_66.186598_8	K01658	trpG; anthranilate synthase component II [EC:4.1.3.27]			
+NODE_3910_length_10382_cov_66.186598_9	K00766	trpD; anthranilate phosphoribosyltransferase [EC:2.4.2.18]			
+NODE_3910_length_10382_cov_66.186598_10	K01609	trpC; indole-3-glycerol phosphate synthase [EC:4.1.1.48]			
+NODE_3910_length_10382_cov_66.186598_11	K01817	trpF; phosphoribosylanthranilate isomerase [EC:5.3.1.24]			
+NODE_3910_length_10382_cov_66.186598_12					
+NODE_4040_length_10189_cov_75.476811_1					
+NODE_4040_length_10189_cov_75.476811_2	K11717	sufS; cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]			
+NODE_4040_length_10189_cov_75.476811_3	K02426	sufE; cysteine desulfuration protein SufE			
+NODE_4040_length_10189_cov_75.476811_4					
+NODE_4040_length_10189_cov_75.476811_5					
+NODE_4040_length_10189_cov_75.476811_6	K08988	K08988; putative membrane protein			
+NODE_4040_length_10189_cov_75.476811_7					
+NODE_4040_length_10189_cov_75.476811_8	K03530	hupB; DNA-binding protein HU-beta			
+NODE_4040_length_10189_cov_75.476811_9					
+NODE_4061_length_10169_cov_56.597390_1					
+NODE_4061_length_10169_cov_56.597390_3					
+NODE_4061_length_10169_cov_56.597390_4					
+NODE_4061_length_10169_cov_56.597390_5					
+NODE_4061_length_10169_cov_56.597390_6					
+NODE_4061_length_10169_cov_56.597390_7					
+NODE_4061_length_10169_cov_56.597390_8					
+NODE_4087_length_10119_cov_52.445548_1	K00945	cmk; CMP/dCMP kinase [EC:2.7.4.25]			
+NODE_4087_length_10119_cov_52.445548_2	K24956	ZBTB8OS; protein archease			
+NODE_4087_length_10119_cov_52.445548_3					
+NODE_4087_length_10119_cov_52.445548_10					
+NODE_4087_length_10119_cov_52.445548_11	K07333	flaJ; archaeal flagellar protein FlaJ			
+NODE_4087_length_10119_cov_52.445548_12	K07332	flaI; archaeal flagellar protein FlaI			
+NODE_4115_length_10066_cov_66.650085_1	K06881	nrnA; bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3]			
+NODE_4115_length_10066_cov_66.650085_2					
+NODE_4115_length_10066_cov_66.650085_3	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]			
+NODE_4115_length_10066_cov_66.650085_4	K03685	rnc, DROSHA, RNT1; ribonuclease III [EC:3.1.26.3]			
+NODE_4115_length_10066_cov_66.650085_5	K05602	hisN; histidinol-phosphatase [EC:3.1.3.15]			
+NODE_4115_length_10066_cov_66.650085_6					
+NODE_4115_length_10066_cov_66.650085_8	K07574	yhbY; RNA-binding protein			
+NODE_4115_length_10066_cov_66.650085_9					
+NODE_4115_length_10066_cov_66.650085_10	K07238	TC.ZIP, zupT, ZRT3, ZIP2; zinc transporter, ZIP family			
+NODE_4115_length_10066_cov_66.650085_11					
+NODE_4378_length_9610_cov_69.234328_3	K25132	hmuT, phuT, bhuT, hemT; heme transport system substrate-binding protein			
+NODE_4378_length_9610_cov_69.234328_4	K25133	hmuU, phuU, bhuU, hemU; heme transport system permease protein			
+NODE_4378_length_9610_cov_69.234328_5	K10834	hmuV, phuV, bhuV, hemV; heme transport system ATP-binding protein [EC:7.6.2.5]			
+NODE_4378_length_9610_cov_69.234328_6	K07225	hmuS; putative hemin transport protein			
+NODE_4378_length_9610_cov_69.234328_7					
+NODE_4378_length_9610_cov_69.234328_8	K16092	btuB; vitamin B12 transporter			
+NODE_4440_length_9525_cov_72.882788_1					
+NODE_4440_length_9525_cov_72.882788_2					
+NODE_4440_length_9525_cov_72.882788_3					
+NODE_4440_length_9525_cov_72.882788_5					
+NODE_4440_length_9525_cov_72.882788_6	K07114	yfbK; Ca-activated chloride channel homolog			
+NODE_4440_length_9525_cov_72.882788_7	K07114	yfbK; Ca-activated chloride channel homolog			
+NODE_4440_length_9525_cov_72.882788_8	K12410	cobB, srtN, npdA; NAD-dependent protein deacetylase/lipoamidase [EC:2.3.1.286 2.3.1.313]			
+NODE_4440_length_9525_cov_72.882788_9					
+NODE_4440_length_9525_cov_72.882788_10					
+NODE_4483_length_9466_cov_59.314313_1					
+NODE_4483_length_9466_cov_59.314313_2	K03442	mscS; small conductance mechanosensitive channel			
+NODE_4483_length_9466_cov_59.314313_3					
+NODE_4483_length_9466_cov_59.314313_6					
+NODE_4483_length_9466_cov_59.314313_7					
+NODE_4483_length_9466_cov_59.314313_8					
+NODE_4483_length_9466_cov_59.314313_9					
+NODE_4483_length_9466_cov_59.314313_10					
+NODE_4521_length_9408_cov_72.627392_1					
+NODE_4521_length_9408_cov_72.627392_2					
+NODE_4521_length_9408_cov_72.627392_3					
+NODE_4521_length_9408_cov_72.627392_4	K00343	nuoN; NADH-quinone oxidoreductase subunit N [EC:7.1.1.2]			
+NODE_4521_length_9408_cov_72.627392_5	K01724	PCBD, phhB; 4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]			
+NODE_4521_length_9408_cov_72.627392_6	K00342	nuoM; NADH-quinone oxidoreductase subunit M [EC:7.1.1.2]			
+NODE_4521_length_9408_cov_72.627392_7	K00341	nuoL; NADH-quinone oxidoreductase subunit L [EC:7.1.1.2]			
+NODE_4521_length_9408_cov_72.627392_8	K00340	nuoK; NADH-quinone oxidoreductase subunit K [EC:7.1.1.2]			
+NODE_4575_length_9348_cov_70.676854_1					
+NODE_4575_length_9348_cov_70.676854_7					
+NODE_4575_length_9348_cov_70.676854_8					
+NODE_4575_length_9348_cov_70.676854_9					
+NODE_4575_length_9348_cov_70.676854_10					
+NODE_4575_length_9348_cov_70.676854_11					
+NODE_4674_length_9206_cov_68.231232_1					
+NODE_4674_length_9206_cov_68.231232_2	K03575	mutY; A/G-specific adenine glycosylase [EC:3.2.2.31]			
+NODE_4674_length_9206_cov_68.231232_4					
+NODE_4674_length_9206_cov_68.231232_5					
+NODE_4674_length_9206_cov_68.231232_6	K03741	arsC; arsenate reductase (thioredoxin) [EC:1.20.4.4]			
+NODE_4674_length_9206_cov_68.231232_7	K03325	ACR3, arsB; arsenite transporter			
+NODE_4674_length_9206_cov_68.231232_8					
+NODE_4674_length_9206_cov_68.231232_9	K09761	rsmE; 16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193]			
+NODE_4674_length_9206_cov_68.231232_10	K01515	nudF; ADP-ribose diphosphatase [EC:3.6.1.13 3.6.1.-]			
+NODE_4690_length_9188_cov_54.796452_1					
+NODE_4690_length_9188_cov_54.796452_5					
+NODE_4690_length_9188_cov_54.796452_6					
+NODE_4690_length_9188_cov_54.796452_8					
+NODE_4690_length_9188_cov_54.796452_9	K00294	E1.2.1.88; 1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88]			
+NODE_4690_length_9188_cov_54.796452_10	K19701	ywaD; aminopeptidase YwaD [EC:3.4.11.6 3.4.11.10]			
+NODE_4690_length_9188_cov_54.796452_11					
+NODE_4728_length_9138_cov_55.481008_1	K07333	flaJ; archaeal flagellar protein FlaJ			
+NODE_4728_length_9138_cov_55.481008_2	K03799	htpX; heat shock protein HtpX [EC:3.4.24.-]			
+NODE_4728_length_9138_cov_55.481008_3					
+NODE_4728_length_9138_cov_55.481008_4					
+NODE_4728_length_9138_cov_55.481008_5	K09746	K09746; uncharacterized protein			
+NODE_4728_length_9138_cov_55.481008_6	K10725	cdc6A; archaeal cell division control protein 6			
+NODE_4728_length_9138_cov_55.481008_8					
+NODE_4749_length_9119_cov_66.249007_1					
+NODE_4749_length_9119_cov_66.249007_2					
+NODE_4749_length_9119_cov_66.249007_3	K06888	K06888; uncharacterized protein			
+NODE_4749_length_9119_cov_66.249007_4	K00626	ACAT, atoB; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]			
+NODE_4794_length_9057_cov_72.091757_2	K15736	lhgO; (S)-2-hydroxyglutarate dehydrogenase [EC:1.1.5.13]			
+NODE_4794_length_9057_cov_72.091757_3					
+NODE_4794_length_9057_cov_72.091757_4					
+NODE_4794_length_9057_cov_72.091757_5					
+NODE_4794_length_9057_cov_72.091757_6					
+NODE_4839_length_9007_cov_69.829759_1					
+NODE_4839_length_9007_cov_69.829759_2	K00681	ggt; gamma-glutamyltranspeptidase / glutathione hydrolase [EC:2.3.2.2 3.4.19.13]			
+NODE_4839_length_9007_cov_69.829759_3	K02014	TC.FEV.OM; iron complex outermembrane recepter protein			
+NODE_4839_length_9007_cov_69.829759_4					
+NODE_4839_length_9007_cov_69.829759_5					
+NODE_5084_length_8703_cov_70.111818_2					
+NODE_5084_length_8703_cov_70.111818_3	K00635	tgs, wax-dgat; diacylglycerol O-acyltransferase / wax synthase [EC:2.3.1.20 2.3.1.75]			
+NODE_5084_length_8703_cov_70.111818_4					
+NODE_5084_length_8703_cov_70.111818_5					
+NODE_5084_length_8703_cov_70.111818_6	K02067	mlaD, linM; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein			
+NODE_5084_length_8703_cov_70.111818_7	K02065	mlaF, linL, mkl; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein			
+NODE_5084_length_8703_cov_70.111818_8	K02066	mlaE, linK; phospholipid/cholesterol/gamma-HCH transport system permease protein			
+NODE_5084_length_8703_cov_70.111818_9	K04485	radA, sms; DNA repair protein RadA/Sms			
+NODE_5100_length_8688_cov_68.557164_1	K00556	trmH; tRNA (guanosine-2'-O-)-methyltransferase [EC:2.1.1.34]			
+NODE_5100_length_8688_cov_68.557164_2					
+NODE_5100_length_8688_cov_68.557164_3					
+NODE_5100_length_8688_cov_68.557164_4	K01007	pps, ppsA; pyruvate, water dikinase [EC:2.7.9.2]			
+NODE_5100_length_8688_cov_68.557164_5	K03500	rsmB, sun; 16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]			
+NODE_5100_length_8688_cov_68.557164_6					
+NODE_5129_length_8649_cov_83.961834_1	K00748	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]			
+NODE_5129_length_8649_cov_83.961834_2	K03470	rnhB; ribonuclease HII [EC:3.1.26.4]			
+NODE_5129_length_8649_cov_83.961834_3					
+NODE_5129_length_8649_cov_83.961834_4	K13747	nspC; carboxynorspermidine decarboxylase [EC:4.1.1.96]			
+NODE_5129_length_8649_cov_83.961834_5					
+NODE_5129_length_8649_cov_83.961834_7	K03799	htpX; heat shock protein HtpX [EC:3.4.24.-]			
+NODE_5129_length_8649_cov_83.961834_8					
+NODE_5202_length_8562_cov_60.650993_1					
+NODE_5202_length_8562_cov_60.650993_2					
+NODE_5202_length_8562_cov_60.650993_3					
+NODE_5202_length_8562_cov_60.650993_4					
+NODE_5202_length_8562_cov_60.650993_6					
+NODE_5229_length_8539_cov_86.536421_1					
+NODE_5229_length_8539_cov_86.536421_2					
+NODE_5229_length_8539_cov_86.536421_3	K06920	queC; 7-cyano-7-deazaguanine synthase [EC:6.3.4.20]			
+NODE_5229_length_8539_cov_86.536421_4	K10026	queE; 7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]			
+NODE_5229_length_8539_cov_86.536421_5	K01737	queD, ptpS, PTS; 6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]			
+NODE_5229_length_8539_cov_86.536421_6					
+NODE_5229_length_8539_cov_86.536421_8					
+NODE_5229_length_8539_cov_86.536421_9					
+NODE_5231_length_8535_cov_100.962736_1					
+NODE_5231_length_8535_cov_100.962736_2					
+NODE_5231_length_8535_cov_100.962736_4	K19171	dndD; DNA sulfur modification protein DndD			
+NODE_5231_length_8535_cov_100.962736_6					
+NODE_5231_length_8535_cov_100.962736_7					
+NODE_5231_length_8535_cov_100.962736_8					
+NODE_5231_length_8535_cov_100.962736_9					
+NODE_5302_length_8461_cov_57.569712_1					
+NODE_5302_length_8461_cov_57.569712_2	K02031/K02032				
+NODE_5302_length_8461_cov_57.569712_3	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein			
+NODE_5302_length_8461_cov_57.569712_4	K02033	ABC.PE.P; peptide/nickel transport system permease protein			
+NODE_5302_length_8461_cov_57.569712_5	K02034	ABC.PE.P1; peptide/nickel transport system permease protein			
+NODE_5302_length_8461_cov_57.569712_7					
+NODE_5468_length_8283_cov_67.604764_1	K07560	dtd, DTD; D-aminoacyl-tRNA deacylase [EC:3.1.1.96]			
+NODE_5468_length_8283_cov_67.604764_2	K00266	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]			
+NODE_5468_length_8283_cov_67.604764_3	K00284	GLU, gltS; glutamate synthase (ferredoxin) [EC:1.4.7.1]			
+NODE_5468_length_8283_cov_67.604764_4					
+NODE_5495_length_8255_cov_59.570732_2					
+NODE_5495_length_8255_cov_59.570732_3					
+NODE_5495_length_8255_cov_59.570732_8	K06223	dam; DNA adenine methylase [EC:2.1.1.72]			
+NODE_5569_length_8185_cov_62.561993_1					
+NODE_5569_length_8185_cov_62.561993_3	K07588	MMAA, argK; GTPase [EC:3.6.5.-]			
+NODE_5569_length_8185_cov_62.561993_4					
+NODE_5569_length_8185_cov_62.561993_5	K01847	MUT; methylmalonyl-CoA mutase [EC:5.4.99.2]			
+NODE_5569_length_8185_cov_62.561993_6	K01847	MUT; methylmalonyl-CoA mutase [EC:5.4.99.2]			
+NODE_5569_length_8185_cov_62.561993_7					
+NODE_5653_length_8099_cov_61.916459_2					
+NODE_5653_length_8099_cov_61.916459_3					
+NODE_5660_length_8088_cov_53.361882_1					
+NODE_5660_length_8088_cov_53.361882_2					
+NODE_5660_length_8088_cov_53.361882_3	K01953	asnB, ASNS; asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]			
+NODE_5660_length_8088_cov_53.361882_4					
+NODE_5660_length_8088_cov_53.361882_5					
+NODE_5660_length_8088_cov_53.361882_6					
+NODE_5660_length_8088_cov_53.361882_7					
+NODE_5677_length_8067_cov_66.623814_1					
+NODE_5677_length_8067_cov_66.623814_2					
+NODE_5677_length_8067_cov_66.623814_3					
+NODE_5677_length_8067_cov_66.623814_4	K03120	TBP, tbp; transcription initiation factor TFIID TATA-box-binding protein			
+NODE_5677_length_8067_cov_66.623814_8					
+NODE_5677_length_8067_cov_66.623814_10					
+NODE_5787_length_7965_cov_67.864981_2					
+NODE_5787_length_7965_cov_67.864981_3					
+NODE_5787_length_7965_cov_67.864981_4					
+NODE_5787_length_7965_cov_67.864981_5					
+NODE_5787_length_7965_cov_67.864981_6	K13658	gumI; beta-1,4-mannosyltransferase [EC:2.4.1.251]			
+NODE_5787_length_7965_cov_67.864981_7					
+NODE_5804_length_7951_cov_69.887031_1					
+NODE_5804_length_7951_cov_69.887031_3	K01999	livK; branched-chain amino acid transport system substrate-binding protein			
+NODE_5804_length_7951_cov_69.887031_4	K01995	livG; branched-chain amino acid transport system ATP-binding protein			
+NODE_5804_length_7951_cov_69.887031_5	K01996	livF; branched-chain amino acid transport system ATP-binding protein			
+NODE_5804_length_7951_cov_69.887031_6	K01997	livH; branched-chain amino acid transport system permease protein			
+NODE_5804_length_7951_cov_69.887031_7	K01998	livM; branched-chain amino acid transport system permease protein			
+NODE_5804_length_7951_cov_69.887031_8					
+NODE_5804_length_7951_cov_69.887031_10					
+NODE_5891_length_7884_cov_73.893601_1					
+NODE_5891_length_7884_cov_73.893601_2					
+NODE_5891_length_7884_cov_73.893601_3					
+NODE_5891_length_7884_cov_73.893601_4					
+NODE_5891_length_7884_cov_73.893601_5					
+NODE_5891_length_7884_cov_73.893601_6					
+NODE_5916_length_7861_cov_57.500769_3					
+NODE_5916_length_7861_cov_57.500769_4	K19132	csb2; CRISPR-associated protein Csb2			
+NODE_5916_length_7861_cov_57.500769_5	K19131	csb1; CRISPR-associated protein Csb1			
+NODE_6058_length_7743_cov_81.388398_1					
+NODE_6058_length_7743_cov_81.388398_2	K01082	cysQ, MET22, BPNT1; 3'(2'), 5'-bisphosphate nucleotidase [EC:3.1.3.7]			
+NODE_6058_length_7743_cov_81.388398_3					
+NODE_6058_length_7743_cov_81.388398_4					
+NODE_6058_length_7743_cov_81.388398_5	K02004	ABC.CD.P; putative ABC transport system permease protein			
+NODE_6058_length_7743_cov_81.388398_6					
+NODE_6058_length_7743_cov_81.388398_7					
+NODE_6058_length_7743_cov_81.388398_8	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein			
+NODE_6194_length_7636_cov_69.180451_1	K00024	mdh; malate dehydrogenase [EC:1.1.1.37]			
+NODE_6194_length_7636_cov_69.180451_2					
+NODE_6194_length_7636_cov_69.180451_3	K01997	livH; branched-chain amino acid transport system permease protein			
+NODE_6194_length_7636_cov_69.180451_4	K01998	livM; branched-chain amino acid transport system permease protein			
+NODE_6194_length_7636_cov_69.180451_5	K01995	livG; branched-chain amino acid transport system ATP-binding protein			
+NODE_6194_length_7636_cov_69.180451_6	K01996	livF; branched-chain amino acid transport system ATP-binding protein			
+NODE_6194_length_7636_cov_69.180451_7					
+NODE_6194_length_7636_cov_69.180451_8					
+NODE_6295_length_7551_cov_79.682631_1	K03547	sbcD, mre11; DNA repair protein SbcD/Mre11			
+NODE_6295_length_7551_cov_79.682631_2	K05366	mrcA; penicillin-binding protein 1A [EC:2.4.99.28 3.4.16.4]			
+NODE_6295_length_7551_cov_79.682631_3	K03269	lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]			
+NODE_6295_length_7551_cov_79.682631_4	K07059	rho2; rhomboid family protease [EC:3.4.21.105]			
+NODE_6295_length_7551_cov_79.682631_5	K07059	rho2; rhomboid family protease [EC:3.4.21.105]			
+NODE_6295_length_7551_cov_79.682631_6	K03526	gcpE, ispG; (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]			
+NODE_6302_length_7546_cov_62.720865_2					
+NODE_6302_length_7546_cov_62.720865_5					
+NODE_6374_length_7490_cov_64.420040_1	K26284	csg; S-layer glycoprotein			
+NODE_6374_length_7490_cov_64.420040_2					
+NODE_6374_length_7490_cov_64.420040_3					
+NODE_6393_length_7473_cov_76.515233_1	K03601	xseA; exodeoxyribonuclease VII large subunit [EC:3.1.11.6]			
+NODE_6393_length_7473_cov_76.515233_3					
+NODE_6393_length_7473_cov_76.515233_5	K21817	blh; beta-carotene 15,15'-dioxygenase [EC:1.13.11.63]			
+NODE_6393_length_7473_cov_76.515233_6	K20611	crtD; 1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase [EC:1.3.99.37]			
+NODE_6393_length_7473_cov_76.515233_7	K02495	hemN, hemZ; oxygen-independent coproporphyrinogen III oxidase [EC:1.3.98.3]			
+NODE_6481_length_7395_cov_67.374932_1					
+NODE_6497_length_7387_cov_68.158483_1	K01278	DPP4, CD26; dipeptidyl-peptidase 4 [EC:3.4.14.5]			
+NODE_6497_length_7387_cov_68.158483_2	K01465	URA4, pyrC; dihydroorotase [EC:3.5.2.3]			
+NODE_6497_length_7387_cov_68.158483_3	K06997	yggS, PROSC; PLP dependent protein			
+NODE_6497_length_7387_cov_68.158483_4	K02004	ABC.CD.P; putative ABC transport system permease protein			
+NODE_6537_length_7353_cov_67.053987_1					
+NODE_6537_length_7353_cov_67.053987_3					
+NODE_6537_length_7353_cov_67.053987_6	K04763	xerD; integrase/recombinase XerD			
+NODE_6594_length_7306_cov_56.575783_1	K23255	pilA; archaeal type IV pilus assembly protein PilA			
+NODE_6594_length_7306_cov_56.575783_6					
+NODE_6627_length_7284_cov_59.985475_1					
+NODE_6627_length_7284_cov_59.985475_2					
+NODE_6627_length_7284_cov_59.985475_3					
+NODE_6627_length_7284_cov_59.985475_4					
+NODE_6627_length_7284_cov_59.985475_5					
+NODE_6627_length_7284_cov_59.985475_6					
+NODE_6627_length_7284_cov_59.985475_7					
+NODE_6642_length_7272_cov_54.522378_2					
+NODE_6642_length_7272_cov_54.522378_3					
+NODE_6642_length_7272_cov_54.522378_5					
+NODE_6726_length_7207_cov_69.375280_3					
+NODE_6726_length_7207_cov_69.375280_4					
+NODE_6726_length_7207_cov_69.375280_5					
+NODE_6726_length_7207_cov_69.375280_7					
+NODE_6726_length_7207_cov_69.375280_8					
+NODE_6730_length_7206_cov_55.300937_2					
+NODE_6730_length_7206_cov_55.300937_4					
+NODE_6730_length_7206_cov_55.300937_6					
+NODE_6744_length_7193_cov_69.215186_1					
+NODE_6744_length_7193_cov_69.215186_4	K00793	ribE, RIB5; riboflavin synthase [EC:2.5.1.9]			
+NODE_6744_length_7193_cov_69.215186_5	K11752	ribD; diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]			
+NODE_6744_length_7193_cov_69.215186_7	K00655	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51]			
+NODE_6814_length_7135_cov_61.950565_1					
+NODE_6814_length_7135_cov_61.950565_3					
+NODE_6814_length_7135_cov_61.950565_4					
+NODE_6814_length_7135_cov_61.950565_6					
+NODE_6814_length_7135_cov_61.950565_7					
+NODE_6814_length_7135_cov_61.950565_8					
+NODE_6815_length_7134_cov_57.039130_1	K02032	ddpF; peptide/nickel transport system ATP-binding protein			
+NODE_6815_length_7134_cov_57.039130_2	K02031	ddpD; peptide/nickel transport system ATP-binding protein			
+NODE_6815_length_7134_cov_57.039130_3	K02034	ABC.PE.P1; peptide/nickel transport system permease protein			
+NODE_6815_length_7134_cov_57.039130_4	K02033	ABC.PE.P; peptide/nickel transport system permease protein			
+NODE_6815_length_7134_cov_57.039130_5	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein			
+NODE_6815_length_7134_cov_57.039130_6	K01259	pip; proline iminopeptidase [EC:3.4.11.5]			
+NODE_6850_length_7109_cov_85.847179_1	K02518	infA; translation initiation factor IF-1			
+NODE_6850_length_7109_cov_85.847179_2					
+NODE_6850_length_7109_cov_85.847179_3	K00052	leuB, IMDH; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]			
+NODE_6850_length_7109_cov_85.847179_4					
+NODE_6850_length_7109_cov_85.847179_5					
+NODE_6850_length_7109_cov_85.847179_7					
+NODE_6850_length_7109_cov_85.847179_8	K01703	leuC, IPMI-L; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]			
+NODE_7166_length_6907_cov_86.841214_1					
+NODE_7166_length_6907_cov_86.841214_3	K01588	purE; 5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]			
+NODE_7166_length_6907_cov_86.841214_4	K01589	purK; 5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]			
+NODE_7166_length_6907_cov_86.841214_5	K09768	K09768; uncharacterized protein			
+NODE_7166_length_6907_cov_86.841214_7					
+NODE_7166_length_6907_cov_86.841214_8	K04568	epmA, poxA; elongation factor P--(R)-beta-lysine ligase [EC:6.3.1.-]			
+NODE_7166_length_6907_cov_86.841214_9	K03473	pdxB; erythronate-4-phosphate dehydrogenase [EC:1.1.1.290]			
+NODE_7268_length_6834_cov_59.254462_6					
+NODE_7268_length_6834_cov_59.254462_9					
+NODE_7268_length_6834_cov_59.254462_13					
+NODE_7318_length_6803_cov_9.119443_1					
+NODE_7318_length_6803_cov_9.119443_5					
+NODE_7318_length_6803_cov_9.119443_6					
+NODE_7473_length_6712_cov_66.398077_1					
+NODE_7473_length_6712_cov_66.398077_2					
+NODE_7473_length_6712_cov_66.398077_4	K00831	serC, PSAT1; phosphoserine aminotransferase [EC:2.6.1.52]			
+NODE_7473_length_6712_cov_66.398077_5	K00324	pntA; proton-translocating NAD(P)+ transhydrogenase subunit alpha [EC:7.1.1.1]			
+NODE_7473_length_6712_cov_66.398077_6	K00324	pntA; proton-translocating NAD(P)+ transhydrogenase subunit alpha [EC:7.1.1.1]			
+NODE_7473_length_6712_cov_66.398077_7	K00325	pntB; proton-translocating NAD(P)+ transhydrogenase subunit beta [EC:7.1.1.1]			
+NODE_7473_length_6712_cov_66.398077_8	K10804	tesA; acyl-CoA thioesterase I [EC:3.1.2.- 3.1.2.2 3.1.1.2 3.1.1.5]			
+NODE_7487_length_6702_cov_77.300737_1					
+NODE_7487_length_6702_cov_77.300737_2					
+NODE_7487_length_6702_cov_77.300737_3					
+NODE_7487_length_6702_cov_77.300737_4	K13057	treT; trehalose synthase [EC:2.4.1.245]			
+NODE_7498_length_6696_cov_67.787381_2					
+NODE_7498_length_6696_cov_67.787381_4					
+NODE_7504_length_6693_cov_75.092046_1					
+NODE_7504_length_6693_cov_75.092046_2					
+NODE_7504_length_6693_cov_75.092046_3	K02012	afuA, fbpA; iron(III) transport system substrate-binding protein			
+NODE_7504_length_6693_cov_75.092046_4	K02011	afuB, fbpB; iron(III) transport system permease protein			
+NODE_7504_length_6693_cov_75.092046_5	K02010	afuC, fbpC; iron(III) transport system ATP-binding protein [EC:7.2.2.7]			
+NODE_7592_length_6639_cov_66.412971_1	K21147	moeZR, moeBR; sulfur-carrier protein adenylyltransferase/sulfurtransferase [EC:2.7.7.80 2.7.7.- 2.8.1.11 2.8.1.-]			
+NODE_7592_length_6639_cov_66.412971_2	K03636	moaD, cysO; sulfur-carrier protein			
+NODE_7592_length_6639_cov_66.412971_3					
+NODE_7592_length_6639_cov_66.412971_4	K12339	cysM; S-sulfo-L-cysteine synthase (O-acetyl-L-serine-dependent) [EC:2.5.1.144]			
+NODE_7592_length_6639_cov_66.412971_5					
+NODE_7592_length_6639_cov_66.412971_6					
+NODE_7664_length_6600_cov_63.478992_1					
+NODE_7664_length_6600_cov_63.478992_2					
+NODE_7664_length_6600_cov_63.478992_4					
+NODE_7727_length_6567_cov_66.235872_1					
+NODE_7727_length_6567_cov_66.235872_2					
+NODE_7727_length_6567_cov_66.235872_3					
+NODE_7727_length_6567_cov_66.235872_4					
+NODE_7727_length_6567_cov_66.235872_5					
+NODE_7727_length_6567_cov_66.235872_6					
+NODE_7758_length_6554_cov_60.714879_1					
+NODE_7758_length_6554_cov_60.714879_3					
+NODE_7758_length_6554_cov_60.714879_6					
+NODE_7758_length_6554_cov_60.714879_9					
+NODE_7771_length_6548_cov_72.898198_3					
+NODE_7771_length_6548_cov_72.898198_4					
+NODE_7771_length_6548_cov_72.898198_5					
+NODE_7811_length_6527_cov_71.649413_1					
+NODE_7811_length_6527_cov_71.649413_2	K13049	PM20D1; carboxypeptidase PM20D1 [EC:3.4.17.-]			
+NODE_7811_length_6527_cov_71.649413_3	K07259	dacB; serine-type D-Ala-D-Ala carboxypeptidase/endopeptidase (penicillin-binding protein 4) [EC:3.4.16.4 3.4.21.-]			
+NODE_7811_length_6527_cov_71.649413_4	K06374	spmB; spore maturation protein B			
+NODE_7811_length_6527_cov_71.649413_5					
+NODE_7824_length_6516_cov_69.270546_1					
+NODE_7866_length_6495_cov_60.923292_2					
+NODE_7927_length_6456_cov_65.075769_1	K15898	pseI, neuB3; pseudaminic acid synthase [EC:2.5.1.97]			
+NODE_7927_length_6456_cov_65.075769_2					
+NODE_7927_length_6456_cov_65.075769_3					
+NODE_7927_length_6456_cov_65.075769_4	K07257	spsF; spore coat polysaccharide biosynthesis protein SpsF			
+NODE_7927_length_6456_cov_65.075769_5					
+NODE_7927_length_6456_cov_65.075769_6	K15894	pseB, fnlA, wbjB; UDP-N-acetylglucosamine 4,6-dehydratase [EC:4.2.1.115]			
+NODE_8066_length_6377_cov_74.135875_1					
+NODE_8187_length_6307_cov_56.912988_1					
+NODE_8187_length_6307_cov_56.912988_5					
+NODE_8209_length_6297_cov_79.049664_1	K22223	pgp; phosphoglycolate phosphatase [EC:3.1.3.18]			
+NODE_8209_length_6297_cov_79.049664_2					
+NODE_8209_length_6297_cov_79.049664_3	K03317	TC.CNT; concentrative nucleoside transporter, CNT family			
+NODE_8209_length_6297_cov_79.049664_4					
+NODE_8209_length_6297_cov_79.049664_5					
+NODE_8259_length_6274_cov_67.484644_1					
+NODE_8259_length_6274_cov_67.484644_2	K22044	ybiO; moderate conductance mechanosensitive channel			
+NODE_8259_length_6274_cov_67.484644_3	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein			
+NODE_8259_length_6274_cov_67.484644_6	K27545	argZ; arginine dihydrolase [EC:3.5.3.27]			
+NODE_8259_length_6274_cov_67.484644_7					
+NODE_8259_length_6274_cov_67.484644_8	K02171	blaI; BlaI family transcriptional regulator, penicillinase repressor			
+NODE_8307_length_6248_cov_88.916196_1					
+NODE_8374_length_6207_cov_73.217328_1					
+NODE_8374_length_6207_cov_73.217328_2					
+NODE_8374_length_6207_cov_73.217328_3					
+NODE_8374_length_6207_cov_73.217328_4	K08602	pepF, pepB; oligoendopeptidase F [EC:3.4.24.-]			
+NODE_8422_length_6183_cov_61.362108_6					
+NODE_8496_length_6143_cov_65.385020_1					
+NODE_8496_length_6143_cov_65.385020_2					
+NODE_8565_length_6110_cov_56.880264_2					
+NODE_8565_length_6110_cov_56.880264_3					
+NODE_8565_length_6110_cov_56.880264_4	K01134	ARSA; arylsulfatase A [EC:3.1.6.8]			
+NODE_8565_length_6110_cov_56.880264_5					
+NODE_8656_length_6069_cov_83.113070_1	K02342	dnaQ; DNA polymerase III subunit epsilon [EC:2.7.7.7]			
+NODE_8656_length_6069_cov_83.113070_2	K07182	K07182; CBS domain-containing protein			
+NODE_8656_length_6069_cov_83.113070_3					
+NODE_8656_length_6069_cov_83.113070_4					
+NODE_8656_length_6069_cov_83.113070_5	K14393	actP; cation/acetate symporter			
+NODE_8814_length_5991_cov_56.220013_6					
+NODE_8851_length_5970_cov_63.245647_1					
+NODE_8851_length_5970_cov_63.245647_2					
+NODE_8851_length_5970_cov_63.245647_3					
+NODE_8946_length_5925_cov_68.881431_1	K07332	flaI; archaeal flagellar protein FlaI			
+NODE_8946_length_5925_cov_68.881431_2	K07333	flaJ; archaeal flagellar protein FlaJ			
+NODE_8946_length_5925_cov_68.881431_3					
+NODE_8964_length_5920_cov_63.678090_1					
+NODE_8964_length_5920_cov_63.678090_2					
+NODE_8964_length_5920_cov_63.678090_5					
+NODE_8964_length_5920_cov_63.678090_6					
+NODE_8964_length_5920_cov_63.678090_7	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]			
+NODE_8964_length_5920_cov_63.678090_9					
+NODE_9165_length_5824_cov_69.128618_1	K00626	ACAT, atoB; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]			
+NODE_9165_length_5824_cov_69.128618_2	K01641	HMGCS; hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10]			
+NODE_9165_length_5824_cov_69.128618_3	K08295	abmG; 2-aminobenzoate-CoA ligase [EC:6.2.1.32]			
+NODE_9165_length_5824_cov_69.128618_4	K01999	livK; branched-chain amino acid transport system substrate-binding protein			
+NODE_9249_length_5791_cov_70.402197_1	K05569	mnhE, mrpE; multicomponent Na+:H+ antiporter subunit E			
+NODE_9249_length_5791_cov_70.402197_2	K05568	mnhD, mrpD; multicomponent Na+:H+ antiporter subunit D			
+NODE_9249_length_5791_cov_70.402197_3	K05567	mnhC, mrpC; multicomponent Na+:H+ antiporter subunit C			
+NODE_9249_length_5791_cov_70.402197_4	K05566	mnhB, mrpB; multicomponent Na+:H+ antiporter subunit B			
+NODE_9249_length_5791_cov_70.402197_5	K05565	mnhA, mrpA; multicomponent Na+:H+ antiporter subunit A			
+NODE_9249_length_5791_cov_70.402197_6	K05571	mnhG, mrpG; multicomponent Na+:H+ antiporter subunit G			
+NODE_9265_length_5788_cov_62.066806_1					
+NODE_9265_length_5788_cov_62.066806_2					
+NODE_9265_length_5788_cov_62.066806_7					
+NODE_9265_length_5788_cov_62.066806_9					
+NODE_9265_length_5788_cov_62.066806_10					
+NODE_9281_length_5781_cov_68.875306_1					
+NODE_9281_length_5781_cov_68.875306_2	K23265	purQ; phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase [EC:6.3.5.3 3.5.1.2]			
+NODE_9281_length_5781_cov_68.875306_3					
+NODE_9281_length_5781_cov_68.875306_4					
+NODE_9281_length_5781_cov_68.875306_5	K28560	bcerS; bacterial ceramide synthase [EC:2.3.1.-]			
+NODE_9281_length_5781_cov_68.875306_6	K00654	SPT, spt; serine palmitoyltransferase [EC:2.3.1.50]			
+NODE_9337_length_5752_cov_63.560119_3					
+NODE_9337_length_5752_cov_63.560119_4					
+NODE_9347_length_5747_cov_53.461701_1	K04763	xerD; integrase/recombinase XerD			
+NODE_9347_length_5747_cov_53.461701_2					
+NODE_9418_length_5720_cov_64.317211_2					
+NODE_9418_length_5720_cov_64.317211_3					
+NODE_9418_length_5720_cov_64.317211_4					
+NODE_9418_length_5720_cov_64.317211_5					
+NODE_9521_length_5680_cov_68.225956_1					
+NODE_9521_length_5680_cov_68.225956_2					
+NODE_9521_length_5680_cov_68.225956_3	K00281	GLDC, gcvP; glycine cleavage system P protein (glycine dehydrogenase) [EC:1.4.4.2]			
+NODE_9657_length_5620_cov_69.645283_1					
+NODE_9657_length_5620_cov_69.645283_2					
+NODE_9657_length_5620_cov_69.645283_3					
+NODE_9737_length_5586_cov_62.401555_1					
+NODE_9737_length_5586_cov_62.401555_2					
+NODE_9737_length_5586_cov_62.401555_3					
+NODE_9737_length_5586_cov_62.401555_4					
+NODE_9737_length_5586_cov_62.401555_6					
+NODE_9887_length_5528_cov_65.379499_4	K01489	cdd, CDA; cytidine deaminase [EC:3.5.4.5]			
+NODE_9887_length_5528_cov_65.379499_5					
+NODE_9887_length_5528_cov_65.379499_6					
+NODE_9887_length_5528_cov_65.379499_7					
+NODE_9887_length_5528_cov_65.379499_9					
+NODE_9887_length_5528_cov_65.379499_10					
+NODE_9887_length_5528_cov_65.379499_11					
+NODE_9912_length_5517_cov_64.153607_1					
+NODE_9912_length_5517_cov_64.153607_2	K06925	tsaE; tRNA threonylcarbamoyladenosine biosynthesis protein TsaE			
+NODE_9912_length_5517_cov_64.153607_3	K11754	folC; dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17]			
+NODE_9912_length_5517_cov_64.153607_4	K07221	oprO_P; phosphate-selective porin OprO and OprP			
+NODE_9912_length_5517_cov_64.153607_5					
+NODE_9924_length_5513_cov_78.787651_1					
+NODE_9924_length_5513_cov_78.787651_3	K07165	fecR; transmembrane sensor			
+NODE_9924_length_5513_cov_78.787651_4	K23514	fecI, prhI; RNA polymerase sigma-19 factor, ECF subfamily			
+NODE_9928_length_5512_cov_64.804838_1					
+NODE_9931_length_5510_cov_72.137672_1					
+NODE_9931_length_5510_cov_72.137672_2	K18138	acrB, mexB, adeJ, smeE, mtrD, cmeB; multidrug efflux pump			
+NODE_9931_length_5510_cov_72.137672_3					
+NODE_9934_length_5507_cov_54.678650_1					
+NODE_9934_length_5507_cov_54.678650_2					
+NODE_9934_length_5507_cov_54.678650_3					
+NODE_9942_length_5504_cov_63.789503_1	K01953	asnB, ASNS; asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]			
+NODE_9942_length_5504_cov_63.789503_2					
+NODE_9942_length_5504_cov_63.789503_3					
+NODE_9942_length_5504_cov_63.789503_4					
+NODE_10006_length_5475_cov_54.259225_3	K03547	sbcD, mre11; DNA repair protein SbcD/Mre11			
+NODE_10006_length_5475_cov_54.259225_4					
+NODE_10121_length_5430_cov_74.146605_1	K02039	phoU; phosphate transport system protein			
+NODE_10121_length_5430_cov_74.146605_2					
+NODE_10121_length_5430_cov_74.146605_3					
+NODE_10121_length_5430_cov_74.146605_4					
+NODE_10172_length_5410_cov_80.611204_1					
+NODE_10172_length_5410_cov_80.611204_2	K09822	K09822; uncharacterized protein			
+NODE_10172_length_5410_cov_80.611204_4					
+NODE_10172_length_5410_cov_80.611204_5					
+NODE_10322_length_5353_cov_61.127973_1					
+NODE_10322_length_5353_cov_61.127973_2					
+NODE_10322_length_5353_cov_61.127973_3					
+NODE_10322_length_5353_cov_61.127973_5					
+NODE_10322_length_5353_cov_61.127973_6	K00016	LDH, ldh; L-lactate dehydrogenase [EC:1.1.1.27]			
+NODE_10322_length_5353_cov_61.127973_7					
+NODE_10368_length_5334_cov_74.068005_1	K23514	fecI, prhI; RNA polymerase sigma-19 factor, ECF subfamily			
+NODE_10368_length_5334_cov_74.068005_2					
+NODE_10368_length_5334_cov_74.068005_3					
+NODE_10427_length_5306_cov_74.569415_1	K00331	nuoB; NADH-quinone oxidoreductase subunit B [EC:7.1.1.2]			
+NODE_10427_length_5306_cov_74.569415_2	K00330	nuoA; NADH-quinone oxidoreductase subunit A [EC:7.1.1.2]			
+NODE_10427_length_5306_cov_74.569415_4					
+NODE_10427_length_5306_cov_74.569415_5					
+NODE_10427_length_5306_cov_74.569415_6					
+NODE_10535_length_5269_cov_74.292290_1					
+NODE_10535_length_5269_cov_74.292290_3	K07050	AARSD1, ALAX; misacylated tRNA(Ala) deacylase [EC:3.1.1.-]			
+NODE_10535_length_5269_cov_74.292290_4	K06982	pok; pantoate kinase [EC:2.7.1.169]			
+NODE_10535_length_5269_cov_74.292290_5	K07116	pvdQ, quiP; acyl-homoserine-lactone acylase [EC:3.5.1.97]			
+NODE_10535_length_5269_cov_74.292290_6					
+NODE_10599_length_5245_cov_58.998459_1	K01724	PCBD, phhB; 4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]			
+NODE_10599_length_5245_cov_58.998459_2					
+NODE_10599_length_5245_cov_58.998459_4					
+NODE_10599_length_5245_cov_58.998459_5					
+NODE_10599_length_5245_cov_58.998459_6					
+NODE_10599_length_5245_cov_58.998459_7					
+NODE_10599_length_5245_cov_58.998459_8					
+NODE_10695_length_5215_cov_87.055426_1	K06173	truA, PUS1; tRNA pseudouridine38-40 synthase [EC:5.4.99.12]			
+NODE_10695_length_5215_cov_87.055426_2	K01424	E3.5.1.1, ansA, ansB; L-asparaginase [EC:3.5.1.1]			
+NODE_10695_length_5215_cov_87.055426_3					
+NODE_10695_length_5215_cov_87.055426_4					
+NODE_10696_length_5215_cov_75.048450_1					
+NODE_10696_length_5215_cov_75.048450_2					
+NODE_10696_length_5215_cov_75.048450_3					
+NODE_10878_length_5159_cov_72.148511_1	K16137	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon			
+NODE_10878_length_5159_cov_72.148511_2					
+NODE_10878_length_5159_cov_72.148511_3	K07304	msrA; peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]			
+NODE_10878_length_5159_cov_72.148511_4					
+NODE_10878_length_5159_cov_72.148511_5					
+NODE_10878_length_5159_cov_72.148511_6					
+NODE_10982_length_5121_cov_74.640545_1	K05845/K05846				
+NODE_10982_length_5121_cov_74.640545_2	K03688	ubiB, aarF; ubiquinone biosynthesis protein			
+NODE_10982_length_5121_cov_74.640545_3					
+NODE_10982_length_5121_cov_74.640545_4					
+NODE_10983_length_5121_cov_68.699566_1					
+NODE_10983_length_5121_cov_68.699566_2	K02355	fusA, GFM, EFG; elongation factor G			
+NODE_10983_length_5121_cov_68.699566_3					
+NODE_10983_length_5121_cov_68.699566_4	K09164	K09164; uncharacterized protein			
+NODE_10993_length_5116_cov_70.638807_2					
+NODE_10993_length_5116_cov_70.638807_3					
+NODE_10993_length_5116_cov_70.638807_4					
+NODE_10993_length_5116_cov_70.638807_5	K07238	TC.ZIP, zupT, ZRT3, ZIP2; zinc transporter, ZIP family			
+NODE_11016_length_5105_cov_73.635446_3	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein			
+NODE_11016_length_5105_cov_73.635446_4					
+NODE_11016_length_5105_cov_73.635446_5					
+NODE_11016_length_5105_cov_73.635446_6					
+NODE_11016_length_5105_cov_73.635446_7					
+NODE_11084_length_5080_cov_68.160796_1	K10112	msmX, msmK, malK, sugC, ggtA, msiK; multiple sugar transport system ATP-binding protein [EC:7.5.2.-]			
+NODE_11084_length_5080_cov_68.160796_2	K17317	gtsC, glcG; glucose/mannose transport system permease protein			
+NODE_11084_length_5080_cov_68.160796_3	K17316	gtsB, glcF; glucose/mannose transport system permease protein			
+NODE_11084_length_5080_cov_68.160796_4	K17315	gtsA, glcE; glucose/mannose transport system substrate-binding protein			
+NODE_11098_length_5075_cov_79.261952_1					
+NODE_11098_length_5075_cov_79.261952_2	K17865	croR; 3-hydroxybutyryl-CoA dehydratase [EC:4.2.1.55]			
+NODE_11098_length_5075_cov_79.261952_4					
+NODE_11098_length_5075_cov_79.261952_5					
+NODE_11193_length_5043_cov_62.933841_1					
+NODE_11193_length_5043_cov_62.933841_2					
+NODE_11311_length_5008_cov_71.119725_1					
+NODE_11311_length_5008_cov_71.119725_2					
+NODE_11311_length_5008_cov_71.119725_3					
+NODE_11378_length_4991_cov_68.821515_3					
+NODE_11378_length_4991_cov_68.821515_5					
+NODE_11378_length_4991_cov_68.821515_6					
+NODE_11503_length_4958_cov_73.697328_1	K01969	MCCC2, accD1; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]			
+NODE_11503_length_4958_cov_73.697328_2	K07397	yhfA; putative redox protein			
+NODE_11503_length_4958_cov_73.697328_3					
+NODE_11503_length_4958_cov_73.697328_4	K11068	hlyIII; hemolysin III			
+NODE_11503_length_4958_cov_73.697328_5	K00784	rnz; ribonuclease Z [EC:3.1.26.11]			
+NODE_11503_length_4958_cov_73.697328_6	K02523	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]			
+NODE_11831_length_4857_cov_77.841524_1					
+NODE_11831_length_4857_cov_77.841524_2					
+NODE_11831_length_4857_cov_77.841524_3					
+NODE_11831_length_4857_cov_77.841524_4					
+NODE_11831_length_4857_cov_77.841524_5	K07045	K07045; uncharacterized protein			
+NODE_11847_length_4853_cov_76.238433_1	K19689	ampS, pepS, ampT; aminopeptidase [EC:3.4.11.-]			
+NODE_11847_length_4853_cov_76.238433_3	K01113	phoD; alkaline phosphatase D [EC:3.1.3.1]			
+NODE_11847_length_4853_cov_76.238433_5	K15977	K15977; putative oxidoreductase			
+NODE_11904_length_4838_cov_56.541501_2	K07133	K07133; uncharacterized protein			
+NODE_11904_length_4838_cov_56.541501_3	K28260	vapC10_19_32; ribonuclease VapC10/19/32 [EC:3.1.-.-]			
+NODE_11904_length_4838_cov_56.541501_4					
+NODE_11904_length_4838_cov_56.541501_5					
+NODE_11904_length_4838_cov_56.541501_6					
+NODE_11904_length_4838_cov_56.541501_7					
+NODE_11904_length_4838_cov_56.541501_8					
+NODE_11929_length_4832_cov_63.076198_1	K00632	fadA, fadI; acetyl-CoA acyltransferase [EC:2.3.1.16]			
+NODE_11929_length_4832_cov_63.076198_2	K01782	fadJ; 3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase [EC:1.1.1.35 4.2.1.17 5.1.2.3]			
+NODE_11929_length_4832_cov_63.076198_3	K07028	K07028; uncharacterized protein			
+NODE_11977_length_4815_cov_55.207353_1					
+NODE_11977_length_4815_cov_55.207353_2					
+NODE_11977_length_4815_cov_55.207353_3					
+NODE_12023_length_4797_cov_74.690426_1	K00948	PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]			
+NODE_12023_length_4797_cov_74.690426_2	K02897	RP-L25, rplY; large subunit ribosomal protein L25			
+NODE_12023_length_4797_cov_74.690426_3	K01056	PTH1, PTRH1, pth, spoVC; peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]			
+NODE_12023_length_4797_cov_74.690426_4	K15987	hppA; K(+)-stimulated pyrophosphate-energized sodium pump [EC:7.2.3.1]			
+NODE_12123_length_4772_cov_69.537206_1					
+NODE_12123_length_4772_cov_69.537206_3					
+NODE_12123_length_4772_cov_69.537206_4	K02549	menC; o-succinylbenzoate synthase [EC:4.2.1.113]			
+NODE_12123_length_4772_cov_69.537206_5					
+NODE_12478_length_4674_cov_71.478242_1	K06445	fadE; acyl-CoA dehydrogenase [EC:1.3.99.-]			
+NODE_12478_length_4674_cov_71.478242_2					
+NODE_12478_length_4674_cov_71.478242_3					
+NODE_12517_length_4664_cov_80.509872_1	K01214	ISA, treX; isoamylase [EC:3.2.1.68]			
+NODE_12517_length_4664_cov_80.509872_2					
+NODE_12518_length_4664_cov_78.467780_1	K03315	nhaC; Na+:H+ antiporter, NhaC family			
+NODE_12518_length_4664_cov_78.467780_2	K01724	PCBD, phhB; 4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]			
+NODE_12518_length_4664_cov_78.467780_3	K00500	phhA, PAH; phenylalanine-4-hydroxylase [EC:1.14.16.1]			
+NODE_12518_length_4664_cov_78.467780_4	K00457	HPD, hppD; 4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27]			
+NODE_12590_length_4643_cov_64.378596_5					
+NODE_12590_length_4643_cov_64.378596_6					
+NODE_12590_length_4643_cov_64.378596_7					
+NODE_12590_length_4643_cov_64.378596_8					
+NODE_12590_length_4643_cov_64.378596_9					
+NODE_12593_length_4642_cov_61.524308_1					
+NODE_12593_length_4642_cov_61.524308_2					
+NODE_12593_length_4642_cov_61.524308_3	K16556	exoM; succinoglycan biosynthesis protein ExoM [EC:2.4.-.-]			
+NODE_12593_length_4642_cov_61.524308_4					
+NODE_12593_length_4642_cov_61.524308_5					
+NODE_12653_length_4625_cov_62.294092_1					
+NODE_12653_length_4625_cov_62.294092_2					
+NODE_12653_length_4625_cov_62.294092_3					
+NODE_12778_length_4591_cov_78.222002_1					
+NODE_12778_length_4591_cov_78.222002_2					
+NODE_12778_length_4591_cov_78.222002_3					
+NODE_12890_length_4564_cov_83.415613_1					
+NODE_12890_length_4564_cov_83.415613_3					
+NODE_12890_length_4564_cov_83.415613_4					
+NODE_12890_length_4564_cov_83.415613_6					
+NODE_12933_length_4552_cov_65.252835_1					
+NODE_12933_length_4552_cov_65.252835_2					
+NODE_12933_length_4552_cov_65.252835_3					
+NODE_12948_length_4549_cov_70.498442_1	K01486	ade; adenine deaminase [EC:3.5.4.2]			
+NODE_12948_length_4549_cov_70.498442_2					
+NODE_12948_length_4549_cov_70.498442_3	K03499	trkA, ktrA, ktrC; trk/ktr system potassium uptake protein			
+NODE_12948_length_4549_cov_70.498442_4					
+NODE_12984_length_4541_cov_68.814980_1					
+NODE_12984_length_4541_cov_68.814980_4					
+NODE_12984_length_4541_cov_68.814980_5					
+NODE_12992_length_4539_cov_64.472792_1					
+NODE_12992_length_4539_cov_64.472792_2					
+NODE_13276_length_4468_cov_53.283934_2					
+NODE_13276_length_4468_cov_53.283934_3					
+NODE_13276_length_4468_cov_53.283934_4					
+NODE_13287_length_4466_cov_73.979143_1					
+NODE_13287_length_4466_cov_73.979143_2					
+NODE_13312_length_4460_cov_69.961407_2					
+NODE_13313_length_4460_cov_61.497389_1					
+NODE_13313_length_4460_cov_61.497389_3					
+NODE_13313_length_4460_cov_61.497389_4					
+NODE_13398_length_4440_cov_68.989738_1	K02470	gyrB; DNA gyrase subunit B [EC:5.6.2.2]			
+NODE_13398_length_4440_cov_68.989738_2	K02469	gyrA; DNA gyrase subunit A [EC:5.6.2.2]			
+NODE_13485_length_4419_cov_76.247021_1					
+NODE_13485_length_4419_cov_76.247021_2					
+NODE_13485_length_4419_cov_76.247021_3					
+NODE_13589_length_4389_cov_73.859022_1					
+NODE_13589_length_4389_cov_73.859022_2					
+NODE_13589_length_4389_cov_73.859022_3					
+NODE_13617_length_4383_cov_71.771257_1					
+NODE_13617_length_4383_cov_71.771257_2					
+NODE_13930_length_4312_cov_81.361287_1	K04043	dnaK, HSPA9; molecular chaperone DnaK			
+NODE_13930_length_4312_cov_81.361287_2	K00995	PGS1, pgsA; CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]			
+NODE_13930_length_4312_cov_81.361287_3	K00762	pyrE; orotate phosphoribosyltransferase [EC:2.4.2.10]			
+NODE_13930_length_4312_cov_81.361287_4					
+NODE_13974_length_4304_cov_52.141210_1					
+NODE_13974_length_4304_cov_52.141210_2					
+NODE_13974_length_4304_cov_52.141210_5	K03265	ETF1, ERF1; peptide chain release factor subunit 1			
+NODE_14125_length_4269_cov_62.152349_1					
+NODE_14125_length_4269_cov_62.152349_2					
+NODE_14150_length_4264_cov_68.086481_1					
+NODE_14160_length_4261_cov_65.796957_1					
+NODE_14160_length_4261_cov_65.796957_3					
+NODE_14160_length_4261_cov_65.796957_4					
+NODE_14160_length_4261_cov_65.796957_5	K07566	tsaC, rimN, SUA5, YRDC; L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]			
+NODE_14214_length_4250_cov_71.485101_1					
+NODE_14214_length_4250_cov_71.485101_2					
+NODE_14235_length_4245_cov_65.343198_2					
+NODE_14235_length_4245_cov_65.343198_3					
+NODE_14235_length_4245_cov_65.343198_4					
+NODE_14235_length_4245_cov_65.343198_5					
+NODE_14283_length_4236_cov_54.107151_1					
+NODE_14283_length_4236_cov_54.107151_2					
+NODE_14300_length_4233_cov_69.712542_1					
+NODE_14300_length_4233_cov_69.712542_2	K28139	fcrA; alcohol-forming fatty acyl-CoA reductase [EC:1.2.1.84]			
+NODE_14300_length_4233_cov_69.712542_3	K01551	arsA, ASNA1, GET3; arsenite/tail-anchored protein-transporting ATPase [EC:7.3.2.7 7.3.-.-]			
+NODE_14376_length_4217_cov_82.435127_1	K02014	TC.FEV.OM; iron complex outermembrane recepter protein			
+NODE_14376_length_4217_cov_82.435127_2	K03294	TC.APA; basic amino acid/polyamine antiporter, APA family			
+NODE_14403_length_4211_cov_65.412175_1					
+NODE_14403_length_4211_cov_65.412175_3					
+NODE_14403_length_4211_cov_65.412175_4					
+NODE_14403_length_4211_cov_65.412175_5					
+NODE_14403_length_4211_cov_65.412175_6					
+NODE_14419_length_4208_cov_74.822538_1					
+NODE_14419_length_4208_cov_74.822538_2	K03745	slyX; SlyX protein			
+NODE_14419_length_4208_cov_74.822538_3	K15738	uup; ABC transport system ATP-binding/permease protein			
+NODE_14432_length_4206_cov_73.915924_1	K08676	tri; tricorn protease [EC:3.4.21.-]			
+NODE_14432_length_4206_cov_73.915924_2	K02066	mlaE, linK; phospholipid/cholesterol/gamma-HCH transport system permease protein			
+NODE_14465_length_4200_cov_70.130760_2					
+NODE_14465_length_4200_cov_70.130760_3	K07116	pvdQ, quiP; acyl-homoserine-lactone acylase [EC:3.5.1.97]			
+NODE_14648_length_4162_cov_68.997809_1	K03546	sbcC, rad50; DNA repair protein SbcC/Rad50			
+NODE_14648_length_4162_cov_68.997809_2					
+NODE_14648_length_4162_cov_68.997809_3					
+NODE_14799_length_4128_cov_68.013749_1	K26937	dinF, mepA, vmrA; MATE family, multidrug efflux pump			
+NODE_14799_length_4128_cov_68.013749_2					
+NODE_14799_length_4128_cov_68.013749_3					
+NODE_14799_length_4128_cov_68.013749_4	K03284	corA; magnesium transporter			
+NODE_14919_length_4106_cov_81.601580_1					
+NODE_14919_length_4106_cov_81.601580_2					
+NODE_14919_length_4106_cov_81.601580_3					
+NODE_14919_length_4106_cov_81.601580_4	K07780	appY; AraC family transcriptional regulator, transcriptional regulator required for anaerobic and stationary phase induction of genes			
+NODE_14919_length_4106_cov_81.601580_5	K01355	ompT; omptin [EC:3.4.23.49]			
+NODE_15127_length_4071_cov_59.587151_1					
+NODE_15127_length_4071_cov_59.587151_2					
+NODE_15127_length_4071_cov_59.587151_3					
+NODE_15127_length_4071_cov_59.587151_4					
+NODE_15127_length_4071_cov_59.587151_5					
+NODE_15157_length_4064_cov_56.970317_1					
+NODE_15157_length_4064_cov_56.970317_2	K01190	lacZ; beta-galactosidase [EC:3.2.1.23]			
+NODE_15157_length_4064_cov_56.970317_3					
+NODE_15333_length_4034_cov_66.166373_1					
+NODE_15333_length_4034_cov_66.166373_2					
+NODE_15333_length_4034_cov_66.166373_3	K18244	mmgC; acyl-CoA dehydrogenase [EC:1.3.99.-]			
+NODE_15379_length_4025_cov_64.236272_1					
+NODE_15406_length_4020_cov_52.294578_1					
+NODE_15430_length_4015_cov_63.968182_1					
+NODE_15430_length_4015_cov_63.968182_2					
+NODE_15430_length_4015_cov_63.968182_3					
+NODE_15430_length_4015_cov_63.968182_4					
+NODE_15458_length_4008_cov_56.981027_1					
+NODE_15464_length_4006_cov_68.426727_1					
+NODE_15464_length_4006_cov_68.426727_3					
+NODE_15588_length_3979_cov_66.701580_1	K12942	abgT; aminobenzoyl-glutamate transport protein			
+NODE_15588_length_3979_cov_66.701580_2					
+NODE_15588_length_3979_cov_66.701580_3	K07497	K07497; putative transposase			
+NODE_15588_length_3979_cov_66.701580_4					
+NODE_15632_length_3969_cov_60.514563_1					
+NODE_15632_length_3969_cov_60.514563_2					
+NODE_15632_length_3969_cov_60.514563_3					
+NODE_15632_length_3969_cov_60.514563_4					
+NODE_16014_length_3901_cov_62.251690_1					
+NODE_16044_length_3896_cov_65.185629_1					
+NODE_16044_length_3896_cov_65.185629_2					
+NODE_16044_length_3896_cov_65.185629_3					
+NODE_16044_length_3896_cov_65.185629_4					
+NODE_16161_length_3875_cov_69.637696_1	K01778	dapF; diaminopimelate epimerase [EC:5.1.1.7]			
+NODE_16161_length_3875_cov_69.637696_2	K01439	dapE; succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]			
+NODE_16161_length_3875_cov_69.637696_3	K03539	RPP1, RPP30; ribonuclease P/MRP protein subunit RPP1 [EC:3.1.26.5]			
+NODE_16161_length_3875_cov_69.637696_4					
+NODE_16161_length_3875_cov_69.637696_5	K03537	POP5; ribonuclease P/MRP protein subunit POP5 [EC:3.1.26.5]			
+NODE_16301_length_3850_cov_74.172596_1					
+NODE_16301_length_3850_cov_74.172596_2					
+NODE_16347_length_3843_cov_77.241024_4					
+NODE_16347_length_3843_cov_77.241024_5					
+NODE_16497_length_3822_cov_54.196443_1					
+NODE_16634_length_3797_cov_63.163014_2					
+NODE_16634_length_3797_cov_63.163014_4					
+NODE_16727_length_3782_cov_74.385296_1					
+NODE_16727_length_3782_cov_74.385296_2	K07056	rsmI; 16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198]			
+NODE_16727_length_3782_cov_74.385296_3	K07091	lptF; lipopolysaccharide export system permease protein			
+NODE_16938_length_3751_cov_67.481872_1					
+NODE_16938_length_3751_cov_67.481872_2					
+NODE_16938_length_3751_cov_67.481872_4	K01735	aroB; 3-dehydroquinate synthase [EC:4.2.3.4]			
+NODE_17037_length_3736_cov_65.492529_2					
+NODE_17037_length_3736_cov_65.492529_3					
+NODE_17091_length_3728_cov_74.372720_1	K04768	acuC; acetoin utilization protein AcuC			
+NODE_17091_length_3728_cov_74.372720_2	K01929	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10]			
+NODE_17091_length_3728_cov_74.372720_3					
+NODE_17414_length_3678_cov_71.629037_1					
+NODE_17414_length_3678_cov_71.629037_2	K07082	mltG; peptidoglycan lytic transglycosylase G [EC:4.2.2.29]			
+NODE_17414_length_3678_cov_71.629037_3	K25706	tsaD; tRNA N6-adenosine threonylcarbamoyltransferase [EC:2.3.1.234]			
+NODE_17438_length_3675_cov_66.066575_1					
+NODE_17438_length_3675_cov_66.066575_2					
+NODE_17438_length_3675_cov_66.066575_3					
+NODE_17450_length_3673_cov_68.109453_1					
+NODE_17451_length_3673_cov_57.590381_1					
+NODE_17451_length_3673_cov_57.590381_2					
+NODE_17451_length_3673_cov_57.590381_3					
+NODE_17547_length_3659_cov_70.785516_1					
+NODE_17547_length_3659_cov_70.785516_2					
+NODE_17547_length_3659_cov_70.785516_3					
+NODE_17598_length_3651_cov_75.124305_1	K06041	kdsD, kpsF; arabinose-5-phosphate isomerase [EC:5.3.1.13]			
+NODE_17598_length_3651_cov_75.124305_2	K03270	kdsC; 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (KDO 8-P phosphatase) [EC:3.1.3.45]			
+NODE_17598_length_3651_cov_75.124305_4	K09774	lptA; lipopolysaccharide export system protein LptA			
+NODE_17598_length_3651_cov_75.124305_5	K06861	lptB; lipopolysaccharide export system ATP-binding protein [EC:7.5.2.5]			
+NODE_18322_length_3552_cov_61.114384_2					
+NODE_18322_length_3552_cov_61.114384_3					
+NODE_18322_length_3552_cov_61.114384_4	K02016	ABC.FEV.S; iron complex transport system substrate-binding protein			
+NODE_18322_length_3552_cov_61.114384_5					
+NODE_18322_length_3552_cov_61.114384_6					
+NODE_18322_length_3552_cov_61.114384_7					
+NODE_18462_length_3537_cov_59.493107_1					
+NODE_18462_length_3537_cov_59.493107_2					
+NODE_18500_length_3532_cov_61.732528_2					
+NODE_18500_length_3532_cov_61.732528_3					
+NODE_18500_length_3532_cov_61.732528_4	K19091	cas6; CRISPR-associated endoribonuclease Cas6 [EC:3.1.-.-]			
+NODE_18586_length_3520_cov_69.880808_1	K07069	K07069; uncharacterized protein			
+NODE_18586_length_3520_cov_69.880808_2	K07096	K07096; uncharacterized protein			
+NODE_18586_length_3520_cov_69.880808_3	K03707	tenA; thiaminase (transcriptional activator TenA) [EC:3.5.99.2]			
+NODE_18586_length_3520_cov_69.880808_4					
+NODE_18586_length_3520_cov_69.880808_5	K02274	coxA, ctaD; cytochrome c oxidase subunit I [EC:7.1.1.9]			
+NODE_18636_length_3513_cov_72.869867_1	K03799	htpX; heat shock protein HtpX [EC:3.4.24.-]			
+NODE_18636_length_3513_cov_72.869867_3					
+NODE_18636_length_3513_cov_72.869867_4					
+NODE_18637_length_3513_cov_58.489300_4					
+NODE_18637_length_3513_cov_58.489300_5					
+NODE_18637_length_3513_cov_58.489300_6					
+NODE_18637_length_3513_cov_58.489300_7					
+NODE_18723_length_3503_cov_71.610209_1					
+NODE_18723_length_3503_cov_71.610209_3					
+NODE_18769_length_3497_cov_78.498838_1	K01934	MTHFS; 5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]			
+NODE_18769_length_3497_cov_78.498838_3	K02851	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]			
+NODE_18769_length_3497_cov_78.498838_4					
+NODE_18790_length_3494_cov_78.059610_2					
+NODE_18790_length_3494_cov_78.059610_3					
+NODE_18838_length_3488_cov_74.551995_1					
+NODE_18838_length_3488_cov_74.551995_3	K21572	susD; starch-binding outer membrane protein, SusD/RagB family			
+NODE_18871_length_3485_cov_66.601166_1					
+NODE_18871_length_3485_cov_66.601166_2	K07516	fadN; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]			
+NODE_18871_length_3485_cov_66.601166_3					
+NODE_18892_length_3481_cov_74.487449_2					
+NODE_18892_length_3481_cov_74.487449_3					
+NODE_18892_length_3481_cov_74.487449_4					
+NODE_18926_length_3477_cov_59.253361_1					
+NODE_19306_length_3427_cov_84.013345_1					
+NODE_19306_length_3427_cov_84.013345_4					
+NODE_19306_length_3427_cov_84.013345_5					
+NODE_19321_length_3425_cov_63.008309_1					
+NODE_19321_length_3425_cov_63.008309_2	K08968	msrC; L-methionine (R)-S-oxide reductase [EC:1.8.4.14]			
+NODE_19321_length_3425_cov_63.008309_3					
+NODE_19321_length_3425_cov_63.008309_4					
+NODE_19321_length_3425_cov_63.008309_5					
+NODE_19489_length_3405_cov_61.738209_1	K03527	ispH, lytB; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4]			
+NODE_19489_length_3405_cov_61.738209_2					
+NODE_19489_length_3405_cov_61.738209_3					
+NODE_19518_length_3402_cov_66.506722_1					
+NODE_19518_length_3402_cov_66.506722_2					
+NODE_19715_length_3380_cov_61.886617_3					
+NODE_19715_length_3380_cov_61.886617_4					
+NODE_19742_length_3377_cov_69.086394_1	K01637	ICL, aceA; isocitrate/methylisocitrate lyase [EC:4.1.3.1 4.1.3.30]			
+NODE_19742_length_3377_cov_69.086394_2	K01638	aceB, glcB; malate synthase [EC:2.3.3.9]			
+NODE_20063_length_3336_cov_67.821701_1					
+NODE_20063_length_3336_cov_67.821701_2					
+NODE_20202_length_3321_cov_64.672994_2					
+NODE_20202_length_3321_cov_64.672994_3					
+NODE_20202_length_3321_cov_64.672994_4					
+NODE_20297_length_3311_cov_54.260442_1					
+NODE_20432_length_3296_cov_70.351435_1	K01524	ppx-gppA; exopolyphosphatase / guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]			
+NODE_20432_length_3296_cov_70.351435_2	K02687	prmA; ribosomal protein L11 methyltransferase [EC:2.1.1.-]			
+NODE_20432_length_3296_cov_70.351435_3	K03183	ubiE; demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]			
+NODE_20432_length_3296_cov_70.351435_4	K00850	pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]			
+NODE_20518_length_3287_cov_66.747215_1					
+NODE_20518_length_3287_cov_66.747215_2	K02014	TC.FEV.OM; iron complex outermembrane recepter protein			
+NODE_20657_length_3270_cov_77.988802_1					
+NODE_20657_length_3270_cov_77.988802_2					
+NODE_20684_length_3267_cov_54.311955_1					
+NODE_20684_length_3267_cov_54.311955_4					
+NODE_20690_length_3266_cov_59.938337_2					
+NODE_20690_length_3266_cov_59.938337_5					
+NODE_20690_length_3266_cov_59.938337_7					
+NODE_20789_length_3256_cov_68.740081_2					
+NODE_20789_length_3256_cov_68.740081_3					
+NODE_20827_length_3252_cov_56.299656_1	K07496	K07496; putative transposase			
+NODE_20827_length_3252_cov_56.299656_2					
+NODE_20827_length_3252_cov_56.299656_3					
+NODE_21033_length_3228_cov_73.910180_1					
+NODE_21033_length_3228_cov_73.910180_2	K03308	TC.NSS; neurotransmitter:Na+ symporter, NSS family			
+NODE_21033_length_3228_cov_73.910180_4					
+NODE_21034_length_3228_cov_67.835172_1					
+NODE_21034_length_3228_cov_67.835172_2					
+NODE_21229_length_3205_cov_79.913968_1					
+NODE_21291_length_3198_cov_68.315304_1	K01858	INO1, ISYNA1; myo-inositol-1-phosphate synthase [EC:5.5.1.4]			
+NODE_21291_length_3198_cov_68.315304_2	K00973	rfbA, rmlA, rffH; glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]			
+NODE_21304_length_3196_cov_65.349252_1					
+NODE_21304_length_3196_cov_65.349252_2					
+NODE_21573_length_3166_cov_62.285117_1	K03771	surA; peptidyl-prolyl cis-trans isomerase SurA [EC:5.2.1.8]			
+NODE_21573_length_3166_cov_62.285117_2					
+NODE_21573_length_3166_cov_62.285117_3	K06950	K06950; uncharacterized protein			
+NODE_21573_length_3166_cov_62.285117_4					
+NODE_21865_length_3134_cov_64.273790_1	K01431	UPB1, pydC; beta-ureidopropionase [EC:3.5.1.6]			
+NODE_21865_length_3134_cov_64.273790_3	K00975	glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]			
+NODE_21865_length_3134_cov_64.273790_4					
+NODE_22003_length_3119_cov_74.890666_1	K00615	E2.2.1.1, tktA, tktB; transketolase [EC:2.2.1.1]			
+NODE_22003_length_3119_cov_74.890666_2	K06133	LYS5, acpT; 4'-phosphopantetheinyl transferase [EC:2.7.8.-]			
+NODE_22003_length_3119_cov_74.890666_3					
+NODE_22064_length_3114_cov_57.555737_1					
+NODE_22064_length_3114_cov_57.555737_2					
+NODE_22064_length_3114_cov_57.555737_3	K22227	ahbD; AdoMet-dependent heme synthase [EC:1.3.98.6]			
+NODE_22064_length_3114_cov_57.555737_4					
+NODE_22350_length_3087_cov_67.234499_1					
+NODE_22350_length_3087_cov_67.234499_2					
+NODE_22350_length_3087_cov_67.234499_3	K01534	zntA; Zn2+/Cd2+-exporting ATPase [EC:7.2.2.12 7.2.2.21]			
+NODE_22552_length_3068_cov_73.409890_1	K02065	mlaF, linL, mkl; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein			
+NODE_22552_length_3068_cov_73.409890_2	K02067	mlaD, linM; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein			
+NODE_22552_length_3068_cov_73.409890_3	K09857	pqiC; intermembrane transport lipoprotein PqiC			
+NODE_22552_length_3068_cov_73.409890_4					
+NODE_22608_length_3063_cov_92.205785_1					
+NODE_22608_length_3063_cov_92.205785_2					
+NODE_22608_length_3063_cov_92.205785_4					
+NODE_22667_length_3059_cov_58.588881_1	K00549	metE; 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]			
+NODE_22667_length_3059_cov_58.588881_2					
+NODE_22704_length_3055_cov_67.550333_1					
+NODE_22704_length_3055_cov_67.550333_2					
+NODE_22704_length_3055_cov_67.550333_5					
+NODE_22704_length_3055_cov_67.550333_6					
+NODE_22936_length_3036_cov_60.294532_1	K00366	nirA; ferredoxin-nitrite reductase [EC:1.7.7.1]			
+NODE_22936_length_3036_cov_60.294532_2					
+NODE_22958_length_3034_cov_68.639476_1					
+NODE_22958_length_3034_cov_68.639476_2	K00767	nadC, QPRT; nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]			
+NODE_22958_length_3034_cov_68.639476_3	K00278	nadB; L-aspartate oxidase [EC:1.4.3.16]			
+NODE_22971_length_3033_cov_73.846206_1					
+NODE_23090_length_3022_cov_62.111223_1	K07133	K07133; uncharacterized protein			
+NODE_23090_length_3022_cov_62.111223_2					
+NODE_23090_length_3022_cov_62.111223_4	K28279	vapC22; ribonuclease VapC22 [EC:3.1.-.-]			
+NODE_23090_length_3022_cov_62.111223_5					
+NODE_23118_length_3020_cov_74.484654_1					
+NODE_23313_length_3002_cov_78.804886_2	K02198	ccmF; cytochrome c-type biogenesis protein CcmF			
+NODE_23314_length_3002_cov_69.734985_1					
+NODE_23366_length_2996_cov_65.904114_1	K07263	pqqL; zinc protease [EC:3.4.24.-]			
+NODE_23366_length_2996_cov_65.904114_2	K07263	pqqL; zinc protease [EC:3.4.24.-]			
+NODE_23366_length_2996_cov_65.904114_3					
+NODE_23601_length_2976_cov_72.914413_1	K01337	E3.4.21.50; lysyl endopeptidase [EC:3.4.21.50]			
+NODE_23601_length_2976_cov_72.914413_2	K01588	purE; 5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]			
+NODE_23601_length_2976_cov_72.914413_3	K01589	purK; 5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]			
+NODE_23806_length_2957_cov_61.651275_1	K00973	rfbA, rmlA, rffH; glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]			
+NODE_23806_length_2957_cov_61.651275_2					
+NODE_23993_length_2941_cov_64.567568_4					
+NODE_24173_length_2927_cov_58.367688_1					
+NODE_24173_length_2927_cov_58.367688_2					
+NODE_24173_length_2927_cov_58.367688_3					
+NODE_24200_length_2924_cov_61.021610_1					
+NODE_24217_length_2922_cov_72.258110_1					
+NODE_24217_length_2922_cov_72.258110_2	K02114	ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon			
+NODE_24217_length_2922_cov_72.258110_3					
+NODE_24513_length_2898_cov_62.075976_1					
+NODE_24714_length_2881_cov_72.118896_1					
+NODE_24714_length_2881_cov_72.118896_2					
+NODE_24714_length_2881_cov_72.118896_3					
+NODE_24740_length_2878_cov_77.670917_1	K03704	cspA; cold shock protein			
+NODE_24740_length_2878_cov_77.670917_2					
+NODE_24740_length_2878_cov_77.670917_3					
+NODE_24740_length_2878_cov_77.670917_4	K07503	nucS; endonuclease [EC:3.1.-.-]			
+NODE_24740_length_2878_cov_77.670917_5	K02866	RP-L10e, RPL10; large subunit ribosomal protein L10e			
+NODE_25037_length_2855_cov_74.518571_1	K00239	sdhA, frdA; succinate dehydrogenase flavoprotein subunit [EC:1.3.5.1]			
+NODE_25037_length_2855_cov_74.518571_3					
+NODE_25075_length_2852_cov_73.398641_1					
+NODE_25075_length_2852_cov_73.398641_2					
+NODE_25075_length_2852_cov_73.398641_3	K00318	PRODH, fadM, putB; proline dehydrogenase [EC:1.5.5.2]			
+NODE_25387_length_2829_cov_78.351839_1	K02004	ABC.CD.P; putative ABC transport system permease protein			
+NODE_25387_length_2829_cov_78.351839_2					
+NODE_25542_length_2818_cov_53.415128_3					
+NODE_25542_length_2818_cov_53.415128_4	K08177	oxlT; MFS transporter, OFA family, oxalate/formate antiporter			
+NODE_25735_length_2804_cov_66.931248_2					
+NODE_25735_length_2804_cov_66.931248_4					
+NODE_25735_length_2804_cov_66.931248_5					
+NODE_26055_length_2779_cov_58.066814_1					
+NODE_26055_length_2779_cov_58.066814_2					
+NODE_26141_length_2773_cov_71.169242_1					
+NODE_26141_length_2773_cov_71.169242_2					
+NODE_26141_length_2773_cov_71.169242_3	K01011	TST, MPST, sseA; thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]			
+NODE_26299_length_2760_cov_56.780776_1					
+NODE_26364_length_2755_cov_78.520741_1	K13051	ASRGL1, iaaA; L-asparaginase / beta-aspartyl-peptidase [EC:3.5.1.1 3.4.19.5]			
+NODE_26364_length_2755_cov_78.520741_2	K02014	TC.FEV.OM; iron complex outermembrane recepter protein			
+NODE_26455_length_2749_cov_59.521901_2					
+NODE_26455_length_2749_cov_59.521901_3					
+NODE_26455_length_2749_cov_59.521901_4					
+NODE_26898_length_2720_cov_73.684428_1	K00874	kdgK; 2-dehydro-3-deoxygluconokinase [EC:2.7.1.45]			
+NODE_26898_length_2720_cov_73.684428_2	K03572	mutL; DNA mismatch repair protein MutL			
+NODE_27066_length_2708_cov_74.807388_1					
+NODE_27804_length_2662_cov_67.276563_1					
+NODE_27804_length_2662_cov_67.276563_2					
+NODE_27804_length_2662_cov_67.276563_3					
+NODE_27804_length_2662_cov_67.276563_4					
+NODE_27877_length_2657_cov_64.579170_1					
+NODE_27877_length_2657_cov_64.579170_2	K09714	tfx; HTH-type transcriptional regulator, fmd operon transcriptional regulator			
+NODE_27877_length_2657_cov_64.579170_3	K00971	manC, cpsB; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]			
+NODE_27877_length_2657_cov_64.579170_4					
+NODE_27877_length_2657_cov_64.579170_5					
+NODE_28169_length_2639_cov_73.498839_1					
+NODE_28169_length_2639_cov_73.498839_2	K02347	polX, dpx; DNA polymerase (family X)			
+NODE_28169_length_2639_cov_73.498839_3					
+NODE_28170_length_2639_cov_50.636997_2					
+NODE_28170_length_2639_cov_50.636997_3					
+NODE_28365_length_2627_cov_67.721617_1	K01537	ATP2C; P-type Ca2+ transporter type 2C [EC:7.2.2.10]			
+NODE_28398_length_2625_cov_67.625292_1					
+NODE_28398_length_2625_cov_67.625292_2					
+NODE_28398_length_2625_cov_67.625292_3	K08974	K08974; putative membrane protein			
+NODE_28398_length_2625_cov_67.625292_4					
+NODE_28577_length_2613_cov_61.831509_1					
+NODE_28577_length_2613_cov_61.831509_2					
+NODE_28577_length_2613_cov_61.831509_3					
+NODE_28832_length_2597_cov_67.686074_1	K01426	E3.5.1.4, amiE; amidase [EC:3.5.1.4]			
+NODE_28832_length_2597_cov_67.686074_2	K02016	ABC.FEV.S; iron complex transport system substrate-binding protein			
+NODE_28979_length_2588_cov_73.799447_2					
+NODE_29588_length_2554_cov_58.114846_1	K07332	flaI; archaeal flagellar protein FlaI			
+NODE_29588_length_2554_cov_58.114846_2	K07331	flaH; archaeal flagellar protein FlaH			
+NODE_29588_length_2554_cov_58.114846_3	K07330	flaG; archaeal flagellar protein FlaG			
+NODE_29726_length_2546_cov_82.960658_1					
+NODE_29726_length_2546_cov_82.960658_2					
+NODE_30124_length_2522_cov_72.531009_1	K12340	tolC, bepC, cyaE, raxC, sapF, rsaF, hasF; outer membrane protein			
+NODE_30124_length_2522_cov_72.531009_2					
+NODE_30607_length_2495_cov_73.491803_1					
+NODE_30607_length_2495_cov_73.491803_2					
+NODE_30607_length_2495_cov_73.491803_3	K00231	PPOX, hemY; protoporphyrinogen/coproporphyrinogen III oxidase [EC:1.3.3.4 1.3.3.15]			
+NODE_31139_length_2467_cov_59.663765_1	K08999	K08999; uncharacterized protein			
+NODE_31139_length_2467_cov_59.663765_2	K22136	bshC; bacillithiol synthase			
+NODE_31438_length_2452_cov_53.858156_1					
+NODE_31438_length_2452_cov_53.858156_2					
+NODE_31664_length_2440_cov_70.772327_1					
+NODE_31664_length_2440_cov_70.772327_2					
+NODE_31664_length_2440_cov_70.772327_3					
+NODE_31664_length_2440_cov_70.772327_4					
+NODE_31664_length_2440_cov_70.772327_5					
+NODE_31948_length_2427_cov_59.155143_1	K01322	PREP; prolyl oligopeptidase [EC:3.4.21.26]			
+NODE_32111_length_2419_cov_57.664129_1					
+NODE_32966_length_2376_cov_80.067643_1					
+NODE_32966_length_2376_cov_80.067643_2					
+NODE_32966_length_2376_cov_80.067643_3					
+NODE_33215_length_2364_cov_70.680814_1					
+NODE_33215_length_2364_cov_70.680814_2					
+NODE_33215_length_2364_cov_70.680814_3					
+NODE_33216_length_2364_cov_53.180598_1					
+NODE_33525_length_2350_cov_101.968192_1	K19046	casB, cse2; CRISPR system Cascade subunit CasB			
+NODE_33525_length_2350_cov_101.968192_2	K19123	casA, cse1; CRISPR system Cascade subunit CasA			
+NODE_33591_length_2347_cov_85.919284_1	K01533	copB; P-type Cu2+ transporter [EC:7.2.2.9]			
+NODE_33616_length_2346_cov_74.117852_1					
+NODE_33616_length_2346_cov_74.117852_2	K18911	egtD; L-histidine Nalpha-methyltransferase [EC:2.1.1.44]			
+NODE_33718_length_2342_cov_56.847836_1					
+NODE_34301_length_2316_cov_56.410438_1					
+NODE_34461_length_2309_cov_84.476043_1					
+NODE_34461_length_2309_cov_84.476043_2	K00067	rfbD, rmlD; dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]			
+NODE_34461_length_2309_cov_84.476043_3	K01790	rfbC, rmlC; dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13]			
+NODE_34708_length_2298_cov_76.032546_1					
+NODE_34708_length_2298_cov_76.032546_2					
+NODE_34708_length_2298_cov_76.032546_3	K05712	mhpA; 3-(3-hydroxy-phenyl)propionate hydroxylase [EC:1.14.13.127]			
+NODE_35415_length_2269_cov_67.121048_2					
+NODE_35860_length_2251_cov_74.243625_2	K07456	mutS2; DNA mismatch repair protein MutS2			
+NODE_35885_length_2250_cov_53.488838_1					
+NODE_35885_length_2250_cov_53.488838_2					
+NODE_35885_length_2250_cov_53.488838_3	K01560	E3.8.1.2; 2-haloacid dehalogenase [EC:3.8.1.2]			
+NODE_35885_length_2250_cov_53.488838_4					
+NODE_36011_length_2244_cov_69.517131_1	K01843	kamA; lysine 2,3-aminomutase [EC:5.4.3.2]			
+NODE_36011_length_2244_cov_69.517131_2	K01921	ddl; D-alanine-D-alanine ligase [EC:6.3.2.4]			
+NODE_36249_length_2234_cov_52.511244_1	K07089	K07089; uncharacterized protein			
+NODE_36249_length_2234_cov_52.511244_2	K21903	cadC, smtB; ArsR family transcriptional regulator, lead/cadmium/zinc/bismuth-responsive transcriptional repressor			
+NODE_36249_length_2234_cov_52.511244_5					
+NODE_36607_length_2219_cov_68.090573_3					
+NODE_37264_length_2193_cov_61.028999_1	K12573	rnr, vacB; ribonuclease R [EC:3.1.13.1]			
+NODE_37264_length_2193_cov_61.028999_2	K26605	azlC, brnF; branched chain amino acid efflux pump			
+NODE_37264_length_2193_cov_61.028999_3					
+NODE_37792_length_2173_cov_70.734655_1	K00604	MTFMT, fmt; methionyl-tRNA formyltransferase [EC:2.1.2.9]			
+NODE_37792_length_2173_cov_70.734655_2	K03110	ftsY; fused signal recognition particle receptor			
+NODE_37792_length_2173_cov_70.734655_3	K00995	PGS1, pgsA; CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]			
+NODE_38032_length_2164_cov_69.155998_1					
+NODE_38032_length_2164_cov_69.155998_2					
+NODE_38032_length_2164_cov_69.155998_3					
+NODE_38565_length_2145_cov_12.787560_1	K09125	yhhQ; queuosine precursor transporter			
+NODE_38565_length_2145_cov_12.787560_2					
+NODE_38596_length_2144_cov_60.748205_1					
+NODE_38596_length_2144_cov_60.748205_2					
+NODE_38596_length_2144_cov_60.748205_3					
+NODE_40709_length_2071_cov_58.670139_1					
+NODE_40709_length_2071_cov_58.670139_2	K01520	dut, DUT; dUTP diphosphatase [EC:3.6.1.23]			
+NODE_40709_length_2071_cov_58.670139_3	K03420	psmR; proteasome regulatory subunit			
+NODE_41105_length_2058_cov_54.169745_1	K00338	nuoI; NADH-quinone oxidoreductase subunit I [EC:7.1.1.2]			
+NODE_41105_length_2058_cov_54.169745_2	K00339	nuoJ; NADH-quinone oxidoreductase subunit J [EC:7.1.1.2]			
+NODE_41105_length_2058_cov_54.169745_3	K00339	nuoJ; NADH-quinone oxidoreductase subunit J [EC:7.1.1.2]			
+NODE_41105_length_2058_cov_54.169745_4	K00340	nuoK; NADH-quinone oxidoreductase subunit K [EC:7.1.1.2]			
+NODE_41105_length_2058_cov_54.169745_5					
+NODE_41494_length_2045_cov_58.160804_1					
+NODE_41494_length_2045_cov_58.160804_2					
+NODE_41999_length_2029_cov_66.208207_1	K02171	blaI; BlaI family transcriptional regulator, penicillinase repressor			
+NODE_41999_length_2029_cov_66.208207_2					
+NODE_45317_length_1935_cov_69.240426_1	K13525	VCP, CDC48; transitional endoplasmic reticulum ATPase			
+NODE_45317_length_1935_cov_69.240426_2					
+NODE_45960_length_1917_cov_59.102041_1					
+NODE_45960_length_1917_cov_59.102041_2	K17830	GGR; digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]			
+NODE_46899_length_1892_cov_73.786609_1					
+NODE_46899_length_1892_cov_73.786609_2					
+NODE_47334_length_1881_cov_64.757941_1					
+NODE_47632_length_1873_cov_63.312431_1					
+NODE_47632_length_1873_cov_63.312431_2	K07112	K07112; uncharacterized protein			
+NODE_47632_length_1873_cov_63.312431_3	K03306	TC.PIT; inorganic phosphate transporter, PiT family			
+NODE_48868_length_1842_cov_79.587017_1	K06876	phrB; (6-4)DNA photolyase [EC:4.1.99.13]			
+NODE_48868_length_1842_cov_79.587017_2					
+NODE_49070_length_1837_cov_79.810325_1					
+NODE_49070_length_1837_cov_79.810325_2	K02528	ksgA; 16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]			
+NODE_49070_length_1837_cov_79.810325_3					
+NODE_49702_length_1823_cov_64.098416_1					
+NODE_49702_length_1823_cov_64.098416_2					
+NODE_49791_length_1821_cov_74.954700_1	K06173	truA, PUS1; tRNA pseudouridine38-40 synthase [EC:5.4.99.12]			
+NODE_49791_length_1821_cov_74.954700_2	K01892	HARS, hisS; histidyl-tRNA synthetase [EC:6.1.1.21]			
+NODE_49881_length_1819_cov_73.099206_1					
+NODE_50534_length_1804_cov_104.502001_1					
+NODE_50534_length_1804_cov_104.502001_2	K08974	K08974; putative membrane protein			
+NODE_50534_length_1804_cov_104.502001_3					
+NODE_50575_length_1803_cov_82.805492_1	K05810	LACC1, yfiH; purine-nucleoside/S-methyl-5'-thioadenosine phosphorylase / adenosine deaminase [EC:2.4.2.1 2.4.2.28 3.5.4.4]			
+NODE_50575_length_1803_cov_82.805492_2					
+NODE_50575_length_1803_cov_82.805492_3					
+NODE_50877_length_1795_cov_61.355747_1					
+NODE_50877_length_1795_cov_61.355747_2					
+NODE_51707_length_1778_cov_79.419037_1					
+NODE_51707_length_1778_cov_79.419037_2					
+NODE_52382_length_1764_cov_62.942657_1					
+NODE_52382_length_1764_cov_62.942657_2	K02551	menD; 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [EC:2.2.1.9]			
+NODE_52902_length_1753_cov_64.160188_1	K07142	mptE; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3]			
+NODE_52902_length_1753_cov_64.160188_2	K01669	phr, PHR1; deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]			
+NODE_54882_length_1714_cov_62.553345_1					
+NODE_54882_length_1714_cov_62.553345_2					
+NODE_55878_length_1695_cov_74.102439_1	K00113	glpC; glycerol-3-phosphate dehydrogenase subunit C			
+NODE_55878_length_1695_cov_74.102439_2					
+NODE_56404_length_1684_cov_76.754451_1					
+NODE_56404_length_1684_cov_76.754451_2	K01652	E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]			
+NODE_56628_length_1680_cov_66.176000_3					
+NODE_56686_length_1679_cov_60.115764_1					
+NODE_56686_length_1679_cov_60.115764_2	K02232	cobQ, cbiP; adenosylcobyric acid synthase [EC:6.3.5.10]			
+NODE_60223_length_1617_cov_54.282971_1					
+NODE_64292_length_1555_cov_74.088667_1					
+NODE_64292_length_1555_cov_74.088667_2	K15977	K15977; putative oxidoreductase			
+NODE_65239_length_1541_cov_73.921265_1					
+NODE_65239_length_1541_cov_73.921265_2	K03979	obgE, cgtA, MTG2; GTPase [EC:3.6.5.-]			
+NODE_65975_length_1530_cov_75.075254_1					
+NODE_65975_length_1530_cov_75.075254_2					
+NODE_67570_length_1508_cov_78.004129_1	K00031	IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]			
+NODE_67570_length_1508_cov_78.004129_2					
